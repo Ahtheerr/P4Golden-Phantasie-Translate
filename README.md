@@ -1,4 +1,4 @@
-# P4Golden-Phantasie-Translate
+# Persona 4 Golden em Português!
 Tradução completa de Persona 4 Golden feita pela Phantasie Translate.
 
 # Como Instalar
@@ -13,3 +13,62 @@ Tradução completa de Persona 4 Golden feita pela Phantasie Translate.
 ## Linux
 - É necessário a Opção de Inicialização ``WINEDLLOVERRIDES="winmm.dll=n,b"`` para que tudo funcione corretamente no Linux.
 - Steam -> Persona 4 Golden (botão direito) -> Propriedades -> Opções de Inicialização.
+
+# Créditos
+
+## Phantasie Translate
+- Discord para reportar erros ou bater papo: https://discord.com/invite/ZXWMyQd8z3
+- Site: https://phantasietranslate.com.br/
+
+## Gerentes de tradução
+- PHSticks
+- xtremegat
+
+## Tradutores
+- Ahtheerr
+- xtremegat
+- Trots
+- PHSticks
+- Typhonn
+- Relat
+- Sakamoto
+- UaoTapioca
+- Piloot
+- Jonathan Belmont
+
+## Revisores
+- xtremegat
+- PHSticks
+- Hinrong
+
+## Designers Gráficos
+- Bruno "ShadicDzn" Luiz
+- UaoTapioca
+- Jau
+- 8giga
+
+## Velha Guarda (2020)
+- LukaMurakami (Antigo gerente do Projeto)
+- Igor Sepulveda
+- Astrid
+- Kessler
+- hp
+- VenomAbu
+- Karlaih
+- PegadaDLancha
+- 8giga
+- Light410
+- Mightyr
+- Sakamoto
+- Narukame
+- Nihilum
+- Gabiru
+- Gabrielstringhi
+- Jaken
+- Café
+- Charlinho
+- Dk
+- Will
+- Gopicolo
+- Nimbus
+- Guilbert Octaviano, Descanse em paz.
