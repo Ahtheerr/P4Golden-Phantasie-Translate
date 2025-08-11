@@ -1,0 +1,29 @@
+msg_ps_skill.bmd	0	0	<SELECT>	Yes	Sim
+msg_ps_skill.bmd	0	1	<SELECT>	No	Não
+msg_ps_skill.bmd	1	0	<EMPTY>	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} learned {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} aprendeu {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!
+msg_ps_skill.bmd	2	0	<EMPTY>	> This Persona cannot remember any{0A}more skills. Please choose one to{0A}forget.	> Essa Persona não pode se lembrar de{0A}mais habilidades. Por favor escolha{0A}uma para esquecer.
+msg_ps_skill.bmd	3	0	<EMPTY>	> Forget {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}?	> Esquecer {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}?
+msg_ps_skill.bmd	4	0	<EMPTY>	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} has forgotten {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}.	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} esqueceu {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}.
+msg_ps_skill.bmd	5	0	<EMPTY>	> {F2 01 02 01}{F2 44 02 01}{F2 01 01 01} has replaced {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}.	> {F2 01 02 01}{F2 44 02 01}{F2 01 01 01} substituiu {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}.
+msg_ps_skill.bmd	6	0	<EMPTY>	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} has powered up to{0A}{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} foi melhorada para{0A}{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!
+msg_ps_skill.bmd	7	0	<EMPTY>	> Finish replacing skills?	> Terminou de substituir habilidades?
+msg_ps_skill.bmd	0	0	<SELECT>	Yes	Sim
+msg_ps_skill.bmd	0	1	<SELECT>	No	Não
+msg_ps_skill.bmd	1	0	<EMPTY>	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} learned {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} aprendeu {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!
+msg_ps_skill.bmd	2	0	<EMPTY>	> This Persona cannot remember any{0A}more skills. Please choose one to{0A}forget.	> Essa Persona não pode se lembrar de{0A}mais habilidades. Por favor escolha{0A}uma para esquecer.
+msg_ps_skill.bmd	3	0	<EMPTY>	> Forget {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}?	> Esquecer {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}?
+msg_ps_skill.bmd	4	0	<EMPTY>	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} has forgotten {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}.	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} esqueceu {F2 01 02 01}{F2 44 02 01}{F2 01 01 01}.
+msg_ps_skill.bmd	5	0	<EMPTY>	> {F2 01 02 01}{F2 44 02 01}{F2 01 01 01} has replaced {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}.	> {F2 01 02 01}{F2 44 02 01}{F2 01 01 01} substituiu {F2 01 02 01}{F2 44 01 01}{F2 01 01 01}.
+msg_ps_skill.bmd	6	0	<EMPTY>	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} has powered up to{0A}{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!	> {F2 01 02 01}{F2 44 01 01}{F2 01 01 01} foi melhorada para{0A}{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}!
+msg_ps_skill.bmd	7	0	<EMPTY>	> Finish replacing skills?	> Terminou de substituir habilidades?
+msg_support_skill.bmd	0	0	<EMPTY>	> When selecting a target, you can{0A}check to see whether the attack will{0A}be effective or not.	> Ao selecionar um alvo, você pode{0A}checar para ver se o ataque serぁ{0A}efetivo ou não.
+msg_support_skill.bmd	1	0	<EMPTY>	> You will be able to see enemies on{0A}the map, even where you haven't{0A}explored yet.	> Você conseguirぁ ver inimigos no{0A}mapa, mesmo onde você não{0A}explorou ainda.
+msg_support_skill.bmd	2	0	<EMPTY>	> Treasure chests will be visible on{0A}the map, even where you haven't{0A}explored yet.	> Baús de tesouro serão visíveis no{0A}mapa, mesmo onde você não{0A}explorou ainda.
+msg_support_skill.bmd	3	0	<EMPTY>	> You will be told the enemy's affinity{0A}at the beginning of battle.	> Você saberぁ a afinidade do inimigo{0A}no começo da batalha.
+msg_support_skill.bmd	4	0	<EMPTY>	> All party members will recover a small{0A}amount of HP at the end of battle.	> Todos os membros do grupo recuperarão{0A}um pouco de PV no fim da batalha.
+msg_support_skill.bmd	5	0	<EMPTY>	> You will be able to successfully{0A}escape from almost all battles.	> Você conseguirぁ escapar com{0A}sucesso de quase todas batalhas.
+msg_support_skill.bmd	6	0	<EMPTY>	> A small amount of SP will be recovered{0A}at the end of battle for all party members.	> Uma pequena quantia de PE serぁ recuperada{0A}no fim da batalha para todos membros.
+msg_support_skill.bmd	7	0	<EMPTY>	> The HP recovery effect at the end{0A}of battle has become stronger.	> O efeito de recuperação de PV no fim{0A}da batalha ficou mais forte.
+msg_support_skill.bmd	8	0	<EMPTY>	> The SP recovery effect at the end{0A}of battle has become stronger.	> O efeito de recuperação de PE no fim{0A}da batalha ficou mais forte.
+msg_support_skill.bmd	9	0	<EMPTY>	> Along with the affinities you've{0A}attacked in the past, you can now learn{0A}what skills the enemy possesses as well.	> Junto com as afinidades que você{0A}atacou no passado, você pode aprender{0A}quais habilidades os inimigos possuem.
+msg_support_skill.bmd	10	0	<EMPTY>	> Along with the skills the enemy has,{0A}you can now find out about the affinities{0A}you haven't attacked in the past as well.	> Junto com as habilidades que o inimigo tem,{0A}você pode descobrir as afinidades que{0A}você não atacou no passado também.

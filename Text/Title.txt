@@ -1,0 +1,1230 @@
+animCh.bmd	0	0	<EMPTY>	This shouldn't appear	This shouldn't appear
+animCh.bmd	1	0	<EMPTY>	An invitation to the{0A}mysterious Velvet Room{0A}and a meeting with Igor{0A}and Margaret.	Um convite para a misteriosa {0A}Sala de Veludo e um encontro {0A}com Igor e Margaret.
+animCh.bmd	2	0	<EMPTY>	The protagonist moves to{0A}the countryside from the{0A}city on his own.	O protagonista se muda {0A}da cidade grande para o {0A}interior sozinho.
+animCh.bmd	3	0	<EMPTY>	While testing a rumor,{0A}the protagonist feels{0A}dizzy, hears a strange{0A}voice, and feels his hand{0A}slip into the TV.	Ao checar um boato, o {0A}protagonista sente uma tontura, {0A}escuta uma estranha voz, e {0A}vê sua mão atravessar a TV.
+animCh.bmd	4	0	<EMPTY>	Yosuke and Chie, shocked{0A}at seeing the protagonist{0A}lean into the TV, fall in{0A}with him. Inside is a{0A}strange land with thick fog.	Yosuke e Chie, chocados ao {0A}verem o protagonista entrar na TV, {0A}acabam caindo junto com ele. Lぁ {0A}dentro, hぁ um mundo estranho com {0A}uma espessa neblina.
+animCh.bmd	5	0	<EMPTY>	The protagonist and Yosuke{0A}are suddenly attacked by{0A}Shadows. Another wave of{0A}dizziness washes over him{0A}before he summons Izanagi.	Yosuke e o protagonista são {0A}atacados repentinamente pelas {0A}Sombras. Uma outra onda de {0A}tontura o aflinge antes que {0A}ele evoque Izanagi.
+animCh.bmd	6	0	<EMPTY>	When Yosuke rejects his{0A}other self, the dark{0A}Yosuke goes berserk,{0A}turns into a monster,{0A}and attacks.	Quando Yosuke rejeita o seu {0A}outro eu, o Yosuke sombrio {0A}enlouquece, se transforma em {0A}um monstro e ataca.
+animCh.bmd	7	0	<EMPTY>	The Midnight Channel is{0A}clearer than before. Once{0A}it comes into focus, it{0A}shows Yukiko, speaking and{0A}acting strangely.	O Canal da Meia-Noite estぁ mais{0A}limpo do que antes. Assim que {0A}a transmissão se inicia, Yukiko {0A}surge e começa a falar e {0A}agir estranhamente.
+animCh.bmd	8	0	<EMPTY>	When Teddie took off his head{0A}due to it being too hot to{0A}keep on, a shining, pretty boy{0A}appeared from what should've{0A}been emptiness inside.	Quando Kuma tira sua cabeça {0A}devido ao insuportぁvel calor, {0A}um belo garoto surge do que {0A}deveria ser um completo vazio.
+animCh.bmd	9	0	<EMPTY>	A man mumbles to himself in{0A}a dark room as he writes{0A}in a diary.	Um homem murmura {0A}sozinho em um quarto {0A}escuro enquanto {0A}escreve em seu díario.
+animCh.bmd	10	0	<EMPTY>	Dojima is in hot pursuit{0A}of Nanako's kidnapper,{0A}but the culprit's car{0A}slips and Dojima crashes{0A}into it.	Dojima estぁ perseguindo o {0A}sequestrador de Nanako em alta {0A}velocidade, mas o carro do {0A}culpado derrapa e Dojima acaba {0A}colidindo com ele.
+animCh.bmd	11	0	<EMPTY>	At the end of the dungeon,{0A}Namatame is holding Nanako{0A}prisoner. His Shadow goes{0A}berserk and Kunino-sagiri{0A}appears.	No fim da masmorra, Namatame {0A}mantém Nanako como prisioneira. {0A}A Sombra dele enlouquece e {0A}Kunino-sagiri surge.
+animCh.bmd	12	0	<EMPTY>	The fog has not cleared.{0A}The group sees off the{0A}protagonist as he returns{0A}to the city.	A neblina não foi embora. O {0A}grupo se despede do protagonista {0A}enquanto ele se prepara para {0A}voltar a cidade grande.
+animCh.bmd	13	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	14	0	<EMPTY>	Though Adachi was defeated,{0A}Ameno-sagiri, the cause of{0A}the fog, overtakes his{0A}consciousness.	Embora Adachi tenha sido {0A}derrotado, Ameno-sagiri, a {0A}causa da neblina, toma controle{0A}de sua consciência.
+animCh.bmd	15	0	<EMPTY>	The cause of everything{0A}finally shows its true self.	A causa de tudo finalmente{0A}mostra sua verdadeira face.
+animCh.bmd	16	0	<EMPTY>	The fog clears inside the{0A}TV world, revealing a{0A}breathtaking landscape.	A neblina se dispersa de dentro {0A}do mundo da TV, revelando uma {0A}paisagem de tirar o fôlego.
+animCh.bmd	17	0	<EMPTY>	The promised spring has{0A}come and the protagonist{0A}returns to the city.	A prometida primavera chegou {0A}e o protagonista se prepara {0A}para retornar a cidade.
+animCh.bmd	18	0	<EMPTY>	The groups sees off the{0A}protagonist as he heads{0A}back to the city.	O grupo se despede do {0A}protagonista enquanto ele se {0A}prepara para voltar para a {0A}cidade grande.
+animCh.bmd	19	0	<EMPTY>	The morning after finding{0A}out that Saki Konishi went{0A}missing, she is found dead.	Na manhã seguinte em que Saki {0A}Konishi desapareceu, seu corpo {0A}é encontrado pendurado em {0A}um poste.
+animCh.bmd	20	0	<EMPTY>	After Rise is rescued,{0A}everyone is surprised when{0A}there is another murder:{0A}King Moron, the protagonist's{0A}homeroom teacher.	Depois de resgatar Rise, todos {0A}são pegos de surpresa quando {0A}outro assassinato ocorre: O {0A}Rei Morobosta, professor do {0A}protagonista.
+animCh.bmd	21	0	<EMPTY>	"Game Software ""Persona 4""{0A}Opening animation movie"	A Abertura original da versão{0A}de Playstation 2 de Persona 4.
+animCh.bmd	22	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	23	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	24	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	25	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	26	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	27	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	28	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	29	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	30	0	<EMPTY>	This shouldn't appear.	This shouldn't appear.
+animCh.bmd	31	0	<EMPTY>	Rise invites everyone to{0A}the fireworks festival.{0A}Dojima is able to bring{0A}Nanako, and everyone has{0A}a good time.	Rise convita todos ao festival {0A}de fogos de artifício. Dojima {0A}acaba trazendo Nanako, e {0A}todos se divertem.
+animCh.bmd	32	0	<EMPTY>	After getting their licenses,{0A}the group rides their scooters{0A}to the beach. Kanji and Teddie{0A}tag along on a bicycle and{0A}rollerskates.	Após conseguirem suas {0A}carteiras, o grupo dirige suas {0A}lambretas rumo a praia. Kanji {0A}e Kuma os seguem de bicicleta {0A}e patins respectivamente.
+animCh.bmd	33	0	<EMPTY>	At Yukiko's suggestion,{0A}everyone celebrates a{0A}successful Culture Festival{0A}with a night spent at{0A}the Amagi Inn.	Como sugerido por Yukiko, {0A}todos celebram um Festival {0A}Cultural de sucesso com uma {0A}bela noite na Pousada Amagi.
+animCh.bmd	34	0	<EMPTY>	Everyone gathers at the{0A}shrine at midnight to{0A}do a two-year shrine visit.	Todos se reúnem no templo a {0A}meia-noite para passar o ano-novo.
+animCh.bmd	35	0	<EMPTY>	A ski trip provides a few{0A}last memories of winter{0A}with friends.	A viagem de esqui concede {0A}algumas últimas memórias de {0A}inverno com os amigos.
+animCh.bmd	36	0	<EMPTY>	The group takes refuge in{0A}a cottage during the ski{0A}trip. While there, a{0A}mysterious hand drags{0A}everyone into the TV.	O grupo se refugia numa chacarぁ {0A}para se proteger da nevasca {0A}durante a viagem de esqui. {0A}Enquanto estão lぁ, uma misteriosa {0A}mão os arrasta para a TV.
+animCh.bmd	37	0	<EMPTY>	After rescuing Marie, Yosuke{0A}starts a snowball fight.{0A}The girls claim victory,{0A}and everyone goes to a hot{0A}spring to warm up.	Após resgatarem Marie, Yosuke{0A}começa uma briga de bola de{0A}neve. As garotas saem vitoriosas{0A}e todos vão para as fontes {0A}termais para se esquentar.
+animCh.bmd	38	0	<EMPTY>	The protagonist rides the{0A}train back to the city{0A}through the thick fog.{0A}Going through a crossing,{0A}he sees a man outside...	O protagonista pega o trem de {0A}volta a cidade em meio a {0A}espessa neblina. Atravessando {0A}a encruzilhada, ele vê um {0A}homem do lado de fora...
+animCh.bmd	39	0	<EMPTY>	The protagonist gets a{0A}warm welcome from his{0A}friends on his visit{0A}to Inaba for the summer.	O protagonista recebe uma {0A}recepção calorosa de seus {0A}amigos em sua visita a Inaba {0A}no verão.
+animCh.bmd	40	0	<EMPTY>	The group forms a band to{0A}save the day by playing{0A}a show in lieu of a{0A}canceled event at Junes.	O grupo forma uma banda para {0A}salvar o dia tocando no {0A}lugar do show que foi {0A}cancelado na Junes.
+animCh.bmd	41	0	<EMPTY>	Marie's ending. Seeing{0A}the protagonist off.	O final de Marie. Se despede do protagonista.
+animCh.bmd	42	0	<EMPTY>	"How the protagonist's{0A}friends have grown can be{0A}seen. The song is a remix{0A}of ""Never More."""	"Como os amigos do protagonista {0A}se desenvolveram pode ser {0A}observado. A música é um {0A}remix de ""Never More."""
+animCh.bmd	43	0	<EMPTY>	The new intro for P4 Golden{0A}uses a looping effect that{0A}symbolizes how the game{0A}can be enjoyed many times.	A nova abertura de P4 Golden{0A}usa um efeito de looping que{0A}simboliza o fato de que o jogo{0A}pode ser aproveitado muitas vezes.
+artCh.bmd	0	0	<EMPTY>	Protagonist{0A}Initial design draft	Protagonista{0A}Esboço inicial de design
+artCh.bmd	1	0	<EMPTY>	Protagonist{0A}Finalized design	Protagonista{0A}Design final
+artCh.bmd	2	0	<EMPTY>	Yosuke Hanamura{0A}Finalized design	Yosuke Hanamura{0A}Design final
+artCh.bmd	3	0	<EMPTY>	Yosuke Hanamura{0A}Drag rough design	Yosuke Hanamura{0A}Esboço inicial de {0A}design drag
+artCh.bmd	4	0	<EMPTY>	Chie Satonaka{0A}Initial design draft	Chie Satonaka{0A}Esboço inicial de design
+artCh.bmd	5	0	<EMPTY>	Chie Satonaka{0A}Finalized design	Chie Satonaka{0A}Design final
+artCh.bmd	6	0	<EMPTY>	Yukiko Amagi{0A}Initial design draft 1	Yukiko Amagi{0A}Esboço inicial de design {0A}1
+artCh.bmd	7	0	<EMPTY>	Yukiko Amagi{0A}Initial design draft 2	Yukiko Amagi{0A}Esboço inicial de design {0A}2
+artCh.bmd	8	0	<EMPTY>	Kanji Tatsumi{0A}Finalized design	Kanji Tatsumi{0A}Design Final
+artCh.bmd	9	0	<EMPTY>	Kanji Tatsumi{0A}Initial design draft	Kanji Tatsumi{0A}Esboço inicial de design
+artCh.bmd	10	0	<EMPTY>	Teddie{0A}Finalized design	Kuma{0A}Design final
+artCh.bmd	11	0	<EMPTY>	Teddie{0A}Initial design draft	Kuma{0A}Esboço inicial de design
+artCh.bmd	12	0	<EMPTY>	Rise Kujikawa{0A}Finalized design	Rise Kujikawa{0A}Design final
+artCh.bmd	13	0	<EMPTY>	Rise Kujikawa{0A}Initial design draft	Rise Kujikawa{0A}Esboço inicial de design
+artCh.bmd	14	0	<EMPTY>	Naoto Shirogane{0A}Finalized design	Naoto Shirogane{0A}Design final
+artCh.bmd	15	0	<EMPTY>	Naoto Shirogane{0A}Initial design draft	Naoto Shirogane{0A}Esboço inicial de design
+artCh.bmd	16	0	<EMPTY>	Nanako Dojima{0A}Finalized design	Nanako Dojima{0A}Design final
+artCh.bmd	17	0	<EMPTY>	Nanako Dojima{0A}Initial design draft 1	Nanako Dojima{0A}Esboço inicial de design {0A}1
+artCh.bmd	18	0	<EMPTY>	Nanako Dojima{0A}Initial design draft 2	Nanako Dojima{0A}Esboço inicial de design {0A}2
+artCh.bmd	19	0	<EMPTY>	Ryotaro Dojima{0A}Finalized design	Ryotaro Dojima{0A}Design final
+artCh.bmd	20	0	<EMPTY>	Ryotaro Dojima{0A}Initial design draft	Ryotaro Dojima{0A}Esboço inicial de design
+artCh.bmd	21	0	<EMPTY>	Tohru Adachi{0A}Finalized design	Tohru Adachi{0A}Design final
+artCh.bmd	22	0	<EMPTY>	Tohru Adachi{0A}Initial design draft	Tohru Adachi{0A}Esboço inicial de design
+artCh.bmd	23	0	<EMPTY>	Marie{0A}Finalized design	Marie{0A}Design final
+artCh.bmd	24	0	<EMPTY>	Izanagi{0A}Protagonist's{0A}initial Persona	Izanagi{0A}Persona inicial{0A}do Protagonista
+artCh.bmd	25	0	<EMPTY>	Izanagi-no-Okami{0A}Protagonist's{0A}awakened Persona	Izanagi-no-Okami{0A}Persona despertado{0A}do Protagonista
+artCh.bmd	26	0	<EMPTY>	Jiraiya{0A}Yosuke Hanamura's{0A}initial Persona	Jiraiya{0A}Persona inicial{0A}de Yosuke Hanamura
+artCh.bmd	27	0	<EMPTY>	Susano-o{0A}Yosuke Hanamura's{0A}awakened Persona	Susano-o{0A}Persona despertado{0A}de Yosuke Hanamura
+artCh.bmd	28	0	<EMPTY>	Tomoe{0A}Chie Satonaka's{0A}initial Persona	Tomoe{0A}Persona inicial{0A}de Chie Satonaka
+artCh.bmd	29	0	<EMPTY>	Suzuka Gongen{0A}Chie Satonaka's{0A}awakened Persona	Suzuka Gongen{0A}Persona despertada{0A}de Chie Satonaka
+artCh.bmd	30	0	<EMPTY>	Konohana Sakuya{0A}Yukiko Amagi's{0A}initial Persona	Konohana Sakuya{0A}Persona inicial{0A}de Yukiko Amagi
+artCh.bmd	31	0	<EMPTY>	Amaterasu{0A}Yukiko Amagi's{0A}awakened Persona	Amaterasu{0A}Persona despertada{0A}de Yukiko Amagi
+artCh.bmd	32	0	<EMPTY>	Take-Mikazuchi{0A}Kanji Tatsumi's{0A}initial Persona	Take-Mikazuchi{0A}Persona inicial{0A}de Kanji Tatsumi
+artCh.bmd	33	0	<EMPTY>	Rokuten Maou{0A}Kanji Tatsumi's{0A}awakened Persona	Rokuten Maou{0A}Persona despertado{0A}de Kanji Tatsumi
+artCh.bmd	34	0	<EMPTY>	Himiko{0A}Rise Kujikawa's{0A}initial Persona	Himiko{0A}Persona inicial{0A}de Rise Kujikawa
+artCh.bmd	35	0	<EMPTY>	Kanzeon{0A}Rise Kujikawa's{0A}awakened Persona	Kanzeon{0A}Persona despertada{0A}de Rise Kujikawa
+artCh.bmd	36	0	<EMPTY>	Kintoki-Douji{0A}Teddie's initial Persona	Kintoki-Douji{0A}Persona inicial{0A}de Kuma
+artCh.bmd	37	0	<EMPTY>	Kamui{0A}Teddie's awakened{0A}Persona	Kamui{0A}Persona despertado{0A}de Kuma
+artCh.bmd	38	0	<EMPTY>	Sukuna-Hikona{0A}Naoto Shirogane's{0A}initial Persona	Sukuna-Hikona{0A}Persona inicial{0A}de Naoto Shirogane
+artCh.bmd	39	0	<EMPTY>	Yamato Takeru{0A}Naoto Shirogane's{0A}awakened Persona	Yamato Takeru{0A}Persona despertada{0A}de Naoto Shirogane
+artCh.bmd	40	0	<EMPTY>	"Game Software {0A}""Persona 4""{0A}Main visual"	Visual principal de {0A}da versão original {0A}de Persona 4
+artCh.bmd	41	0	<EMPTY>	"Game Software {0A}""Persona 4""{0A}Package"	Capa da versão original{0A}de Persona 4
+artCh.bmd	42	0	<EMPTY>	Official Persona 4 site{0A}Downloadable wallpaper	Papel de parede para {0A}download do site {0A}oficial de Persona 4
+artCh.bmd	43	0	<EMPTY>	Famitsu {0A}Cover{0A}Publisher: Enterbrain	Famitsu {0A}Capa{0A}Editora: Enterbrain
+artCh.bmd	44	0	<EMPTY>	Famitsu {0A}Back cover{0A}Publisher: Enterbrain	Famitsu {0A}Contracapa{0A}Editora: Enterbrain
+artCh.bmd	45	0	<EMPTY>	Dengeki PlayStation{0A}Cover{0A}Publisher: ASCII MEDIA{0A}WORKS	Dengeki PlayStation{0A}Capa{0A}Editora: ASCII MEDIA{0A}WORKS
+artCh.bmd	46	0	<EMPTY>	Dengeki Maou{0A}Cover{0A}Publisher: ASCII MEDIA{0A}WORKS	Dengeki Maou{0A}Capa{0A}Editora: ASCII MEDIA{0A}WORKS
+artCh.bmd	47	0	<EMPTY>	Play Magazine{0A}Cover	Play Magazine{0A}Capa
+artCh.bmd	48	0	<EMPTY>	Persona 4: Amnesia of{0A}the Fog Cover{0A}Publisher: Enterbrain	"Persona 4: capa de {0A}""Amnesia of the Fog""{0A}Editora: Enterbrain"
+artCh.bmd	49	0	<EMPTY>	Persona 4: Your{0A}Affection Cover{0A}Publisher: Enterbrain	"Persona 4: capa de {0A}""Your Affection""{0A}Editora: Enterbrain"
+artCh.bmd	50	0	<EMPTY>	Persona 4: Official Art{0A}Book Cover{0A}Publisher: Enterbrain	Persona 4: Capa do {0A}Livro de Arte Oficial{0A}Editora: Enterbrain
+artCh.bmd	51	0	<EMPTY>	Persona Club P4{0A}Cover{0A}Publisher: Enterbrain	"Capa de ""Persona Club {0A}P4""{0A}Editora: Enterbrain"
+artCh.bmd	52	0	<EMPTY>	P4 original bonus{0A}Store: GEO	Bônus original de P4{0A}Loja: GEO
+artCh.bmd	53	0	<EMPTY>	P4 original bonus{0A}Store: Messe Sanoh	Bônus original de P4{0A}Loja: Messe Sanoh
+artCh.bmd	54	0	<EMPTY>	P4 original bonus{0A}Store: Medialand	Bônus original de P4{0A}Loja: Medialand
+artCh.bmd	55	0	<EMPTY>	P4 original bonus{0A}Store: Wonder Goo	Bônus original de P4{0A}Loja: Wonder Goo
+artCh.bmd	56	0	<EMPTY>	P4 original bonus{0A}Store: 7-Eleven	Bônus original de P4{0A}Loja: 7-Eleven
+artCh.bmd	57	0	<EMPTY>	Persona 4 trading cards{0A}Promotional giveaway{0A}Seller: Frontier Works	Jogo de cartas de {0A}Persona 4 Sorteio {0A}promocional| Vendedor: {0A}Frontier Works
+artCh.bmd	58	0	<EMPTY>	Weiss Schwarz{0A}Persona 4{0A}Seller: Bushi Road	Weiss Schwarz{0A}Persona 4{0A}Vendedor: Bushi Road
+artCh.bmd	59	0	<EMPTY>	Famitsu.com special page{0A}Blog illustration	Página especial da {0A}famitsu.com {0A}Ilustração para o blog
+artCh.bmd	60	0	<EMPTY>	Persona 4 Drama CD{0A}Vol. 3 cover{0A}Seller: Frontier Works	Drama CD de Persona 4{0A}Capa do Vol. 3 {0A}Vendedor: Frontier Works
+artCh.bmd	61	0	<EMPTY>	Persona 4 Drama CD{0A}Vol. 1, 2 cover{0A}Seller: Frontier Works	Drama CD de Persona 4{0A}Capa do Vol. 1, 2 {0A}Vendedor: Frontier Works
+mode_init_help.bmd	0	0	<EMPTY>	This mode is easier than easy. Relax and{0A}enjoy the story. If your party is wiped{0A}in battle, you can instantly retry.	Esse modo é mais fácil que o fácil. Relaxe e{0A}aproveite a história. Se seu grupo for eliminado{0A}em batalha, você poderá repeti-la instantaneamente.
+mode_init_help.bmd	1	0	<EMPTY>	For those who are less than confident in{0A}their skills. The battles are easier than{0A}NORMAL mode, so don't get too worked up.	Para aqueles que são menos confiantes com{0A}suas habilidades. As batalhas são mais fぁceis que{0A}no modo NORMAL, então não se preocupe tanto.
+mode_init_help.bmd	2	0	<EMPTY>	This is the best balance of difficulty{0A}and enjoyment. Please experience the{0A}tension.	Esse é o melhor equilíbrio entre dificuldade e diversão.{0A}Experimente a tensão.
+mode_init_help.bmd	3	0	<EMPTY>	This is for the confident. Battles are{0A}more challenging, and you'll experience{0A}severe gameplay.	Esse é para os confiantes. Batalhas são{0A}desafiadoras, você irぁ experienciar uma{0A}jogabilidade mais intensa.
+mode_init_help.bmd	4	0	<EMPTY>	Do you hate yourself, or are you supremely{0A}self-confident? This difficulty requires{0A}a strength of heart that never gives in.	Você se odeia muito ou é extremamente confiante?{0A}Essa dificuldade exige a força de um coração{0A}que nunca desiste.
+mode_init.bmd	0	0	<SELECT>	Yes	Sim
+mode_init.bmd	0	1	<SELECT>	No	Não
+mode_init.bmd	1	0	<EMPTY>	> Please select the difficulty before{0A}starting the game.	> Por favor escolha a dificuldade antes{0A}de iniciar o jogo.
+mode_init.bmd	1	1	<EMPTY>	> The difficulty does not affect the{0A}story, so choose one that you will be{0A}comfortable with.	> A dificuldade não afeta a história, então{0A}escolha a que se sentir confortぁvel.{0A}{F1 21}{00}
+mode_init.bmd	2	0	<SELECT>	VERY EASY	MUITO FÁCIL
+mode_init.bmd	2	1	<SELECT>	EASY	FÁCIL
+mode_init.bmd	2	2	<SELECT>	NORMAL	NORMAL
+mode_init.bmd	2	3	<SELECT>	HARD	DIFÍCIL
+mode_init.bmd	2	4	<SELECT>	VERY HARD	MUITO FÁCIL
+mode_init.bmd	3	0	<EMPTY>	> You cannot change the difficulty{0A}during the game, but can choose another{0A}one when starting a New Game+.	> You cannot change the difficulty{0A}during the game, but can choose another{0A}one when starting a New Game+.
+mode_init.bmd	3	1	<EMPTY>	> Start at {F2 44 01 01} difficulty?	> Começar na dificuldade {F2 44 01 01}?
+mode_init.bmd	4	0	<EMPTY>	選んÙ難易度は、ゲームを開始ÈÚ後でも{0A}セーブポイントにアクセスÍるÀとで変更でõまÍ。{0A} {0A}難易度の選び方によって遊べなùなる要素などは{0A}一切含まれてãまÓんので、Â安心ùÙÃã。	選んÙ難易度は、ゲームを開始ÈÚ後でも{0A}セーブポイントにアクセスÍるÀとで変更でõまÍ。{0A} {0A}難易度の選び方によって遊べなùなる要素などは{0A}一切含まれてãまÓんので、Â安心ùÙÃã。
+mode_init.bmd	5	0	<EMPTY>	> Well, relax and have fun with{0A}the game.	> Bom, relaxe e divirta-se com o jogo.
+mode_init.bmd	6	0	<EMPTY>	> If you begin a new game, you can carry{0A}over your Persona Compendium, Skill Cards,{0A}character status, costumes, and money.	> If you begin a new game, you can carry{0A}over your Persona Compendium, Skill Cards,{0A}character status, costumes, and money.
+mode_init.bmd	6	1	<EMPTY>	> Carry over clear data?	> Carry over clear data?
+mode_init.bmd	7	0	<EMPTY>	> You can change the difficulty from the{0A}System Menu.	> Você pode mudar a dificuldade no Menu de Sistema.
+mode_init.bmd	7	1	<EMPTY>	> Start at {F2 44 01 01} difficulty?	> Começar na dificuldade {F2 44 01 01}?
+mode_init.bmd	8	0	<EMPTY>	> Do you want to begin the game without{0A}carrying over clear data?	> Do you want to begin the game without{0A}carrying over clear data?
+msg_quiz_answer.bmd	0	0	Yosuke	I'd rather completely forget the whole{0A}experience, but... Sticky!	Eu prefiro só esquecer completamente {0A}que isso aconteceu, mas... Pegajoso!
+msg_quiz_answer.bmd	1	0	Yosuke	That thing wasn't sticky...{0A}It was *icky.*	Aquela coisa não era pegajosa... Era {0A}pior que isso.
+msg_quiz_answer.bmd	2	0	Chie	We said we were sorry! Geez.	A gente já pediu desculpas! Céus.
+msg_quiz_answer.bmd	3	0	Yukiko	Umm... Gritty?	Uhh.... Areiento?
+msg_quiz_answer.bmd	4	0	Yukiko	Huh...? That wasn't it?	Hãã...? Não era isso?
+msg_quiz_answer.bmd	5	0	Yosuke	You didn't have any... You don't know{0A}what it was like! It was definitely{0A}gritty...	Você não provou... Você não faz a {0A}menor ideia de como era! Com certeza {0A}era areiento...
+msg_quiz_answer.bmd	6	0	Yukiko	I-I see... I'm sorry.	E-Entendi... Me desculpa.
+msg_quiz_answer.bmd	7	0	Yosuke	Misuzu Hiiragi!	Misuzu Hiiragi!
+msg_quiz_answer.bmd	8	0	Chie	The Midnight Channel!	O Canal da Meia-Noite!
+msg_quiz_answer.bmd	9	0	Yukiko	"Um... It's pronounced ""Daidara Bocchi""{0A}with the extra character, right?"	"Uh... Se pronuncia ""Daidara Bocchi"" {0A}com um C a mais, certo?"
+msg_quiz_answer.bmd	10	0	Yukiko	Thank goodness, I was right.	Graças a Deus, eu acertei.
+msg_quiz_answer.bmd	11	0	Yosuke	What!? That period had a meaning!?{0A}How the hell would anyone know that!?	"Que?! O ""Ponto"" tinha um {0A}significado?! Como diabos eu ia saber {0A}disso?!"
+msg_quiz_answer.bmd	12	0	Yosuke	D-Daidara period!?	D-Daidara Ponto?!
+msg_quiz_answer.bmd	13	0	Yosuke	"No way! Damn, I thought the place was{0A}just called ""Daidara""!"	"Nem ferrando! Caramba, eu achava {0A}que o lugar era chamado só de {0A}""Daidara""!"
+msg_quiz_answer.bmd	14	0	Chie	Tanaka's Amazing Commodities!	Produtos Incríveis do Tanaka!
+msg_quiz_answer.bmd	15	0	Chie	Yeah! Mom watches that show all{0A}the time.	Isso aí! Minha mãe assiste isso toda {0A}hora.
+msg_quiz_answer.bmd	16	0	Yosuke	Katana's Amazing Commodities!	Produtos Incríveis do Katana!
+msg_quiz_answer.bmd	17	0	Yosuke	Wait! Crap! My tongue slipped!	Pera! Droga! Minha língua prendeu!
+msg_quiz_answer.bmd	18	0	Chie	Granter of your desires!	Concedendo seus desejos!
+msg_quiz_answer.bmd	19	0	Chie	That's kind of a creepy phrase, now{0A}that I think about it...	Agora que eu parei pra pensar, essa {0A}frase é meio assustadora...
+msg_quiz_answer.bmd	20	0	Yukiko	Granter of your wishes!	Concedendo seus anseios!
+msg_quiz_answer.bmd	21	0	Yosuke	Every day's great at your Junes!	Todo dia é dia de Junes!
+msg_quiz_answer.bmd	22	0	Yosuke	Heheh, of course I'd know that!	Heheh, claro que eu me lembraria {0A}disso!
+msg_quiz_answer.bmd	23	0	Yosuke	Even I can handle!	Até eu possa lidar!
+msg_quiz_answer.bmd	24	0	Yukiko	Even I can take!	Até eu possa aguentar!
+msg_quiz_answer.bmd	25	0	Yukiko	Oh... That wasn't it?	Ah... Não era isso?
+msg_quiz_answer.bmd	26	0	Yukiko	Ms. Noriko Kashiwagi... right?	Srta. Noriko Kashiwagi... certo?
+msg_quiz_answer.bmd	27	0	Yosuke	T-Tomoko Kashiwagi!?	T-Tomoko Kashiwagi!?
+msg_quiz_answer.bmd	28	0	Yosuke	Arrrgh! How should I know{0A}her full name!?	Arrrgh! Como eu deveria saber  o nome {0A}inteiro dela?!
+msg_quiz_answer.bmd	29	0	Yukiko	Mr. Kinshiro Morooka!	Sr. Kinshiro Morooka!
+msg_quiz_answer.bmd	30	0	Yosuke	K-Kinjiro...!	K-Kinjiro...!
+msg_quiz_answer.bmd	31	0	Yosuke	"Damn! I got the ""Kin"" part right..."	"Droga! Eu acertei a parte do ""Kin"" pelo{0A}menos..."
+msg_quiz_answer.bmd	32	0	Chie	"Uh, yeah, ""Kin""g Moron, remember?"	"Tá mais pra ""Kinada""!"
+msg_quiz_answer.bmd	33	0	Chie	Wonderfulness!	Maravilhoso!
+msg_quiz_answer.bmd	34	0	Chie	Sheesh... I only know worthless trivia...	Caramba... Eu só sei as coisas inúteis...
+msg_quiz_answer.bmd	35	0	Yukiko	S-Sweetdiculous... ness?	D-Doçu... ra?
+msg_quiz_answer.bmd	36	0	Yosuke	The Amagi Challenge!	O Desafio Amagi!
+msg_quiz_answer.bmd	37	0	Yosuke	As one of the poor suckers who tried{0A}and failed, I oughta know what it's{0A}called.	Como um dos pobres coitados que {0A}tentou e falhou, eu tinha que saber {0A}como se chama.
+msg_quiz_answer.bmd	38	0	Yukiko	Huh? You did? I'm sorry, I don't{0A}remember...	Hã? Você tentou? Desculpa, eu não {0A}me lembro...
+msg_quiz_answer.bmd	39	0	Yukiko	Wait... He had nothing on the right{0A}side!	Pera... Ele não tinha nada no lado {0A}direito!
+msg_quiz_answer.bmd	40	0	Chie	Huh!? No! He had a rose, didn't he?	Hãã?! Não! Ele tinha uma rosa, não {0A}tinha?
+msg_quiz_answer.bmd	41	0	Yukiko	That's on his left.	Isso era na esqueda.
+msg_quiz_answer.bmd	42	0	Chie	Whaaaa!? It was a trick question!?	Quuuue-?! Era uma {0A}pergunta-pegadinha?!
+msg_quiz_answer.bmd	43	0	Yosuke	A rose, right!?	É uma rosa, não é?!
+msg_quiz_answer.bmd	44	0	Yosuke	Wait, hold on! Are you telling me that{0A}isn't a rose!?	Pera aí! Você tá me dizendo que aquilo{0A}não é uma rosa?!
+msg_quiz_answer.bmd	45	0	Yukiko	Hearts!	Corações!
+msg_quiz_answer.bmd	46	0	Yukiko	Pink!	Rosa!
+msg_quiz_answer.bmd	47	0	Yukiko	*giggle* I always thought that{0A}was cute.	*risada* Eu acho muito fofinho.
+msg_quiz_answer.bmd	48	0	Chie	Orange Smash!	Orange Smash!
+msg_quiz_answer.bmd	49	0	Chie	Heheh! I always stop at that machine.	Heheh! Eu sempre paro naquela {0A}maquininha.
+msg_quiz_answer.bmd	50	0	Yosuke	30 kilometers an hour!	30 quilômetros por hora!
+msg_quiz_answer.bmd	51	0	Yosuke	All right, all that studying for{0A}my license paid off!	Beleza, todo aquele esforço pela minha{0A}carteira serviu de algo!
+msg_quiz_answer.bmd	52	0	Yukiko	40 kph!	40 km/h!
+msg_quiz_answer.bmd	53	0	Yukiko	Really? That's not all that fast...	Sério? Isso não é tão rápido assim...
+msg_quiz_answer.bmd	54	0	Chie	Hey! Scooters are only allowed{0A}to go 30 anyway!	Ei! Lambretas só são permitidas à 30 {0A}por hora no fim do dia!
+msg_quiz_answer.bmd	55	0	Yukiko	Class 2!	Classe 2!
+msg_quiz_answer.bmd	56	0	Chie	Wow! Yukiko, where'd you learn that?	Uau! Yukiko, da onde é que você sabe {0A}disso?
+msg_quiz_answer.bmd	57	0	Yukiko	Huh? I thought it was common{0A}knowledge...	Hã? Eu achei que era senso comum...
+msg_quiz_answer.bmd	58	0	Chie	Uh... N-Normal class!	Uh... C-Classe Normal!
+msg_quiz_answer.bmd	59	0	Chie	How should I know this crap!?{0A}It's just a river, right? I didn't even{0A}know they had classes!	E como é que ia saber essa merda?! É só{0A}um rio pô! Como que eu ia saber que {0A}eles tem categorias?!
+msg_quiz_answer.bmd	60	0	Yukiko	Yomenaido Bookstore!	Livraria Yomenaido!
+msg_quiz_answer.bmd	61	0	Chie	Nakanishi Drugs!	Farmácia Nakanishi!
+msg_quiz_answer.bmd	62	0	Yosuke	The nurse's office!	A enfermaria!
+msg_quiz_answer.bmd	63	0	Chie	Three!	Três!
+msg_quiz_answer.bmd	64	0	Chie	Well, duh. I know where I sit.	Dã. Eu sei onde eu fico na sala.
+msg_quiz_answer.bmd	65	0	Yukiko	Bullied!	Intimidado!
+msg_quiz_answer.bmd	66	0	Yukiko	"Oh, thank goodness. It was either that{0A}or ""Crybaby""..."	"Ah, que bom. Eu estava entre essa e {0A}""Chorão""..."
+msg_quiz_answer.bmd	67	0	Chie	Crybaby!	Chorão!
+msg_quiz_answer.bmd	68	0	Yosuke	Panda!	Panda!
+msg_quiz_answer.bmd	69	0	Yosuke	Oh yeah! I know everything about{0A}Junes!	Isso aí! Eu sou o homem Junes!
+msg_quiz_answer.bmd	70	0	Chie	Tiger!?	Tigre?!
+msg_quiz_answer.bmd	71	0	Yukiko	Higashi-Inaba!	Higashi-Inaba!
+msg_quiz_answer.bmd	72	0	Yosuke	Chagall!	Chagall!
+msg_quiz_answer.bmd	73	0	Yukiko	The meeting room!	A sala de reuniões!
+msg_quiz_answer.bmd	74	0	Yosuke	The social room!	A sala social!
+msg_quiz_answer.bmd	75	0	Yosuke	Well, why should I know anything{0A}about the drama club!?	Ah, e pra que que eu iria querer saber o {0A}que o clube de teatro faz?!
+msg_quiz_answer.bmd	76	0	Chie	20% off!	20% de desconto!
+msg_quiz_answer.bmd	77	0	Yukiko	30% off!	30% de desconto!
+msg_quiz_answer.bmd	78	0	Chie	Nishino Barber!	Nishino!
+msg_quiz_answer.bmd	79	0	Yosuke	Yoshida Barber!	Yoshida!
+msg_quiz_answer.bmd	80	0	Yosuke	Ugh, I missed that? I heard that they{0A}were only really good at crew cuts{0A}anyway...	Ugh, eu errei essa mesmo? Ah, dizem {0A}que eles sabiam fazer corte americano {0A}mesmo...
+msg_quiz_answer.bmd	81	0	Chie	Ichikawa Electronics!	Eletrônicos Ichikawa!
+msg_quiz_answer.bmd	82	0	Yosuke	Y-Yamakawa Electronics!	E-Eletrônicos Yamakawa!
+msg_quiz_answer.bmd	83	0	Yosuke	"Ugh... I knew it had a ""kawa"" in it..."	"Ugh... Eu sabia que tinha um ""kawa"" {0A}no meio..."
+msg_quiz_answer.bmd	84	0	Chie	Bigstone!	Bigstone!
+msg_quiz_answer.bmd	85	0	Yosuke	Biking Queen!	Biking Queen!
+msg_quiz_answer.bmd	86	0	Yosuke	Huh? That's not it!? I know it's{0A}in English...	Hein? Não era isso?! Só sei que é em {0A}inglês...
+msg_quiz_answer.bmd	87	0	Chie	Okina Books!	Okina Books!
+msg_quiz_answer.bmd	88	0	Yosuke	The police station!	A delegacia da polícia!
+msg_quiz_answer.bmd	89	0	Yosuke	No, wait! Dammit! That's not a store!	Não, pera aí! Droga! Não é uma loja!
+msg_quiz_answer.bmd	90	0	Yukiko	Your neighborhood!	A vizinhança!
+msg_quiz_answer.bmd	91	0	Chie	The Earth!	A Terra!
+msg_quiz_answer.bmd	92	0	Chie	Huh...? Isn't keeping the planet safe{0A}important, too?	Hã...? Mas não é importante proteger {0A}o planeta também?
+msg_quiz_answer.bmd	93	0	Yosuke	Okay, but how is that the job of{0A}everyone in Okina City...?	Tá, mas por que isso seria o problema {0A}de todo mundo em Okina...?
+msg_quiz_answer.bmd	94	0	Chie	Instant soba!	Sobá instantâneo!
+msg_quiz_answer.bmd	95	0	Chie	Yeah, I'd know if there was{0A}soba in there! My soba-senses{0A}would've tingled!	É, eu saberia se tivesse sobá lá! Meu {0A}sentido-sobá teria ativado!
+msg_quiz_answer.bmd	96	0	Yosuke	Soba-senses...?	Sentido-sobá...?
+msg_quiz_answer.bmd	97	0	Yosuke	N... Nine!?	N... Nove?!
+msg_quiz_answer.bmd	98	0	Yosuke	Yeah! Lucky guess!	Eba! Chute de sorte!
+msg_quiz_answer.bmd	99	0	Chie	Uhhh, well, ten!	Uhhh, ééé, dez!
+msg_quiz_answer.bmd	100	0	Chie	What!? Who counts those, anyway!?	Pera, quem conta esse tipo de coisa?!
+msg_quiz_answer.bmd	101	0	Yukiko	Chopin!	Chopin!
+msg_quiz_answer.bmd	102	0	Yosuke	B... Bach, maybe!?	B... Bach, talvez?!
+msg_quiz_answer.bmd	103	0	Yosuke	It's a bunch of old white dudes!{0A}They all look the same to me!	É um monte de velho branco! Pra mim {0A}eles são tudo igual!
+msg_quiz_answer.bmd	104	0	Yosuke	The nurse's office!	A enfermaria!
+msg_quiz_answer.bmd	105	0	Yukiko	The infinity symbol!	O símbolo do infinito!
+msg_quiz_answer.bmd	106	0	Yukiko	*chuckle* Good thing I'm in charge of{0A}the bulletin boards.	*risada* Ainda bem que sou eu que {0A}cuido do quadro de avisos.
+msg_quiz_answer.bmd	107	0	Yosuke	A heart! It's a big heart!	Um coração! É um coraçãozão!
+msg_quiz_answer.bmd	108	0	Yosuke	Huh!? ...It's not?	Hein?! ...Não é?
+msg_quiz_answer.bmd	109	0	Chie	Nice try, Yosuke. You were so sure{0A}of yourself, too!	Bela tentativa, Yosuke. Você tava tão {0A}confiante também!
+msg_quiz_answer.bmd	110	0	Yosuke	Ugh... I shouldn't have opened{0A}my big mouth...	Ugh... Eu devia ter ficado quietinho...
+msg_quiz_answer.bmd	111	0	Chie	200 Yen!	200 ienes!
+msg_quiz_answer.bmd	112	0	Chie	Nice! That was just a guess, too!	Boa! Também era só um chute!
+msg_quiz_answer.bmd	113	0	Yosuke	300 yen!	300 ienes!
+msg_quiz_answer.bmd	114	0	Yosuke	Crap... Well, it's not like I'm out{0A}buying fortunes all the time, y'know.	Drpga... Bom, não é como se eu tivesse {0A}lendo a minha sorte toda hora, sabe.
+msg_quiz_answer.bmd	115	0	Yosuke	Shichiri Beach!	Praia Shichiri!
+msg_quiz_answer.bmd	116	0	Yosuke	Oh, yeah! I give all the credit for{0A}that right answer to my motorcycle!	Ah, verdade! Dou todo o crédito pra {0A}minha moto!
+msg_quiz_answer.bmd	117	0	Yosuke	North!	Norte!
+msg_quiz_answer.bmd	118	0	Chie	East...?	Leste...?
+msg_quiz_answer.bmd	119	0	Chie	Huh? No? I'm terrible with directions.	Ah? Não? Eu sou péssima com {0A}direções.
+msg_quiz_answer.bmd	120	0	Chie	28!	28!
+msg_quiz_answer.bmd	121	0	Yukiko	29!	29!
+msg_quiz_answer.bmd	122	0	Chie	Huh? But there are 28 students in our{0A}class!	Ué? Mas tem 28 estudantes na nossa {0A}sala!
+msg_quiz_answer.bmd	123	0	Yukiko	Yes, but you're forgetting the teacher's{0A}chair.	Sim, mas você está esquecendo a {0A}cadeira do professor.
+msg_quiz_answer.bmd	124	0	Chie	Ohhhhh! Pretty sneaky, Miss!	Ahhhhh! Na mosca, senhorita!
+msg_quiz_answer.bmd	125	0	Chie	28!	28!
+msg_quiz_answer.bmd	126	0	Chie	Huh!? But we have 28 students!{0A}What's going on!?	Ué?! Mas nossa sala tem 28 {0A}estudantes! Esse jogo tá {0A}manipulado...
+msg_quiz_answer.bmd	127	0	Yukiko	A panda... I believe?	Um panda... Eu acho?
+msg_quiz_answer.bmd	128	0	Yukiko	Thank goodness...{0A}Still, what is that used for, I wonder.	Que bom... Mas por que será que está {0A}lá?
+msg_quiz_answer.bmd	129	0	Yosuke	G-Giraffe!	G-Girafa!
+msg_quiz_answer.bmd	130	0	Yosuke	Gah, I don't know...{0A}I didn't even know there was anything!	Gah, sei lá... Eu nem sabia que tinha {0A}coisa lá!
+msg_quiz_answer.bmd	131	0	Chie	Four! It's four!	Quatro! São quatro!
+msg_quiz_answer.bmd	132	0	Chie	Boo-yah! I know everything about{0A}ramen! Ramen ramen ramen, ramen!{0A}Ramen!	Boo-yah! Eu entendo tudinho de {0A}ramen! Ramen, ramen, ramen, ramen! {0A}Ramen!
+msg_quiz_answer.bmd	133	0	Yukiko	Seven!	Sete!
+msg_quiz_answer.bmd	134	0	Yosuke	Red!	Vermelho!
+msg_quiz_answer.bmd	135	0	Yosuke	Yeah! Thank you, and come again!	Isso! Obrigado, volte sempre!
+msg_quiz_answer.bmd	136	0	Chie	Blue!	Azul!
+msg_quiz_answer.bmd	137	0	Chie	Wait, really? I guess I've just stopped{0A}paying attention to things that I see{0A}so often...	Sério que não? Acho que parei de {0A}prestar atenção nessas coisas que eu {0A}vejo toda hora...
+msg_quiz_answer.bmd	138	0	Chie	A pipe!	Um cachimbo!
+msg_quiz_answer.bmd	139	0	Chie	That frog is pretty cute!	Aquele sapo é bem fofo!
+msg_quiz_answer.bmd	140	0	Yukiko	You like frogs, Chie?	Você gosta de sapos, Chie?
+msg_quiz_answer.bmd	141	0	Yosuke	A cigar!	Um cigarro!
+msg_quiz_answer.bmd	142	0	Yosuke	Damn, that was wrong? I've never{0A}actually bothered looking at it.	Droga, tava errado? Eu nunca parei {0A}pra olhar de verdade.
+msg_quiz_answer.bmd	143	0	Yosuke	Panda!	Panda!
+msg_quiz_answer.bmd	144	0	Yosuke	Woo yeah! The perks of my job, man!	Irrrá! Trabalhar na Junes tem suas {0A}vantagens!
+msg_quiz_answer.bmd	145	0	Chie	Rabbit!	Coelho!
+msg_quiz_answer.bmd	146	0	Yosuke	Soft serve!	Sorvete!
+msg_quiz_answer.bmd	147	0	Yosuke	Heheh, in the nick of time!	Heheh, bem na hora!
+msg_quiz_answer.bmd	148	0	Chie	Ohhhh! I knew that one, too!	Ahhhh! Eu também sabia esse!
+msg_quiz_answer.bmd	149	0	Yukiko	Takoyaki!?	Takoyaki?!
+msg_quiz_answer.bmd	150	0	Yosuke	F-Four!	Q-Quatro!
+msg_quiz_answer.bmd	151	0	Chie	Three!	Três!
+msg_quiz_answer.bmd	152	0	Yosuke	Really? I thought I counted them all...	Sério? Eu achei que tinha contado {0A}todos eles...
+msg_quiz_answer.bmd	153	0	Yosuke	Both sides!	Os dois lados!
+msg_quiz_answer.bmd	154	0	Chie	The right side?	O lado direito?
+msg_quiz_answer.bmd	155	0	Yukiko	Tough Guy!	Cara Durão!
+msg_quiz_answer.bmd	156	0	Chie	Nice Guy!?	Cara Legal?!
+msg_quiz_answer.bmd	157	0	Yukiko	13 yen!	13 ienes!
+msg_quiz_answer.bmd	158	0	Yosuke	666 yen!	666 ienes!
+msg_quiz_answer.bmd	159	0	Yosuke	Gold!	Dourada!
+msg_quiz_answer.bmd	160	0	Yosuke	Aw, yeah. I got that image burned into{0A}my mind.	Ah é. Eu tenho essa imagem gravada na{0A}minha cabeça.
+msg_quiz_answer.bmd	161	0	Yukiko	...How vulgar.	...Que vulgar.
+msg_quiz_answer.bmd	162	0	Yosuke	Hey! I got it right, and you're{0A}calling me out!?	Ei! Eu acertei, e você ainda me chama {0A}atenção?!
+msg_quiz_answer.bmd	163	0	Yukiko	S-Silver!	P-Prata!
+msg_quiz_answer.bmd	164	0	Yukiko	It wasn't? I was too focused on saving{0A}Rise-chan...	Não era? Eu estava tão focada em {0A}salvar a Rise-chan...
+msg_quiz_answer.bmd	165	0	Yosuke	Supreme Insight!	Visão Suprema!
+msg_quiz_answer.bmd	166	0	Chie	Supreme Analyze!	Analisar Supremo!
+msg_quiz_answer.bmd	167	0	Yukiko	Black loafers!	Sapatos pretos!
+msg_quiz_answer.bmd	168	0	Yosuke	He was? I don't remember.	Ele tava calçado? Eu não lembro.
+msg_quiz_answer.bmd	169	0	Yukiko	Yes. I remember them because they{0A}looked so out-of-place.	Sim. Eu lembro porque era bem {0A}chamativo.
+msg_quiz_answer.bmd	170	0	Yosuke	Flip-flops!	Chinelos!
+msg_quiz_answer.bmd	171	0	Yosuke	Really!? I thought... I mean, it was in{0A}a sauna, so he'd be wearing... I mean...	Não?! Eu achei que... tipo, foi numa {0A}sauna, então ele teria que... uh...
+msg_quiz_answer.bmd	172	0	Yosuke	Nihil Hand!	Mão de Nihil!
+msg_quiz_answer.bmd	173	0	Chie	Nihil Paw!	Pata de Nihil!
+msg_quiz_answer.bmd	174	0	Chie	Huh? But this is Teddie we're talking{0A}about, right?	Hã? Mas a gente tá falando do Kuma, {0A}pô!
+msg_quiz_answer.bmd	175	0	Yosuke	Yeah! Well, it was his Shadow.	Isso! Mas era a Sombra dele.
+msg_quiz_answer.bmd	176	0	Teddie	This Teddie is the real Teddie!{0A}That Teddie was the Shadow Teddie!	Eu sou o Kuma verdadeiro! Aquele {0A}Kuma era o Kuma Sombra!
+msg_quiz_answer.bmd	177	0	Yosuke	Argh! Teddie, Teddie, Teddie, shut up!	Argh! Kuma, Kumala, Kumalala, cala {0A}boca!
+msg_quiz_answer.bmd	178	0	Yosuke	Drain!	Drena!
+msg_quiz_answer.bmd	179	0	Chie	Nullify!?	Nulifica?!
+msg_quiz_answer.bmd	180	0	Chie	Lucky Hand!	Mão Alegre!
+msg_quiz_answer.bmd	181	0	Yosuke	Golden Hand!	Mão Dourada!
+msg_quiz_answer.bmd	182	0	Chie	Iron Dice!	Dado de Ferro!
+msg_quiz_answer.bmd	183	0	Yosuke	Bronze Dice!	Dado de Bronze!
+msg_quiz_answer.bmd	184	0	Yosuke	Folding Chair!	Cadeira Dobrável!
+msg_quiz_answer.bmd	185	0	Yosuke	Yeah, I knew that guy had some funny{0A}ideas.	É, eu sempre soube que ele era {0A}engraçado.
+msg_quiz_answer.bmd	186	0	Yukiko	Wooden Sword!	Espada de Madeira!
+msg_quiz_answer.bmd	187	0	Yukiko	He didn't?{0A}I think he'd look good with one...	Não? Acho que ele ia ficar legal com {0A}uma...
+msg_quiz_answer.bmd	188	0	Yosuke	Spikey Punch!	Soco Espinhoso!
+msg_quiz_answer.bmd	189	0	Yukiko	Teddie Claw!	Garra Kuma!
+msg_quiz_answer.bmd	190	0	Yukiko	Oh... I was wrong?	Ah... Eu estava errada?
+msg_quiz_answer.bmd	191	0	Teddie	I don't have claws!{0A}Look at this pretty paw of mine!	Eu não tenho garras! Olha pras minhas {0A}patinhas fofas!
+msg_quiz_answer.bmd	192	0	Yukiko	I'm sorry. I'm not interested...	Desculpa. Não estou interessada...
+msg_quiz_answer.bmd	193	0	Teddie	Nooooooooooooo!	Nããããããoooooo!
+msg_quiz_answer.bmd	194	0	Yukiko	Ball Lightning!	Bola do Trovão!
+msg_quiz_answer.bmd	195	0	Chie	Meat Gum!	Chiclete de Carne!
+msg_quiz_answer.bmd	196	0	Chie	Huh? But you said you couldn't handle{0A}it before.	Hã? Mas você disse que não gostava {0A}disso antes.
+msg_quiz_answer.bmd	197	0	Yosuke	Preferences and weaknesses are{0A}two different things...	Não é porque eu não curto que é a minha{0A}fraqueza...
+msg_quiz_answer.bmd	198	0	Yukiko	Firecracker!?	Rojão?!
+msg_quiz_answer.bmd	199	0	Yosuke	Dry Ice!	Gelo Seco!
+msg_quiz_answer.bmd	200	0	Chie	Ice Cube!	Cubo de Gelo!
+msg_quiz_answer.bmd	201	0	Yosuke	Uhhh... Pinwheel?	Hãããã... Cata-Vento?
+msg_quiz_answer.bmd	202	0	Yosuke	Bead!	Conta!
+msg_quiz_answer.bmd	203	0	Chie	Diarama, right!?	Diarama, né?!
+msg_quiz_answer.bmd	204	0	Chie	Antibiotic Gel, duh!	Gel Antibiótico, dã!
+msg_quiz_answer.bmd	205	0	Yosuke	Value Medicine!	Remédio em Conta!
+msg_quiz_answer.bmd	206	0	Yukiko	Cough Drop!	Pastilha para Tosse!
+msg_quiz_answer.bmd	207	0	Chie	The Natural...?	The Natural...?
+msg_quiz_answer.bmd	208	0	Yukiko	Chewing Soul!	Goma de Alma!
+msg_quiz_answer.bmd	209	0	Chie	Meat Gum!	Chiclete de Carne!
+msg_quiz_answer.bmd	210	0	Chie	Whaaaa!? I always feel a lot better{0A}when I have some...	Quêêêêê?! Eu sempre me sinto bem {0A}quando eu como isso...
+msg_quiz_answer.bmd	211	0	Yosuke	That's just you!	Aí é coisa tua!
+msg_quiz_answer.bmd	212	0	Yukiko	Royal Jelly!	Geleia Real!
+msg_quiz_answer.bmd	213	0	Chie	Muscle Driiiiiink!	Bebida Eneeeergética!
+msg_quiz_answer.bmd	214	0	Yosuke	Wind!	Vento
+msg_quiz_answer.bmd	215	0	Chie	F-Fire, maybe!?	F-Fogo, talvez?!
+msg_quiz_answer.bmd	216	0	Yukiko	Media!	Media!
+msg_quiz_answer.bmd	217	0	Yukiko	This feels like cheating! After all,{0A}it's about me.	Parece trapaça! Afinal, é tudo sobre {0A}mim.
+msg_quiz_answer.bmd	218	0	Yosuke	M... Me Patra!	M... Me Patra!
+msg_quiz_answer.bmd	219	0	Yukiko	Magician!	Mago!
+msg_quiz_answer.bmd	220	0	Chie	Hierophant!?	Hierofante?!
+msg_quiz_answer.bmd	221	0	Chie	Is it Phantom Master!?	Um Mestre Fantasma?!
+msg_quiz_answer.bmd	222	0	Yosuke	Magic Hand!	Mão Mágica!
+msg_quiz_answer.bmd	223	0	Chie	Black Lamp!	Lâmpada Preta!
+msg_quiz_answer.bmd	224	0	Yosuke	Wonder Cloth!	Tecido Maravilhoso!
+msg_quiz_answer.bmd	225	0	Chie	Light!	Luz!
+msg_quiz_answer.bmd	226	0	Yosuke	E-Electricity!	R-Raio!
+msg_quiz_answer.bmd	227	0	Yukiko	Pulinpa...?	Pulinpa...?
+msg_quiz_answer.bmd	228	0	Yosuke	Evil Touch!	Toque Maligno!
+msg_quiz_answer.bmd	229	0	Yukiko	Dekunda!	Dekunda!
+msg_quiz_answer.bmd	230	0	Chie	Dekaja!?	Dekaja?!
+msg_quiz_answer.bmd	231	0	Yukiko	Fire Suppressor!	Supressor de Fogo!
+msg_quiz_answer.bmd	232	0	Chie	Fire Vow!	Voto de Fogo!
+msg_quiz_answer.bmd	233	0	Yosuke	Kevlar Vest!	Colete de Balas!
+msg_quiz_answer.bmd	234	0	Chie	Metal Jacket!	Jaqueta de Metal!
+msg_quiz_answer.bmd	235	0	Chie	C'mon! I don't know about armor.{0A}A good offense is the best defense{0A}anyway, right?	Qualé! Eu não sei nada de armadura. A {0A}melhor defesa é o ataque, né?
+msg_quiz_answer.bmd	236	0	Yosuke	Chie, I'm surprised you've made it{0A}this far unharmed...	Chie, é um milagre você ainda estar de {0A}pé...
+msg_quiz_answer.bmd	237	0	Chie	Assault Dive!	Assalto Repentino!
+msg_quiz_answer.bmd	238	0	Yosuke	S-Skewer!	E-Empalamento!
+msg_quiz_answer.bmd	239	0	Chie	A backflip, of course!	Cambalhota, é claro!
+msg_quiz_answer.bmd	240	0	Chie	Haha, you noticed, huh?{0A}I practiced that!	Haha, você percebeu, né? Tenho {0A}praticado isso!
+msg_quiz_answer.bmd	241	0	Yukiko	Back handspring!	Flic Flac!
+msg_quiz_answer.bmd	242	0	Yukiko	But she always spins around...	Mas ela tá sempre girando, girando...
+msg_quiz_answer.bmd	243	0	Chie	Yeah, but I don't use my hands!	É, mas eu não uso as mãos!
+msg_quiz_answer.bmd	244	0	Yukiko	Oh... Really?	Ah... Mesmo?
+msg_quiz_answer.bmd	245	0	Yosuke	Shuriken!	Shuriken!
+msg_quiz_answer.bmd	246	0	Yosuke	Well, it's about the other me. If I{0A}missed this, I'd look really bad.	Bom, é sobre o meu outro eu. Se eu {0A}errasse ficaria feio, né?
+msg_quiz_answer.bmd	247	0	Yukiko	Wrench!	Chave inglesa!
+msg_quiz_answer.bmd	248	0	Yukiko	Oh, wait... That was asking about his{0A}Persona. How did I not notice that?	Ah, espera... A pergunta era sobre a {0A}Persona dele. Como eu não percebi {0A}isso?
+msg_quiz_answer.bmd	249	0	Yukiko	Black with white writing!	Pretos, com caracteres brancos!
+msg_quiz_answer.bmd	250	0	Chie	White...?	Branco...?
+msg_quiz_answer.bmd	251	0	Yosuke	Was it... Secret Bambino?	Era um... Bambino Secreto?
+msg_quiz_answer.bmd	252	0	Chie	Free Bambino!	Bambino Livre!
+msg_quiz_answer.bmd	253	0	Yukiko	A sword!	Uma espada!
+msg_quiz_answer.bmd	254	0	Chie	A spear!	Uma lança!
+msg_quiz_answer.bmd	255	0	Chie	Swift Strike!	Golpe Veloz!
+msg_quiz_answer.bmd	256	0	Yukiko	Kill Rush!	Ímpeto Letal!
+msg_quiz_answer.bmd	257	0	Yosuke	Golf Club!	Taco de Golfe!
+msg_quiz_answer.bmd	258	0	Yukiko	Umm... Monkey Wrench?	Umm... Chave Inglesa?
+msg_quiz_answer.bmd	259	0	Yukiko	Exhaustion!	Exaustão!
+msg_quiz_answer.bmd	260	0	Chie	Charm!?	Encanto?!
+msg_quiz_answer.bmd	261	0	Yosuke	Uh, left hand, maybe!?	Hã, mão esquerda, talvez?!
+msg_quiz_answer.bmd	262	0	Yosuke	*phew* That was pure luck!	Ufa. Foi pura sorte!
+msg_quiz_answer.bmd	263	0	Chie	Right hand!	Mão direita!
+msg_quiz_answer.bmd	264	0	Chie	Huh? Was it the other hand...?{0A}I was too busy trying not to get{0A}hit by it to pay attention.	Hein? Era a outra mão...? Eu tava mais{0A}concentrada em não levar um tapão {0A}dele.
+msg_quiz_answer.bmd	265	0	Yukiko	Fear!	Medo!
+msg_quiz_answer.bmd	266	0	Yosuke	Panic!	Pânico!
+msg_quiz_answer.bmd	267	0	Yosuke	Blue! It's blue!	Azul! É azul!
+msg_quiz_answer.bmd	268	0	Teddie	Way to go, Yosuke!{0A}You know everything about me!	Excelente, Yosuke! Você sabe tudo {0A}sobre mim mesmo!
+msg_quiz_answer.bmd	269	0	Yosuke	Well, considering how much time we{0A}spend together, I see your ass all{0A}the time.	Bom, a gente passa tanto tempo no {0A}mesmo canto, então vejo o teu rabo {0A}toda hora.
+msg_quiz_answer.bmd	270	0	Teddie	What!? My ass isn't for you to look at!	Quê?! Meu rabo não foi feito pra você {0A}ficar olhando!
+msg_quiz_answer.bmd	271	0	Yosuke	That's not what I meant!{0A}Just get to the next question!	Não foi isso que eu falei! V-Vai pra {0A}próxima pergunta logo!
+msg_quiz_answer.bmd	272	0	Chie	Huh? You don't have a tail, do you?	Hã? Você não tem cauda, né?
+msg_quiz_answer.bmd	273	0	Chie	Whoa, you do...	Epa, não é que tem...!
+msg_quiz_answer.bmd	274	0	Teddie	Chie-chan, the crowd is booing!{0A}Sorry, but you have to forfeit{0A}all your points...	Chie-chan, a plateia tá vaiando! {0A}Desculpa, mas vou ter que confiscar {0A}todos os seus pontos...
+msg_quiz_answer.bmd	275	0	Chie	Noooo... Dude, I'm sorry! I don't{0A}remember what your butt looks like.	Nããããão... Cara, foi mal! Eu não {0A}lembro como é o seu traseiro.
+msg_quiz_answer.bmd	276	0	Teddie	Oh, all right then. Just this one time...	Ah, tudo bem então. Vou deixar essa {0A}passar...
+msg_quiz_answer.bmd	277	0	Chie	The eighth!	Oitavo!
+msg_quiz_answer.bmd	278	0	Yosuke	F-Fifth floor!	Q-Quinto andar!
+msg_quiz_answer.bmd	279	0	Yosuke	Argh! I was too busy with fighting{0A}to remember all the stairs!	Graaah! Eu tava ocupado demais {0A}lutando pra lembrar daquela escadaria {0A}toda!
+msg_quiz_answer.bmd	280	0	Yosuke	Bathhouse Key!	Chave da Sauna!
+msg_quiz_answer.bmd	281	0	Yukiko	Sauna Key!	Chave da Casa de Banho!
+msg_quiz_answer.bmd	282	0	Yosuke	I don't know, six?	Eu não sei, seis?
+msg_quiz_answer.bmd	283	0	Yosuke	Man, my instincts are on fire today!	Cara, minha intuição tá insana hoje!
+msg_quiz_answer.bmd	284	0	Yukiko	I think... ten...?	Acho que... dez...?
+msg_quiz_answer.bmd	285	0	Yukiko	I think... Nine!	Acho que... Nove!
+msg_quiz_answer.bmd	286	0	Yukiko	I got it... Thank goodness!	Acertei... Que bom!
+msg_quiz_answer.bmd	287	0	Chie	I'm guessing, but... ten!	É um chute, mas... dez!
+msg_quiz_answer.bmd	288	0	Chie	Aw... Well, who counts that stuff!?	Ahhh... Bom, quem é que conta essas {0A}coisas?! Eu hein...
+msg_quiz_answer.bmd	289	0	Yosuke	Chie!	Chie!
+msg_quiz_answer.bmd	290	0	Yosuke	*whew* That was close!{0A}I was almost gonna say Yukiko.	Ufa. Essa foi perto! Eu quase disse {0A}Yukiko.
+msg_quiz_answer.bmd	291	0	Chie	Rise-chan!	Rise-chan!
+msg_quiz_answer.bmd	292	0	Chie	Oh... Now that you mention it, I{0A}really don't pay attention to this stuff.	Ah... Agora que tocaram no assunto, {0A}eu não presto muita atenção nessas {0A}coisas não.
+msg_quiz_answer.bmd	293	0	Yosuke	Chest Key!	Chave de Baú!
+msg_quiz_answer.bmd	294	0	Chie	Old Key!	Chave velha!
+msg_quiz_answer.bmd	295	0	Chie	Glory Hand!	Mão da Glória!
+msg_quiz_answer.bmd	296	0	Yukiko	Wealth Hand!	Mão da Fortuna!
+msg_quiz_answer.bmd	297	0	Yukiko	Nine!	Nove!
+msg_quiz_answer.bmd	298	0	Yosuke	Uh... Eleven!	Uh... Onze!
+msg_quiz_answer.bmd	299	0	Yosuke	Really? I must've miscounted...	Sério? Eu devo ter contado errado...
+msg_quiz_answer.bmd	300	0	Yosuke	Hearts!	Corações!
+msg_quiz_answer.bmd	301	0	Yosuke	Mmm-hmm, my memories of that place{0A}are all crystal-clear. Awwwww, yeah.	Uhum, minhas memórias daquele lugar {0A}tão fresquinhas. Ahhhh éééé!
+msg_quiz_answer.bmd	302	0	Chie	Creep. That's sexual harassment.	Esquisito. Isso é assédio sexual.
+msg_quiz_answer.bmd	303	0	Yosuke	No--That's not what I meant!	N-Não foi isso que eu quis dizer!
+msg_quiz_answer.bmd	304	0	Yukiko	Diamonds!	Diamantes!
+msg_quiz_answer.bmd	305	0	Yukiko	I believe... 201!	Acredito que... 201!
+msg_quiz_answer.bmd	306	0	Yukiko	Thank goodness.{0A}I didn't really pay attention to it...	Ufa. Eu não prestei muita atenção {0A}neles...
+msg_quiz_answer.bmd	307	0	Chie	Out of thin air... 202!	Por volta de... 202!
+msg_quiz_answer.bmd	308	0	Chie	Ugh... How could anybody know this?	Ugh... E quem que ia saber disso?
+msg_quiz_answer.bmd	309	0	Yukiko	Eighteen!	Dezoito!
+msg_quiz_answer.bmd	310	0	Chie	Wait, those are people drawn on{0A}the floor...?	Pera, essa gente tá toda desenhada no{0A}chão...?
+msg_quiz_answer.bmd	311	0	Yukiko	Yes. I counted them all once when I{0A}was bored.	Isso. Eu contei todas elas quando fiquei{0A}entediada.
+msg_quiz_answer.bmd	312	0	Yosuke	T-Twenty!	V-Vinte!
+msg_quiz_answer.bmd	313	0	Yosuke	No? Aw, I didn't even recognize them...	Não? Aw, eu mal reconheci eles...
+msg_quiz_answer.bmd	314	0	Chie	Three!	Três!
+msg_quiz_answer.bmd	315	0	Chie	That was a freebie for me!	Essa foi por conta da casa!
+msg_quiz_answer.bmd	316	0	Yukiko	Men only!	Só Homens!
+msg_quiz_answer.bmd	317	0	Yukiko	It's hard to forget that video.{0A}Was mine like that, too...?	É difícil esquecer daquele video. O meu{0A}foi daquele jeito também...?
+msg_quiz_answer.bmd	318	0	Chie	No Women!	Proibido Mulheres!
+msg_quiz_answer.bmd	319	0	Chie	What!? There weren't any women!	O quê?! Mas não tinha mulher {0A}nenhuma lá!
+msg_quiz_answer.bmd	320	0	Chie	3000 yen!	3,000 ienes!
+msg_quiz_answer.bmd	321	0	Chie	It's expensive, but it's sooooooooo{0A}worth it!	É carinho, mas vale muuuuuuuuuito a {0A}pena!
+msg_quiz_answer.bmd	322	0	Yukiko	2000 yen!	2,000 ienes!
+msg_quiz_answer.bmd	323	0	Yukiko	Oh... I should have been paying{0A}attention to Chie when she talked about{0A}it the other day...	Ah... Eu devia ter prestado atenção {0A}quando a Chie estava falando disso {0A}semana passada...
+msg_quiz_answer.bmd	324	0	Chie	320 yen!	320 ienes!
+msg_quiz_answer.bmd	325	0	Chie	Nailed it! I eat there all the time!	Na mosca! Eu como lá todo dia quase!
+msg_quiz_answer.bmd	326	0	Yukiko	450 yen!	450 ienes!
+msg_quiz_answer.bmd	327	0	Yukiko	Oh, it isn't... I don't eat there very{0A}often.	Ah, não é isso... Eu não como lá muito.
+msg_quiz_answer.bmd	328	0	Yosuke	1500 yen!	1,500 ienes!
+msg_quiz_answer.bmd	329	0	Yosuke	Heheh, I've done my homework!	Heheh, já vim preparado!
+msg_quiz_answer.bmd	330	0	Yukiko	Ohtani-san!	Ohtani-san!
+msg_quiz_answer.bmd	331	0	Yosuke	I can't believe you remembered,{0A}Yukiko. Are you two close?	Não acredito que você lembra disso, {0A}Yukiko. Vocês são próximas?
+msg_quiz_answer.bmd	332	0	Yukiko	Not really. I just remember her name{0A}from the inn registry.	Não exatamente. Eu só me lembro do {0A}nome dela por causa dos registros da {0A}pousada.
+msg_quiz_answer.bmd	333	0	Yosuke	O-Ohno... maybe?	O-Ohno... talvez?
+msg_quiz_answer.bmd	334	0	Yosuke	Guess not... I don't really care, though.	Acho que não... Não que eu ligue pra {0A}isso.
+msg_quiz_answer.bmd	335	0	Yukiko	First grade!	1° ano!
+msg_quiz_answer.bmd	336	0	Yukiko	*chuckle* I stole your thunder!	*risada* Roubei o seu holofote!
+msg_quiz_answer.bmd	337	0	Chie	Mumon!	Mumon!
+msg_quiz_answer.bmd	338	0	Chie	Tankiriman Sticker!	Adesivo Tankiriman!
+msg_quiz_answer.bmd	339	0	Chie	Yeah! I heard the neighborhood kids{0A}talk about those!	Isso! Eu ouvi as crianças da vizinhança {0A}falando disso aí!
+msg_quiz_answer.bmd	340	0	Yukiko	Universe Sticker!	Adesivo do Universo!
+msg_quiz_answer.bmd	341	0	Yukiko	What, don't children like outer space?	O quê? As crianças de hoje não {0A}gostam do espaço sideral mais?
+msg_quiz_answer.bmd	342	0	Yosuke	Classic Yukiko...	Típico da Yukiko...
+msg_quiz_answer.bmd	343	0	Yukiko	Reiko Osa-san!	Reiko Osa-san!
+msg_quiz_answer.bmd	344	0	Yukiko	She always introduces herself, so I{0A}remember that.	Ela sempre se apresenta quando eu vou {0A}lá, então não esqueço.
+msg_quiz_answer.bmd	345	0	Yosuke	M-Mariko Oki!	M-Mariko Oki!
+msg_quiz_answer.bmd	346	0	Yosuke	Huh? I thought it sounded something{0A}like that... But I don't go to that{0A}store very often.	Quê? Eu achei que era algo assim... {0A}Mas eu não vou lá muito pra aquela {0A}loja.
+msg_quiz_answer.bmd	347	0	Yosuke	The Final Lesson!	A Lição Final!
+msg_quiz_answer.bmd	348	0	Chie	Sensei's Friends!	Amigos do Sensei!
+msg_quiz_answer.bmd	349	0	Yosuke	Sofue, right!?	Sofue, né?!
+msg_quiz_answer.bmd	350	0	Yukiko	Mr. Kondo!	Sr. Kondo!
+msg_quiz_answer.bmd	351	0	Yosuke	Kondo!	Kondo!
+msg_quiz_answer.bmd	352	0	Yukiko	Mr. Hosoi!	Sr. Hosoi!
+msg_quiz_answer.bmd	353	0	Chie	You're talking about Mr. Yamada,{0A}right!?	Você tá falando do Sr. Yamada, né?!
+msg_quiz_answer.bmd	354	0	Yukiko	200 yen!	200 ienes!
+msg_quiz_answer.bmd	355	0	Yukiko	Mmm, that ganmodoki is so good.{0A}I have it all the time.	Mmm, aquele ganmodoki é tão bom. Eu{0A}como aquilo todo dia.
+msg_quiz_answer.bmd	356	0	Chie	B-Bamboo Dragonfly!	L-Libélula de Bambu
+msg_quiz_answer.bmd	357	0	Chie	Huh, really? I'm on a roll!	Hã, sério? Eu tô invicta!
+msg_quiz_answer.bmd	358	0	Yosuke	Firecracker!	Rojão!
+msg_quiz_answer.bmd	359	0	Yosuke	Does that thing even work?{0A}I think getting anything out of it's an{0A}urban legend all by itself!	Essa parada funciona mesmo? Eu acho {0A}que fazer aquilo funcionar deve ser {0A}mito!
+msg_quiz_answer.bmd	360	0	Chie	Tuesday!	Terça-feira!
+msg_quiz_answer.bmd	361	0	Chie	Y'know, I'm in the middle of filing a{0A}complaint about that. That needs to{0A}be available 24/7!	Sabe, tá na hora de eu falar com o {0A}gerente sobre isso aí. A tigela era pra {0A}ser todo dia!
+msg_quiz_answer.bmd	362	0	Yosuke	One day, you're gonna get banned{0A}from the place.	Daqui uns tempos você vai ser banida {0A}de lá.
+msg_quiz_answer.bmd	363	0	Yukiko	S-Saturday! ...Maybe?	S-Sábado! ...Eu acho?
+msg_quiz_answer.bmd	364	0	Yukiko	It wasn't it... I can't just rely on my{0A}gut instincts all the time.	Não era isso... Não posso ficar {0A}apostando no meu instinto toda hora.
+msg_quiz_answer.bmd	365	0	Yukiko	Um, Tatsuhime Shrine!	Hã, Templo Tatsuhime!
+msg_quiz_answer.bmd	366	0	Yosuke	Inahime Shrine!	Templo Inahime!
+msg_quiz_answer.bmd	367	0	Yosuke	Man, you tend to forget these things.{0A}I think it was two kanji.	Cara, difícil lembrar dessas coisas. Eu {0A}achei que eram dois kanjis.
+msg_quiz_answer.bmd	368	0	Yukiko	I believe most shrines are two kanji.	Acho que a maioria dos templos são {0A}dois kanjis.
+msg_quiz_answer.bmd	369	0	Yosuke	Oh. Really?	Ah. Sério?
+msg_quiz_answer.bmd	370	0	Teddie	Snrk... Yosuke, even your competition{0A}is trying to help you.	Snrk... Yosuke até a concorrência está{0A}tentando te ajudar.
+msg_quiz_answer.bmd	371	0	Yosuke	Ugh, shut up and move on!	Ugh, cala a boca e foca no jogo, tá?!
+msg_quiz_answer.bmd	372	0	Yosuke	Green peppers!	Pimentão!
+msg_quiz_answer.bmd	373	0	Yosuke	Heheh, I heard about that.{0A}Gotta thank Kou!	Heheh, me contaram essa aí. Valeu, {0A}Kou!
+msg_quiz_answer.bmd	374	0	Chie	Carrots!	Cenoura!
+msg_quiz_answer.bmd	375	0	Chie	How would I know!? He doesn't look{0A}like the picky type!	E como é que eu ia saber?! Ele não {0A}parece chato com comida!
+msg_quiz_answer.bmd	376	0	Yukiko	Strength!	Força!
+msg_quiz_answer.bmd	377	0	Chie	Ch-Chariot!	C-Carruagem!
+msg_quiz_answer.bmd	378	0	Chie	Ugh... Maybe I'm pushing my luck.	Ugh... Acho que eu tô abusando da {0A}minha sorte.
+msg_quiz_answer.bmd	379	0	Yukiko	Macca Leaf, right?	Folha de Macca, não é?
+msg_quiz_answer.bmd	380	0	Yosuke	Balm of Life!	Bálsamo de Vida!
+msg_quiz_answer.bmd	381	0	Yukiko	Peach Seed!?	Semente de pêssego?!
+msg_quiz_answer.bmd	382	0	Yosuke	San-Zun Tama... I think?	San-Zun Tama... Eu acho?
+msg_quiz_answer.bmd	383	0	Chie	It recovers health!	Recupera vida!
+msg_quiz_answer.bmd	384	0	Yukiko	It cures poison!	Cura veneno!
+msg_quiz_answer.bmd	385	0	Chie	Mega Beef Bowl! It's the Aiya Rainy{0A}Day Mega Beef Bowl Challenge!	Mega Tigela de Carne! É o desafio de {0A}dias chuvosos do Aiya!
+msg_quiz_answer.bmd	386	0	Chie	Come on! You knew that one was going{0A}to me!	Qual é! Tava na cara que eu ia acertar {0A}esse!
+msg_quiz_answer.bmd	387	0	Yukiko	S-Special Steak Bowl!?	T-Tigela de Carne Especial?!
+msg_quiz_answer.bmd	388	0	Yukiko	Oh... It's just beef, not steak?{0A}I should go there more before I{0A}try answering questions about it...	Ah... É só bife, sem outra carne? Eu {0A}devia ir mais lá antes de ficar dando {0A}palpites sobre o lugar...
+msg_quiz_answer.bmd	389	0	Yosuke	Pickled bamboo shoots!	Brotos de bambu em conserva!
+msg_quiz_answer.bmd	390	0	Yosuke	Heh heh! I saw him pick those out of{0A}his lunch once. I'm glad I knew!	Heh he! Eu vi ele trazer isso pro almoço{0A}uma vez. Ainda bem que eu lembro!
+msg_quiz_answer.bmd	391	0	Yukiko	G-Green onions!	A-Alho verde!
+msg_quiz_answer.bmd	392	0	Yukiko	What!? How could it not be green{0A}onions! Everyone hates green onions!	O quê?! Como não é alho verde! Todo {0A}mundo odeia isso!
+msg_quiz_answer.bmd	393	0	Chie	Uh, why the sudden onion hate...?	Hein, por que você odeia alho {0A}verde...?
+msg_quiz_answer.bmd	394	0	Yukiko	11600 yen!	11,600 ienes!
+msg_quiz_answer.bmd	395	0	Chie	Whoa, Yukiko. You're like a calculator.	Uau, Yukiko. Você é tipo uma {0A}calculadora humana.
+msg_quiz_answer.bmd	396	0	Yukiko	Really? That wasn't all that difficult.	Sério? Não foi tão difícil pra mim.
+msg_quiz_answer.bmd	397	0	Chie	Uhhh, 12400 yen!	Uhhh, 12,400 ienes!
+msg_quiz_answer.bmd	398	0	Chie	What!? Wh-Where'd I add wrong!?	Quê?! E-Eu errei a soma?!
+msg_quiz_answer.bmd	399	0	Yukiko	Chie, math really isn't your{0A}specialty, is it...	Chie, matemática não é mesmo o seu {0A}forte, não é...?
+msg_quiz_answer.bmd	400	0	Yukiko	The art room!	A sala de artes!
+msg_quiz_answer.bmd	401	0	Yosuke	How 'bout the Angler's Set!?	Que tal... Conjunto do Pescador?!
+msg_quiz_answer.bmd	402	0	Yukiko	Um, Fish Fishing Set!?	Um, Conjunto de Pescaria?!
+msg_quiz_answer.bmd	403	0	Yukiko	Wait... I guess you're fishing, you're{0A}already going to catch fish... Snrk...{0A}I wasn't making sense, was I!	Espera... Se você for pescar, você já {0A}tá numa pescaria... Snrk... Errei feio, {0A}né?!
+msg_quiz_answer.bmd	404	0	Yukiko	Red polka dots!	Vermelho com bolinhas!
+msg_quiz_answer.bmd	405	0	Yosuke	Red plaid!	Vermelho!
+msg_quiz_answer.bmd	406	0	Yukiko	Plain red!	Vermelho listrado!
+msg_quiz_answer.bmd	407	0	Yukiko	Ooh! You should've gotten that one!	Vermelho!
+msg_quiz_answer.bmd	408	0	Chie	Plain blue...!	Azul...!
+msg_quiz_answer.bmd	409	0	Chie	Huh? He doesn't?	Hein? Não é isso?
+msg_quiz_answer.bmd	410	0	Yukiko	Mmmm... six days!	Hmmm... seis dias!
+msg_quiz_answer.bmd	411	0	Yosuke	No way!? How do you remember that?	Nem?! Como você lembra disso?
+msg_quiz_answer.bmd	412	0	Yukiko	I always make sure to check, because I{0A}do the laundry on sunny days.	Eu sempre fico de olho, porque eu {0A}ponho as roupas pra secar quando faz {0A}sol.
+msg_quiz_answer.bmd	413	0	Yosuke	Er, about ten or so...?	Er, uns dez dias talvez...?
+msg_quiz_answer.bmd	414	0	Yosuke	Oh, come on! Like anyone can{0A}remember that! I barely remember{0A}what month it is now!	Ah, qual é! Nem ferrando que eu vou {0A}lembrar disso! Eu mal sei que mês a {0A}gente tá!
+msg_quiz_answer.bmd	415	0	Yosuke	Clamshell Inn!	Hotel Ostra!
+msg_quiz_answer.bmd	416	0	Chie	Yosuke, you're only good at{0A}remembering stuff like this, aren't you?	Yosuke, você só é bom pra lembrar {0A}dessas coisas, né?
+msg_quiz_answer.bmd	417	0	Yosuke	I-It's not like that! Don't say things{0A}that could get me in trouble!	N-Não é bem assim! Não fala assim de {0A}mim!
+msg_quiz_answer.bmd	418	0	Yosuke	Chihiro Fushimi.	Chihiro Fushimi.
+msg_quiz_answer.bmd	419	0	Yosuke	Heheh, yeah I remember!{0A}She was a goddess in glasses!	Heheh, isso aí, eu me lembro! Ela {0A}parecia uma deusa com aqueles óculos!
+msg_quiz_answer.bmd	420	0	Chie	Chihiro Fukumi...?	Chihiro Fukumi...?
+msg_quiz_answer.bmd	421	0	Chie	I don't know! Am I close? It's{0A}the girl in the glasses, right?	Não tenho ideia! Tô perto? É aquela {0A}garota de óculos, né?
+msg_quiz_answer.bmd	422	0	Yukiko	Mr. Edogawa!	Sr. Edogawa!
+msg_quiz_answer.bmd	423	0	Yukiko	He lectured us on the Qabbalah, right?{0A}...He was kind of funny, though.	Ele deu aula pra gente sobre a Cabala, {0A}não foi? ...Mas ele era meio {0A}engraçado.
+msg_quiz_answer.bmd	424	0	Chie	"Kind of? You mean ""totally."""	Meio engraçado? Tá mais pro circo {0A}todo.
+msg_quiz_answer.bmd	425	0	Yukiko	I suppose so. The city really is{0A}different than places out here...	Imagino que sim. A cidade é bem {0A}diferente que aqui...
+msg_quiz_answer.bmd	426	0	Chie	Uhhh, Namikawa!	Hããã, Namikawa!
+msg_quiz_answer.bmd	427	0	Chie	What, no!? But that name sounds so{0A}familiar...	Quê, não?! Mas esse nome parece {0A}familiar...
+msg_quiz_answer.bmd	428	0	Yosuke	Mitsuo the Hero!	Mitsuo, o Herói!
+msg_quiz_answer.bmd	429	0	Yukiko	Mitsuo the Chosen!	Mitsuo, o Escolhido!
+msg_quiz_answer.bmd	430	0	Yosuke	Gigadyne!	Gigadyne!
+msg_quiz_answer.bmd	431	0	Yukiko	Mahadyne!	Mahadyne!
+msg_quiz_answer.bmd	432	0	Chie	Airplane wings... I think?	Asas de avião... Eu acho?
+msg_quiz_answer.bmd	433	0	Yukiko	A rocket booster!	Um propulsor de foguete!
+msg_quiz_answer.bmd	434	0	Yukiko	Awww, she'd look cooler with that.	Awwww, ela ia parecer mais legal {0A}assim.
+msg_quiz_answer.bmd	435	0	Chie	Uhh, what was it? Mute Ray!?	Hããã, como era mesmo? Raio do {0A}Silêncio?!
+msg_quiz_answer.bmd	436	0	Yukiko	Panic Ray!	Raio do Pânico!
+msg_quiz_answer.bmd	437	0	Yukiko	Orb of Darkness, right?	Orbe da Escuridão, certo?
+msg_quiz_answer.bmd	438	0	Yosuke	Orb of Light!	Orbe da Luz!
+msg_quiz_answer.bmd	439	0	Yosuke	"If I remember correctly, it was{0A}""chapter."""	"Se eu me lembro bem, era ""capítulo."""
+msg_quiz_answer.bmd	440	0	Yukiko	Stage, right!	Fase, né?!
+msg_quiz_answer.bmd	441	0	Yukiko	Oh... Oops.	Oh... Oops.
+msg_quiz_answer.bmd	442	0	Chie	Getting in touch with your inner actor{0A}on us, Yukiko?	Não sabia que você entendia de jogos, {0A}Yukiko.
+msg_quiz_answer.bmd	443	0	Yukiko	N-No, I wasn't!	N-Não, não entendo não!
+msg_quiz_answer.bmd	444	0	Yosuke	Yeah, I think you were...	É, eu acho que sim viu...
+msg_quiz_answer.bmd	445	0	Yukiko	......	......
+msg_quiz_answer.bmd	446	0	Teddie	Exit! Staaaaaage right!	Tantarã! Yukiko subiu de nível!
+msg_quiz_answer.bmd	447	0	Yukiko	I-I'm sorry. Never mind.{0A}Let's just move on...	D-Desculpa. Esqueçam disso. Vamos {0A}continuar...
+msg_quiz_answer.bmd	448	0	Yukiko	A sword! Right!?	Uma espada! Certo?!
+msg_quiz_answer.bmd	449	0	Chie	M-Maybe a shield!?	T-Talvez um escudo?!
+msg_quiz_answer.bmd	450	0	Yukiko	I believe they were blue...	Eu acho que elas eram azuis...
+msg_quiz_answer.bmd	451	0	Yosuke	Could it be red!?	Talvez vermelhas?!
+msg_quiz_answer.bmd	452	0	Chie	Feather Crow!	Feather Crow!
+msg_quiz_answer.bmd	453	0	Chie	"I mean, that just doesn't sound{0A}right, does it? ""Crow"" is a name{0A}for a bad guy."	"Tipo, não parece certo, né? ""Crow"" é {0A}muito o nome de um cara do mal."
+msg_quiz_answer.bmd	454	0	Yosuke	You'd better apologize to all the{0A}world's crows, Chie.	É melhor você se desculpar pra todos {0A}os corvos do mundo, Chie.
+msg_quiz_answer.bmd	455	0	Yukiko	Feather Horned Owl!	Feather Horned Owl!
+msg_quiz_answer.bmd	456	0	Yukiko	"There's a ""Horned Owl""!? It doesn't{0A}seem to match the other names..."	"Tem um ""Horned Owl""?! Não faz {0A}sentido com os outros nomes..."
+msg_quiz_answer.bmd	457	0	Chie	Phoenix Rangers!	Phoenix Rangers!
+msg_quiz_answer.bmd	458	0	Chie	Rising from the ashes, no matter how{0A}many times we lose... That's us, the{0A}Phoenix Rangers!	Das cinaz, não importa quantas vezes {0A}perdermos... Ainda somos nós, os {0A}Phoenix Rangers!
+msg_quiz_answer.bmd	459	0	Yukiko	Um... How often do they lose?{0A}They are the heroes, right...?	Hã... Eles costumam perder? Eles são {0A}os hérois, não é...?
+msg_quiz_answer.bmd	460	0	Yosuke	Phoenix Heroes!	Phoenix Heroes!
+msg_quiz_answer.bmd	461	0	Yosuke	"What!? B-But, it's in the song!{0A}""We'll face any danger, 'cuz we're{0A}the Phoenix--"" ...Oh, wait."	"Quê?! M-Mas tá na música! ""Vamos {0A}enfrentar qualquer perigo, por que a {0A}gente é os Phoneix--"" ...Ah..."
+msg_quiz_answer.bmd	462	0	Chie	Hawk!	Hawk!
+msg_quiz_answer.bmd	463	0	Chie	Hawk is the red one! And the red{0A}guy is always the leader!	O Hawk é o vermelho! E o cara {0A}vermelho é sempre o líder!
+msg_quiz_answer.bmd	464	0	Yosuke	Wait, so is he the leader because he's{0A}red, or is he red because he's the{0A}leader...?	Espera, então ele é o líder porque é {0A}vermelho, ou é vermelho porque é o {0A}líder...?
+msg_quiz_answer.bmd	465	0	Yukiko	Feather Condor!	Feather Condor!
+msg_quiz_answer.bmd	466	0	Yukiko	Oh... no? I don't watch much TV...	Ah... não? Eu não assisto muita TV...
+msg_quiz_answer.bmd	467	0	Chie	Feather Swan!	Feather Swan!
+msg_quiz_answer.bmd	468	0	Chie	C'mon, It's Swan! He looks like a man{0A}who needs to take charge. He's the blue{0A}one, so he's the second-in-command!	Qual é, é o Swan! Ele parece o cara que {0A}precisa tomar a liderança. Ele é o azul, {0A}então é o segundo no comando!
+msg_quiz_answer.bmd	469	0	Yukiko	Wow, Chie! You're so knowledgeable.	Uau, Chie! Você é tão inteligente,
+msg_quiz_answer.bmd	470	0	Yosuke	No, that's just her not making sense...	Não, isso é só ela inventando coisa.
+msg_quiz_answer.bmd	471	0	Yosuke	Uh, Condor!	Hã, Condor!
+msg_quiz_answer.bmd	472	0	Yosuke	But Condor sounds so strong!	Mas Condor parece um bicho tão forte!
+msg_quiz_answer.bmd	473	0	Chie	Corn on the cob!	Milho na espiga!
+msg_quiz_answer.bmd	474	0	Yosuke	What the heck!? How are you faster{0A}than me!?	É o quê?! Como você foi mais rápida {0A}que eu?!
+msg_quiz_answer.bmd	475	0	Chie	Haha, I'll never lose a question about{0A}food!	Haha, nunca que eu ia errar uma {0A}pergunta sobre comida!
+msg_quiz_answer.bmd	476	0	Yukiko	Cotton candy!	Algodão doce!
+msg_quiz_answer.bmd	477	0	Chie	B-Black and white!	P-Preto e branco!
+msg_quiz_answer.bmd	478	0	Chie	Whew! It was pretty dark at the time,{0A}so I wasn't really sure that was right.	Ufa! Tava bem escuro lá na hora, {0A}então eu não tinha certeza.
+msg_quiz_answer.bmd	479	0	Yukiko	Black...?	Preta...?
+msg_quiz_answer.bmd	480	0	Yukiko	Naoto-kun!	Naoto-kun!
+msg_quiz_answer.bmd	481	0	Yosuke	I'd rather not remember, but... black!	Eu queria não lembrar, mas... era {0A}preta!
+msg_quiz_answer.bmd	482	0	Yosuke	Ugh, the thing's burned into my brain!	Ugh, aquela coisa não sai da minha {0A}cabeça!
+msg_quiz_answer.bmd	483	0	Yukiko	Gold!	Dourada!
+msg_quiz_answer.bmd	484	0	Yukiko	Huh? I remember it standing out, though.	Não? Mas eu lembro de ser super {0A}chamativa.
+msg_quiz_answer.bmd	485	0	Yosuke	...The color's normal.{0A}The problem was the shape.	...A cor era normal. O negócio era o {0A}formato.
+msg_quiz_answer.bmd	486	0	Chie	29, the meat number!	29, o número da carne!
+msg_quiz_answer.bmd	487	0	Yukiko	Wait, what?	Pera, que?
+msg_quiz_answer.bmd	488	0	Chie	"Because two is ""ni,"" and nine is ""ku,""{0A}and meat is ""niku."" Get it?"	"Porque dois é ""ni"" e nove é ""ku"" e {0A}carne é ""niku"". Entendeu?"
+msg_quiz_answer.bmd	489	0	Yosuke	Meat!	Carne!
+msg_quiz_answer.bmd	490	0	Yosuke	Huh? Really? Knowing her, there'd{0A}have to be something like that...	Hã? Sério? Conhecendo ela, tem que {0A}ser algo a ver com isso...
+msg_quiz_answer.bmd	491	0	Chie	There IS something like that!{0A}You're close, Yosuke!	Tem algo a ver com isso! Você tá tão {0A}perto, Yosuke!
+msg_quiz_answer.bmd	492	0	Yukiko	Plain yellow!	Amarelo!
+msg_quiz_answer.bmd	493	0	Yosuke	Plain red?	Vermelho?
+msg_quiz_answer.bmd	494	0	Yosuke	A city bike!	Uma bicicleta normal!
+msg_quiz_answer.bmd	495	0	Yosuke	"Haha! He rode that thing to the beach{0A}AND during our ""up close and personal""{0A}plan!"	"Haha! Ele pilotou aquele negócio até a {0A}praia e durante o nosso plano ""Próximo{0A}e pessoal""!"
+msg_quiz_answer.bmd	496	0	Chie	Up close and personal{0A}plan?	"Plano ""Próximo e pessoal""?"
+msg_quiz_answer.bmd	497	0	Yosuke	N-Nothing! Nothing at all!	N-Nada! Nadica de nada!
+msg_quiz_answer.bmd	498	0	Yukiko	Mountain bike!	Mountain bike!
+msg_quiz_answer.bmd	499	0	Yukiko	Oh, this is Kanji-kun's bicycle.{0A}I thought it was asking about{0A}Yosuke-kun's.	Ah, essa é a bicicleta do Kanji-kun. Eu {0A}achei que era sobre a do Yosuke-kun.
+msg_quiz_answer.bmd	500	0	Chie	Pure disappointment!	Pura decepção!
+msg_quiz_answer.bmd	501	0	Chie	Yeah! I mean, that's the only one it{0A}could have been, right?	Isso! Tipo, só podia ter sido essa, né?
+msg_quiz_answer.bmd	502	0	Yosuke	Shut up! Don't answer like you{0A}remember it!	Cala a boca! Não fica falando como se {0A}lembrasse daquilo!
+msg_quiz_answer.bmd	503	0	Chie	R-Runaway express train!	T-Trem expresso!
+msg_quiz_answer.bmd	504	0	Chie	Hahaha... Straight to the final stop,{0A}huh?	Hahaha... Direto pra parada final, {0A}hein?
+msg_quiz_answer.bmd	505	0	Yosuke	S-Speeding express train!	U-Um trem expressivo!
+msg_quiz_answer.bmd	506	0	Yosuke	That wasn't it...? Well... Good!{0A}I'm glad I don't remember!	Não era isso? Bem... Ótimo, que bom! {0A}Ainda bem que não me lembro!
+msg_quiz_answer.bmd	507	0	Yukiko	TV World!	Mundo da TV!
+msg_quiz_answer.bmd	508	0	Yukiko	Teddie's outfit was incredible!{0A}Naoto-kun must be skilled at makeup.	O vestido do Kuma estava lindo! A {0A}Naoto-kun deve ser muito boa fazendo {0A}maquiagem.
+msg_quiz_answer.bmd	509	0	Teddie	Heheheh... Gimme your hearts!	Heheheh... Me deem os seus corações!
+msg_quiz_answer.bmd	510	0	Yosuke	Don't let it go to your head...	Não se anima não...
+msg_quiz_answer.bmd	511	0	Chie	Wonderland!	País das Maravilhas!
+msg_quiz_answer.bmd	512	0	Chie	Oh... No?	Ah... Não?
+msg_quiz_answer.bmd	513	0	Teddie	"Tsk tsk tsk... You haven't done your{0A}homework. You talk about me, you talk{0A}about ""that"" world."	"Tsc, tsc, tsc... Vocês não tem {0A}estudado mesmo. Falam de mim, falam{0A}""daquele"" mundo."
+msg_quiz_answer.bmd	514	0	Chie	What world!?	Que mundo?!
+msg_quiz_answer.bmd	515	0	Chie	P-Pink!	R-Rosa!
+msg_quiz_answer.bmd	516	0	Chie	I don't remember, but she does like{0A}pink...	Não lembro, mas até que ela gosta de {0A}rosa...
+msg_quiz_answer.bmd	517	0	Yosuke	Er, red!?	Er, vermelho?!
+msg_quiz_answer.bmd	518	0	Yosuke	I don't remember that stuff! And even if{0A}I did, I'd never admit it! I'd rather{0A}lose points than get this right!	Eu não lembro dessas paradas! E se {0A}lembrasse, nunca que eu admitiria! Eu {0A}prefiro perder ponto do que acertar {0A}isso aí!
+msg_quiz_answer.bmd	519	0	Yosuke	Pink!	Rosa!
+msg_quiz_answer.bmd	520	0	Yukiko	Red!	Vermelho!
+msg_quiz_answer.bmd	521	0	Yukiko	Huh? No? I remember it being flashy.	Hã? Não? Eu lembro de ser bem {0A}chamativo.
+msg_quiz_answer.bmd	522	0	Yosuke	A play, right!? It was a play!	Uma peça, né?! Certeza que foi uma {0A}peça!
+msg_quiz_answer.bmd	523	0	Yosuke	Heheh, good thing I went and saw it!	Hehehe, ainda bem que eu fui lá e {0A}assisti!
+msg_quiz_answer.bmd	524	0	Chie	A haunted mansion!	Uma mansão mal-assombrada!
+msg_quiz_answer.bmd	525	0	Chie	That wasn't it...? I didn't go in, but{0A}I remember hearing screaming.	Não é isso...? Eu não entrei, mas eu {0A}lembro de ter ouvido uns gritos.
+msg_quiz_answer.bmd	526	0	Yosuke	Mystery Food X!	Comida Misteriosa X
+msg_quiz_answer.bmd	527	0	Yosuke	But... It was miraculously non-lethal.	Mas... Por um milagre não foi fatal.
+msg_quiz_answer.bmd	528	0	Chie	"Whaddya mean ""miraculously""!?"	"Como assim ""por um milagre""!?"
+msg_quiz_answer.bmd	529	0	Yukiko	Failcake!	Bolo Bucha
+msg_quiz_answer.bmd	530	0	Chie	You wouldn't be saying that about{0A}something you made...	Você não falaria assim se você tivesse {0A}feito o negócio...
+msg_quiz_answer.bmd	531	0	Yukiko	Oh, but it was something like that at{0A}first, wasn't it?	Ah, mas era uma coisa assim no {0A}começo, não é?
+msg_quiz_answer.bmd	532	0	Yosuke	Thank heaven I'm still alive...	Por sorte eu ainda tô vivo...
+msg_quiz_answer.bmd	533	0	Yukiko	Naoto-kun!	Naoto-kun!
+msg_quiz_answer.bmd	534	0	Yukiko	All right... I remember because I was{0A}next to her!	Isso... Eu lembro porque eu tava do {0A}lado dela!
+msg_quiz_answer.bmd	535	0	Yosuke	Uh, Yukiko! ...I hope?	Hã, Yukiko! ...Eu acho?
+msg_quiz_answer.bmd	536	0	Yosuke	Urgh...! I was too nervous to notice{0A}anything then...	Urgh...! Eu tava nervoso demais pra {0A}prestar atenção nisso lá...
+msg_quiz_answer.bmd	537	0	Yosuke	Long nose!	Nariz longo!
+msg_quiz_answer.bmd	538	0	Chie	Huh? There was a fortune teller at the{0A}Culture Festival!?	Hã? Tinha uma vidente no Festival {0A}Cultural?!
+msg_quiz_answer.bmd	539	0	Yosuke	Everyone said that her fortunes were{0A}totally dead-on.	Dizem que ela acertava o futuro de {0A}todo mundo.
+msg_quiz_answer.bmd	540	0	Chie	Blue nose!	Nariz azul!
+msg_quiz_answer.bmd	541	0	Chie	There was a fortune teller stand?{0A}I don't remember seeing one.	Tinha uma barraquinha com uma {0A}vidente? Eu não lembro disso.
+msg_quiz_answer.bmd	542	0	Yukiko	Her right hand!	Na mão direita!
+msg_quiz_answer.bmd	543	0	Yukiko	*giggle* I got it! I thought she was{0A}right-handed.	Hihihi... Consegui! Eu achei que ela {0A}era destra.
+msg_quiz_answer.bmd	544	0	Chie	Um, left!	Uh, esquerda!
+msg_quiz_answer.bmd	545	0	Chie	Hmmm... I see her all the time, but I{0A}guess I don't really pay attention...	Hmmmm... Eu vejo ela toda hora, mas {0A}acho que não presto muita atenção {0A}mesmo...
+msg_quiz_answer.bmd	546	0	Chie	Strawberries!	Morangos!
+msg_quiz_answer.bmd	547	0	Chie	I'm the one who picked it out!{0A}Of course I'd remember it.{0A}Don't you, Yosuke?	Fui eu que escolhi esse! Claro que eu ia {0A}lembrar. Né não, Yosuke?
+msg_quiz_answer.bmd	548	0	Yosuke	I think I've blocked out most of{0A}what happened...	Acho que minha mente apagou esses {0A}eventos...
+msg_quiz_answer.bmd	549	0	Yukiko	White roses!	Rosas brancas!
+msg_quiz_answer.bmd	550	0	Yukiko	Oh, that's right! Chie changed her mind{0A}at the last second...	Ah, verdade! A Chie mudou de ideia no{0A}último segundo...
+msg_quiz_answer.bmd	551	0	Chie	Too bad. I thought he might look good{0A}with flowers in his hair, but it just{0A}didn't work.	Que pena. Eu achei que ele ia ficar {0A}bonito com uma flor no cabelo, mas não{0A}teve jeito.
+msg_quiz_answer.bmd	552	0	Yosuke	I look awful with stuff in my hair{0A}anyway!	Eu fico feião com essas coisas no meu {0A}cabelo mesmo!
+msg_quiz_answer.bmd	553	0	Yosuke	209!	209!
+msg_quiz_answer.bmd	554	0	Chie	309!	309!
+msg_quiz_answer.bmd	555	0	Yosuke	Kunino-sagiri!	Kunino-sagiri!
+msg_quiz_answer.bmd	556	0	Chie	Envious Giant!	Gigante da Inveja
+msg_quiz_answer.bmd	557	0	Yukiko	Thirsting Giant!	Gigante da Sede
+msg_quiz_answer.bmd	558	0	Yosuke	Blue!	Azul!
+msg_quiz_answer.bmd	559	0	Chie	Red! ...Or was it?	Vermelho! ...Ou será que não?
+msg_quiz_answer.bmd	560	0	Yukiko	I remember it being lions.	Eu lembro que eram leões.
+msg_quiz_answer.bmd	561	0	Yosuke	Uhhhhhh, panther!?	Hãããããããã, pantera?!
+msg_quiz_answer.bmd	562	0	Yosuke	Red!	Vermelho!
+msg_quiz_answer.bmd	563	0	Yukiko	Yellow!	Amarelo!
+msg_quiz_answer.bmd	564	0	Yukiko	Thirteen!	Treze!
+msg_quiz_answer.bmd	565	0	Chie	I don't know... eight?	Não sei... oito?
+msg_quiz_answer.bmd	566	0	Chie	Blue!	Azul!
+msg_quiz_answer.bmd	567	0	Chie	That room makes me sick just{0A}remembering it. Geez...	Aquele quarto me deixa com nojo só de {0A}lembrar. Vixe...
+msg_quiz_answer.bmd	568	0	Yukiko	Would it be... red...?	Imagino que seja... vermelho...?
+msg_quiz_answer.bmd	569	0	Chie	Kanji-kun!	Kanji-kun!
+msg_quiz_answer.bmd	570	0	Chie	Man, that was an awkward moment.	Cara, foi uma situação bem estranha.
+msg_quiz_answer.bmd	571	0	Yosuke	Seriously. How did that idea pass...?	Papo. Como que aquela ideia passou, {0A}hein...?
+msg_quiz_answer.bmd	572	0	Chie	It's your fault to begin with!	Pra começo de conversa, foi ideia sua!
+msg_quiz_answer.bmd	573	0	Yukiko	Was it Yosuke-kun?	Foi o Yosuke-kun não é?
+msg_quiz_answer.bmd	574	0	Yukiko	It lowers the ability of one enemy.	Reduz as habilidades de 1 inimigo.
+msg_quiz_answer.bmd	575	0	Yosuke	Raises the ability of one ally!	Aumenta as habilidades de 1 inimigo!
+msg_quiz_answer.bmd	576	0	Chie	Mute, it's mute!	Silenciar, é silenciar!
+msg_quiz_answer.bmd	577	0	Yosuke	Enervamatation!	Amniminésia!
+msg_quiz_answer.bmd	578	0	Yosuke	Got this one in the bag! Exhaustion!	Essa é mole! Exaustão!
+msg_quiz_answer.bmd	579	0	Chie	Poison! ...Or was it?	Veneno! ...Ou será que não?
+msg_quiz_answer.bmd	580	0	Yukiko	Um... Poison!	Hã... Veneno!
+msg_quiz_answer.bmd	581	0	Chie	P-Panic!?	P-Pânico?!
+msg_quiz_answer.bmd	582	0	Yukiko	Mute!	Silenciar!
+msg_quiz_answer.bmd	583	0	Yosuke	Exhaustion... wasn't it, was it?	Exaustão... era isso, né?
+msg_quiz_answer.bmd	584	0	Chie	Rebellion, right?	Rebelião, né?
+msg_quiz_answer.bmd	585	0	Yosuke	Revolution!?	Revolução?!
+msg_quiz_answer.bmd	586	0	Yosuke	What was it? Trafuri!?	O que era mesmo...? Trafuri?!
+msg_quiz_answer.bmd	587	0	Chie	I'm thinking... Traesto.	Eu chuto que... Traesto.
+msg_quiz_answer.bmd	588	0	Yukiko	Re Patra?	Re Patra?
+msg_quiz_answer.bmd	589	0	Chie	Amrita!?	Amrita?!
+msg_quiz_system.bmd	0	0	Teddie	Are you all ready!? Let the quiz begin!	Preparados?! Que comece o quiz!
+msg_quiz_system.bmd	1	0	Teddie	Buzz in to answer!	Apertem para responder!
+msg_quiz_system.bmd	2	0	Teddie	If you know the answer, hit the button{0A}in front of you before time's up!	Se souberem a resposta, apertem{0A}esse botão antes que o tempo se esgote!
+msg_quiz_system.bmd	3	0	Teddie	A correct answer will earn you{0A}one point!	Um acerto vai te garantir {0A}um ponto!
+msg_quiz_system.bmd	4	0	Teddie	An incorrect answer will lose you one{0A}point.	Uma resposta incorreta vai te{0A}fazer perder um ponto.
+msg_quiz_system.bmd	5	0	Teddie	The person with the highest score at{0A}the end of the round wins!	A pessoa com a maior pontuação {0A}no fim da rodada vence!
+msg_quiz_system.bmd	6	0	Teddie	Now for the first question!	Agora para a primeira pergunta!
+msg_quiz_system.bmd	7	0	Teddie	Next question!	Próxima pergunta!
+msg_quiz_system.bmd	8	0	Teddie	And here's the final question!	E já estamos na última pergunta!
+msg_quiz_system.bmd	9	0	Teddie	Here we go with the fifth question!	Seguindo para a quinta pergunta!
+msg_quiz_system.bmd	10	0	Teddie	Question number ten!	Pergunta número dez!
+msg_quiz_system.bmd	11	0	Teddie	Question fifteen!	Pergunta quinze!
+msg_quiz_system.bmd	12	0	Teddie	All right, here's question number twenty!	Muito bem, vamos para {0A}a  pergunta número vinte!
+msg_quiz_system.bmd	13	0	Teddie		
+msg_quiz_system.bmd	14	0	Teddie		
+msg_quiz_system.bmd	15	0	Teddie		
+msg_quiz_system.bmd	16	0	Teddie		
+msg_quiz_system.bmd	17	0	Teddie	Hmmmm? No one's answering?	Hmmmm? Ninguém vai tentar?
+msg_quiz_system.bmd	18	0	Teddie	Time is running out!	O tempo tá acabando!
+msg_quiz_system.bmd	19	0	Teddie	Heh heh heh... I see you're all lost{0A}in thought!	Heh heh heh... Vejo que todos{0A}estão pensando!
+msg_quiz_system.bmd	20	0	Teddie	Correct!	Correto!
+msg_quiz_system.bmd	21	0	Teddie	That one's... on the mark!{0A}One point!	Certa resposta!{0A}Um ponto!
+msg_quiz_system.bmd	22	0	Teddie	Ooh, correct again!	Ooh, acertou de novo!
+msg_quiz_system.bmd	23	0	Teddie	Right again! You're on a roll!	Certo de novo! {0A}Você não para!
+msg_quiz_system.bmd	24	0	Teddie	Too bad, that's incorrect!	Que pena, você errou!
+msg_quiz_system.bmd	25	0	Teddie	Off the mark!	Eeeeerrou!
+msg_quiz_system.bmd	26	0	Teddie	Aww, that's too bad! Wrong again!	Aww, que pena! Errado de novo!
+msg_quiz_system.bmd	27	0	Teddie	Another incorrect answer! Things are{0A}getting tough!	Outra resposta errada! A coisa{0A}tá ficando feia!
+msg_quiz_system.bmd	28	0	Teddie	Wow, Sensei!{0A}You're bearin' it up in here!	Bravo, Sensei!{0A}Bravo!
+msg_quiz_system.bmd	29	0	Teddie	What's wrong, Sensei!? Are you just{0A}going to sit there and lose?	O que houve, Sensei?! Vai ficar{0A}parado aí pra perder?
+msg_quiz_system.bmd	30	0	Teddie	Ohhhh, time is up!	Ahhhh, o tempo acabou!
+msg_quiz_system.bmd	31	0	Teddie	And that's the end of the round!{0A}Let's see the results!	E isso marca o fim da rodada!{0A}Vamos ver os resultados!
+msg_quiz_system.bmd	32	0	Teddie	A chance for double marks!	É a chance de pontos duplos!
+msg_quiz_system.bmd	33	0	Teddie	Whoever correctly answers this question{0A}will earn double points!	Quem acertar agora vai ganhar{0A}pontos em dobro!
+msg_quiz_system.bmd	34	0	Teddie	Trip-trip-triple point time!	Hora dos pontos trip-trip-triplos!
+msg_quiz_system.bmd	35	0	Teddie	The next question will earn you three{0A}times the points!	A próxima pergunta vai valer{0A}três pontos!
+msg_quiz_system.bmd	36	0	Teddie		
+msg_quiz_system.bmd	37	0	Teddie	And that's the end of the first half!{0A}Let's see how our contestants are doing!	E esse é o fim da primeira metade! {0A}Vamos ver como os nossos {0A}competidores estão!
+msg_quiz_system.bmd	38	0	Teddie	Ooh, Sensei is on top!	Ooh, o Sensei está ganhando!
+msg_quiz_system.bmd	39	0	Teddie	Wow, Yosuke is currently in the lead!	Uau, o Yosuke está na liderança!
+msg_quiz_system.bmd	40	0	Teddie	What a surprise! Chie-chan's leading{0A}the pack!	Que surpresa! A Chie-chan está{0A}liderando a matilha!
+msg_quiz_system.bmd	41	0	Teddie	As a surprise to absolutely no one,{0A}Yuki-chan holds the top position!	E, sem muita surpresa, a {0A}Yuki-chan está na liderança!
+msg_quiz_system.bmd	42	0	Teddie	Oh! There's a tie for the top spot!	Ah! Um empate!
+msg_quiz_system.bmd	43	0	Teddie	Heh heh heh... Here's a real...{0A}no bear-ainer!	Heh heh heh... Essa mais {0A}fácil que roubar mel de urso!
+msg_quiz_system.bmd	44	0	Teddie	Now's your chance to raise your score!	Lá vem a sua chance de {0A}aumentar a pontuação!
+msg_quiz_system.bmd	45	0	Teddie	Hee hee... This next question's a{0A}difficult one.	Hee hee... Essa próxima {0A}pergunta é bem difícil.
+msg_quiz_system.bmd	46	0	Teddie	Can any of you answer this!?	Conseguem responder isso?!
+msg_quiz_system.bmd	47	0	Teddie	Add a point!	Adicionem um ponto!
+msg_quiz_system.bmd	48	0	Teddie	Ding!	Ding!
+msg_quiz_system.bmd	49	0	Teddie	Oh, no!	Oh, não!
+msg_quiz_system.bmd	50	0	Teddie	Let's wave bye-bye to your points!{0A}Bye-bye, points!	Vamos dar tchau pros pontos!{0A}Tchau, pontos!
+msg_quiz_system.bmd	51	0	Teddie	Just so you guys know, the score{0A}counter stops at negative nine{0A}points.	Sem querer ser chato, mas o contador{0A}de pontuação para no nove negativo.
+msg_quiz_system.bmd	52	0	Teddie	It's no fun if the gap gets too wide,{0A}right?	Não vai ser legal se a diferença {0A}ficar grande assim, né?
+msg_quiz_system.bmd	53	0	Teddie	Once you're that low, you've got{0A}nothing to lose, so just buzz in!	E quando chegar nesse ponto, é melhor{0A}só apertar o botão, você não vai ter {0A}nada a perder mesmo!
+msg_quiz_system.bmd	54	0	Teddie	We stop counting wrong answers if you're{0A}at negative nine points! So just go{0A}crazy with the answers now!	A gente para de contar as respostas se{0A}você chegar aos nove pontos negativos!{0A}Então é só meter o louco!
+msg_quiz_system.bmd	55	0	Yosuke	Uhhhhhh...	Hãããããã...
+msg_quiz_system.bmd	56	0	Yosuke	Hold on there...	Aguenta aí...
+msg_quiz_system.bmd	57	0	Yosuke	Hmmmm, what was it...?	Hmmmm, como era mesmo...?
+msg_quiz_system.bmd	58	0	Yosuke	Ooh, maybe it's...	Ooh, talvez seja...
+msg_quiz_system.bmd	59	0	Yosuke	Here I go!	Lá vou eu!
+msg_quiz_system.bmd	60	0	Yosuke	This question's mine!	Essa é minha!
+msg_quiz_system.bmd	61	0	Yosuke	I got this!	Deixa comigo!
+msg_quiz_system.bmd	62	0	Yosuke	Heh, it's gotta be this one!	Heh, só pode ser essa!
+msg_quiz_system.bmd	63	0	Yosuke	All right!	Uhulll!
+msg_quiz_system.bmd	64	0	Yosuke	Score one for Yosuke!	Um ponto pro Yosuke!
+msg_quiz_system.bmd	65	0	Yosuke	Heheh, I did it!	Heheh, consegui!
+msg_quiz_system.bmd	66	0	Yosuke	Easy stuff!	Achei foi fácil!
+msg_quiz_system.bmd	67	0	Yosuke	Huh!? Are you serious!?	Hã?! Tá falando sério?!
+msg_quiz_system.bmd	68	0	Yosuke	Wait, that's wrong!?	Pera, tá errado?!
+msg_quiz_system.bmd	69	0	Yosuke	Shoot!	Vixe!
+msg_quiz_system.bmd	70	0	Yosuke	Not bad, partner!	Nada mau, parceiro!
+msg_quiz_system.bmd	71	0	Yosuke	Dang, you beat me to it!	Droga, você ganhou!
+msg_quiz_system.bmd	72	0	Yosuke	Hmmm, you're good.	Hmmm, você é bom.
+msg_quiz_system.bmd	73	0	Yosuke	Haha, too bad.	Haha, que pena.
+msg_quiz_system.bmd	74	0	Yosuke	Huh!? That wasn't right?	Hã?! Não era isso?
+msg_quiz_system.bmd	75	0	Yosuke	Er, that's definitely not it...	Er, não é isso aí não...
+msg_quiz_system.bmd	76	0	Yosuke	Huh? What's wrong?	Hã? O que foi?
+msg_quiz_system.bmd	77	0	Yosuke	Let me guess... your finger slipped?	Ah, o quê... sua mão escorregou?
+msg_quiz_system.bmd	78	0	Yosuke	Ooh!	Ooh!
+msg_quiz_system.bmd	79	0	Yosuke	What the--!?	É o quê--!?
+msg_quiz_system.bmd	80	0	Yosuke	Ugh...	Ugh...
+msg_quiz_system.bmd	81	0	Yosuke	Heheh!	Heheh!
+msg_quiz_system.bmd	82	0	Yosuke	Seriously!?	Serião?!
+msg_quiz_system.bmd	83	0	Chie	Ummmmm...	Ummmmm...
+msg_quiz_system.bmd	84	0	Chie	What was it...?	O que era mesmo..?
+msg_quiz_system.bmd	85	0	Chie	Hmmmmm...	Hmmmmm...
+msg_quiz_system.bmd	86	0	Chie	Wait, it's...	Espera, isso...
+msg_quiz_system.bmd	87	0	Chie	Me! Me! Me! Me! Me!	Eu! Eu! Eu! Eu! Eu!
+msg_quiz_system.bmd	88	0	Chie	Sorry, guys!	Foi mal, gente!
+msg_quiz_system.bmd	89	0	Chie	Let me guess...	Deixa eu pensar...
+msg_quiz_system.bmd	90	0	Chie	Hwataaa!	Hwataaa!
+msg_quiz_system.bmd	91	0	Chie	All right!	Ooook!
+msg_quiz_system.bmd	92	0	Chie	That's one down!	Menos uma!
+msg_quiz_system.bmd	93	0	Chie	I'm just getting started.	Tô só começando.
+msg_quiz_system.bmd	94	0	Chie	Piece of cake!	Molezinha!
+msg_quiz_system.bmd	95	0	Chie	Wha--for real!?	O quê, sério mesmo?!
+msg_quiz_system.bmd	96	0	Chie	You gotta be kidding me!	Tá de brincadeira, né!?
+msg_quiz_system.bmd	97	0	Chie	I was wrong!?	Eu tava errada?!
+msg_quiz_system.bmd	98	0	Chie	Wow!	Uau!
+msg_quiz_system.bmd	99	0	Chie	Uh-oh...	Uh-oh...
+msg_quiz_system.bmd	100	0	Chie	Wow... You really are incredible.	Nossa... Você é muito {0A}bom mesmo.
+msg_quiz_system.bmd	101	0	Chie	Don't worry about it!	Relaxa!
+msg_quiz_system.bmd	102	0	Chie	Really!? I thought so too!	Sério?! Eu pensei na mesma coisa!
+msg_quiz_system.bmd	103	0	Chie	Uh, no...?	Hã, não...?
+msg_quiz_system.bmd	104	0	Chie	Huh!? Why'd you buzz in if you didn't{0A}know the answer!?	Hã?! Por que você apertou se {0A}nem sabia a resposta?!
+msg_quiz_system.bmd	105	0	Chie	All right! This might be my chance!	Isso! Acho que é a minha chance!
+msg_quiz_system.bmd	106	0	Chie	Yeah!	Aeeee!
+msg_quiz_system.bmd	107	0	Chie	What!?	O quê?!
+msg_quiz_system.bmd	108	0	Chie	*sigh*	*suspiro*
+msg_quiz_system.bmd	109	0	Chie	Heehee!	Heehee!
+msg_quiz_system.bmd	110	0	Chie	Whaaaa!?	O quêêê?!
+msg_quiz_system.bmd	111	0	Yukiko	Ummm...	Ummm...
+msg_quiz_system.bmd	112	0	Yukiko	This is...	Essa é...
+msg_quiz_system.bmd	113	0	Yukiko	What was it...?	O que era mesmo...?
+msg_quiz_system.bmd	114	0	Yukiko	Oh, this one's...!	Ah, essa é...!
+msg_quiz_system.bmd	115	0	Yukiko	Me!	Eu!
+msg_quiz_system.bmd	116	0	Yukiko	I know!	Eu sei!
+msg_quiz_system.bmd	117	0	Yukiko	Could it be...?	Será que...?
+msg_quiz_system.bmd	118	0	Yukiko	I'll answer it with one strike!	Vou responder de uma vez!
+msg_quiz_system.bmd	119	0	Yukiko	Yes!	Isso!
+msg_quiz_system.bmd	120	0	Yukiko	*phew* Thank goodness.	Ufa, que bom.
+msg_quiz_system.bmd	121	0	Yukiko	I think I'm warming up!	Estou só começando!
+msg_quiz_system.bmd	122	0	Yukiko	*chuckle* Lucky me.	*risada* Que sorte.
+msg_quiz_system.bmd	123	0	Yukiko	Huh, it's not?	Hã, não é?
+msg_quiz_system.bmd	124	0	Yukiko	Oh, no...	Ah, não...
+msg_quiz_system.bmd	125	0	Yukiko	No way!	Impossível!
+msg_quiz_system.bmd	126	0	Yukiko	You're incredible!	Incrível!
+msg_quiz_system.bmd	127	0	Yukiko	...I won't lose!	...Eu não vou perder!
+msg_quiz_system.bmd	128	0	Yukiko	I expect nothing less of you.	Não esperava menos de você.
+msg_quiz_system.bmd	129	0	Yukiko	That was too bad.	Que pena.
+msg_quiz_system.bmd	130	0	Yukiko	Oh, I thought you had it right...	Ah, eu achei que você {0A}tinha acertado....
+msg_quiz_system.bmd	131	0	Yukiko	I... doubt that was it.	Eu não... acho que era isso.
+msg_quiz_system.bmd	132	0	Yukiko	Did you buzz in by accident?	Você apertou sem querer?
+msg_quiz_system.bmd	133	0	Yukiko	I know it can be hard to choose{0A}sometimes.	Eu sei como é difícil escolher {0A}de vez em quando.
+msg_quiz_system.bmd	134	0	Yukiko	Yes!	Isso!
+msg_quiz_system.bmd	135	0	Yukiko	No...!	Não...!
+msg_quiz_system.bmd	136	0	Yukiko	Awww...	Awww...
+msg_quiz_system.bmd	137	0	Yukiko	*giggle*	Hihihihi...
+msg_quiz_system.bmd	138	0	Yukiko	Huh!?	Hã?!
+msg_quiz.bmd	0	0	<EMPTY>	Yosuke had many things to say about the{0A}curry he ate on the school trip. Which{0A}of these adjectives did he NOT use?	O Yosuke tinha muito o que dizer sobre o curry {0A}que ele comeu na viagem escolar. Qual {0A}desses adjetivos ele NÃO usou?
+msg_quiz.bmd	1	0	<EMPTY>	Sticky{0A}Gritty{0A}Slimy{0A}Squishy	Pegajoso{0A}Areiento{0A}Gosmento{0A}Molenga
+msg_quiz.bmd	2	0	<EMPTY>	The first victim of the serial killings{0A}was Mayumi Yamano... Her lover was{0A}Taro Namatame. Who is Namatame's wife?	A primeira vítima dos assassinatos em série foi {0A}a Mayumi Yamano... O amante dela era Taro {0A}Namatame. Quem é a esposa dele?
+msg_quiz.bmd	3	0	<EMPTY>	Misuzu Hiiragi{0A}Misuzu Tsubaki{0A}Misuzu Higashi{0A}Misuzu Kisaragi	Misuzu Hiiragi{0A}Misuzu Tsubaki{0A}Misuzu Higashi{0A}Misuzu Kisaragi
+msg_quiz.bmd	4	0	<EMPTY>	Your soulmate will appear if you stare{0A}into a television set on a rainy night...{0A}What rumor did I just describe?	A sua alma gêmea vai aparecer se você olhar {0A}fixamente em uma televisão numa noite chuvosa... {0A}Que rumor eu acabo de descrever?
+msg_quiz.bmd	5	0	<EMPTY>	The Midnight Channel{0A}The Midday Channel{0A}The Late-Night Channel{0A}The Midnight Radio	O Canal da Meia-Noite{0A}O Canal do Meio-Dia{0A}O Canal da Madrugada{0A}O Rádio da Meia-Noite
+msg_quiz.bmd	6	0	<EMPTY>	"Daidara Metalworks in the central shopping{0A}district is known for its scar-faced owner.{0A}What does the dot after ""Daidara"" mean?"	"Daidara Obras de Metal no distrito comercial{0A}central é famosa pelo dono com uma cicatriz.{0A}O que o ponto depois de ""Daidara"" significa?"
+msg_quiz.bmd	7	0	<EMPTY>	Daidara Bocchi{0A}Daidara Period{0A}Daidara Dot{0A}Daidara Ten	Daidara Bocchi{0A}Daidara Ponto{0A}Daidara Stop{0A}Daidara Virgula
+msg_quiz.bmd	8	0	<EMPTY>	Which is the name of the weekend{0A}shopping program with the catchy tune?	Qual é o nome do programa de {0A}compras dos fins de semana que {0A}tem um jingle viciante?
+msg_quiz.bmd	9	0	<EMPTY>	Tanaka's Amazing{0A}Tanaka's Awesome{0A}Katana's Amazing{0A}Tanaka's Consumables	Produtos Incríveis{0A}Produtos Imprescindíveis{0A}Redutos Incríveis{0A}Consumíveis Incríveis
+msg_quiz.bmd	10	0	<EMPTY>	"Everyone knows the home shopping program{0A}""Tanaka's Amazing Commodities."" Which of{0A}these phrases are in its theme song?"	"Todos conhecem o programa de compras dos{0A}domingos ""Incríveis Produtos do Tanaka"". Qual{0A}destas frases faz parte da sua música tema?"
+msg_quiz.bmd	11	0	<EMPTY>	Granter of your desires{0A}Granter of your wishes{0A}Granter of our desires{0A}Granter of our wishes	Concedendo seus desejos{0A}Concedendo seus anseios{0A}Concedendo seu presente{0A}Concedendo sua vontade
+msg_quiz.bmd	12	0	<EMPTY>	What is the jingle in Junes commercials?	Qual é o jingle usado nos comerciais da Junes?
+msg_quiz.bmd	13	0	<EMPTY>	Every day's great{0A}Every day's swell{0A}Everybody's great{0A}Every day, young life	Todo dia é dia de{0A}Todo dia é incrível{0A}Todo dia é bom{0A}Todo dia, juventude
+msg_quiz.bmd	14	0	<EMPTY>	"In the Quelorie Magic commericial, Rise says:{0A}""Enough with going to the gym!{0A}Good thing there's something..."" what?"	"No comercial de Quelorie Magic, Rise diz: ""Estou {0A}cansada das dietas! Chega de academia! Ainda{0A}bem que há algo que..."" o quê?"
+msg_quiz.bmd	15	0	<EMPTY>	...even I can handle!{0A}...even I can take!{0A}...even I can keep up!{0A}...even I can try!	...até eu possa lidar!{0A}...até eu possa aguentar!{0A}...até eu possa seguir!{0A}...até eu possa tentar!
+msg_quiz.bmd	16	0	<EMPTY>	What is the full name of the replacement{0A}2nd year teacher in class 2, Ms. Kashiwagi?	Qual é o nome completo da professora substituta {0A}do 2º ano da sala 2, Srta. Kashiwagi?
+msg_quiz.bmd	17	0	<EMPTY>	Noriko Kashiwagi{0A}Tomoko Kashiwagi{0A}Machiko Kashiwagi{0A}Akiko Kashiwagi	Noriko Kashiwagi{0A}Tomoko Kashiwagi{0A}Machiko Kashiwagi{0A}Akiko Kashiwagi
+msg_quiz.bmd	18	0	<EMPTY>	What is the full name of Mr. Morooka,{0A}more popularly known as King Moron?	Qual é o nome completo do Sr. Morooka,{0A}mais conhecido como Rei Morobosta?
+msg_quiz.bmd	19	0	<EMPTY>	Kinshiro Morooka{0A}Kinjiro Morooka{0A}Kinichiro Morooka{0A}Kingoro Morooka	Kinshiro Morooka{0A}Kinjiro Morooka{0A}Kinichiro Morooka{0A}Kingoro Morooka
+msg_quiz.bmd	20	0	<EMPTY>	What is the word President Tanaka uses{0A}to introduce his products on TV?	Qual palavra o Presidente Tanaka usa{0A}para apresentar seus produtos na TV?
+msg_quiz.bmd	21	0	<EMPTY>	Wonderfulness{0A}Brilliantness{0A}Greatness{0A}Sweetdiculousness	Maravilhoso{0A}Brilhante{0A}Exímio{0A}Doçura
+msg_quiz.bmd	22	0	<EMPTY>	Among the boys of Yasogami High, what is{0A}the ritual of asking Yukiko out on a date{0A}called?	Entre os garotos do Colégio Yasogami existe{0A}um ritual de chamar a Yukiko para um encontro,{0A}qual é o nome desse ritual?
+msg_quiz.bmd	23	0	<EMPTY>	The Amagi Challenge{0A}The Amagi Adventure{0A}The Amagi Trials{0A}The Great Amagi Chase	O Desafio Amagi{0A}A Aventura Amagi{0A}A Provação Amagi{0A}A Grande Caça Amagi
+msg_quiz.bmd	24	0	<EMPTY>	What is pinned to the right side of{0A}Teddie's shirt when Chie and Yukiko{0A}dress him for the first time at Junes?	O que está fincado no lado direito da camiseta {0A}do Kuma quando a Chie e a Yukiko{0A}vestiram ele pela primeira vez na Junes?
+msg_quiz.bmd	25	0	<EMPTY>	Nothing{0A}A rose{0A}A tulip{0A}A daisy	Nada{0A}Uma rosa{0A}Uma tulipa{0A}Uma margarida
+msg_quiz.bmd	26	0	<EMPTY>	What design is printed on the fox's{0A}apron?	O que está estampado no avental{0A}da raposa?
+msg_quiz.bmd	27	0	<EMPTY>	Hearts{0A}Flowers{0A}Polka dots{0A}It's plaid	Corações{0A}Flores{0A}Bolinhas{0A}É de xadrez
+msg_quiz.bmd	28	0	<EMPTY>	What color ribbon does Nanako Dojima wear{0A}in her hair?	Qual é a cor da fita de cabelo que{0A}Nanako Dojima usa?
+msg_quiz.bmd	29	0	<EMPTY>	Pink{0A}Red{0A}White{0A}Yellow	Rosa{0A}Vermelha{0A}Branca{0A}Amarela
+msg_quiz.bmd	30	0	<EMPTY>	Konishi Liquors, on the north side of{0A}the central shopping district, has a soda{0A}machine. Which of these does it NOT sell?	Bebidas Konishi, no lado norte do distrito{0A}comercial central, tem uma máquina de{0A}refri. Qual desses itens ela NÃO vende?
+msg_quiz.bmd	31	0	<EMPTY>	Orange Smash{0A}Dr. Salt NEO{0A}Second Maid{0A}The Natural	Orange Smash{0A}Dr. Salt NEO{0A}Second Maid{0A}The Natural
+msg_quiz.bmd	32	0	<EMPTY>	The shopping district doesn't have much{0A}car traffic, though there is a road.{0A}What's the speed limit there?	O distrito comercial não tem um tráfego{0A}particularmente forte de carros, embora exista {0A}uma pista. Qual é o limite de velocidade lá?
+msg_quiz.bmd	33	0	<EMPTY>	30 kph{0A}40 kph{0A}20 kph{0A}10 kph	30 km/h{0A}40 km/h{0A}20 km/h{0A}10 km/h
+msg_quiz.bmd	34	0	<EMPTY>	The Samegawa River that flows through{0A}town is often used as a place to go.{0A}What class of river is it considered?	O Rio Samegawa que flui pela cidade é um ponto de {0A}encontro famoso entre os moradores da cidade. {0A}Em que categoria esse rio se encaixa?
+msg_quiz.bmd	35	0	<EMPTY>	Class 2{0A}Normal Class{0A}Sub Class{0A}Class 1	Classe 2{0A}Classe Normal{0A}Subclasse{0A}Classe 1
+msg_quiz.bmd	36	0	<EMPTY>	What is the name of the bookstore next{0A}to the gas station in the central{0A}shopping district?	Qual é o nome da livraria que fica {0A}ao lado do posto de gasolina no {0A}distrito comercial central?
+msg_quiz.bmd	37	0	<EMPTY>	Yomenaido Bookstore{0A}Yondemita Bookstore{0A}Yomunokayo Bookstore{0A}Yondemiyo Foodstore	Livraria Yomenaido{0A}Livraria Yomeinado{0A}Livraria Yomunokayo{0A}Mercearia Yondemiyo
+msg_quiz.bmd	38	0	<EMPTY>	What is the name of the now-closed{0A}pharmacy on the north side of the{0A}central shopping district?	Qual é o nome da recém-fechada{0A}farmácia no lado norte do distrito{0A}comercial central?
+msg_quiz.bmd	39	0	<EMPTY>	Nakanishi Drugs{0A}Ryuseigun{0A}Ichikawa Electronics{0A}Yasogami High School	Farmácia Nakanishi{0A}Ryuseigun{0A}Eletrônicos Ichikawa{0A}Colégio Yasogami
+msg_quiz.bmd	40	0	<EMPTY>	Yasogami High has a classroom building and{0A}a practice building. Which of these is NOT{0A}on the 2nd floor of the classroom building?	O Colégio Yasogami possui um prédio de salas{0A}e um prédio de prática. Qual dessas NÃO{0A}FICA no segundo andar do prédio de salas?
+msg_quiz.bmd	41	0	<EMPTY>	Nurse's Office{0A}Calligraphy Room{0A}Student Council Room{0A}Library	Enfermaria{0A}Sala de Caligrafia{0A}Conselho Estudantil{0A}Biblioteca
+msg_quiz.bmd	42	0	<EMPTY>	How many rows from the front is Chie's{0A}desk in her class?	Contando de costas para o quadro,{0A}são quantas fileiras até a carteira da Chie?
+msg_quiz.bmd	43	0	<EMPTY>	3{0A}2{0A}5{0A}10	3{0A}2{0A}5{0A}10
+msg_quiz.bmd	44	0	<EMPTY>	"The Yomenaido Bookstore sells a number{0A}of different books, including the hit{0A}""___ Teacher"" series. Fill in the blank!"	"A Livraria Yomenaido vende uma grande variedade {0A}de livros, incluindo a famosa série ""Professor{0A} ________"". Preencha a lacuna!"
+msg_quiz.bmd	45	0	<EMPTY>	Bullied{0A}Crybaby{0A}Weak{0A}Intimidated	Intimidado{0A}Chorão{0A}Fraco{0A}Medroso
+msg_quiz.bmd	46	0	<EMPTY>	What animal is in the playground at the{0A}Junes food court?	Que animal está no parquinho da {0A}praça de alimentação da Junes?
+msg_quiz.bmd	47	0	<EMPTY>	Panda{0A}Tiger{0A}Capybara{0A}Bear	Panda{0A}Tigre{0A}Capivara{0A}Urso
+msg_quiz.bmd	48	0	<EMPTY>	What is the second-to-last stop on the{0A}train line going to Yasoinaba?	Qual é o nome da penúltima parada no{0A}trajeto de trem rumo à Yasoinaba?
+msg_quiz.bmd	49	0	<EMPTY>	Higashi-Inaba{0A}Inaba-Guchi{0A}Nishi-Inaba{0A}Okina	Higashi-Inaba{0A}Inaba-Guchi{0A}Nishi-Inaba{0A}Okina
+msg_quiz.bmd	50	0	<EMPTY>	There is a cafe famous for its sublime{0A}coffee in front of Okina Station.{0A}What is the name of this coffee shop?	Há uma cafeteria famosa pelo seu café{0A}espetacular próxima a Estação Okina.{0A}Qual é o nome dessa cafeteria?
+msg_quiz.bmd	51	0	<EMPTY>	Chagall{0A}Shagirl{0A}Jaguar{0A}Chagol	Chagall{0A}Shagau{0A}Jaguar{0A}Chagau
+msg_quiz.bmd	52	0	<EMPTY>	The drama club at Yasogami High does{0A}not have its own room. Which room does{0A}it use for its club activities?	O clube de teatro do Colégio Yasogami {0A}não tem uma sala própria. Que sala eles{0A}usam para as atividades do clube?
+msg_quiz.bmd	53	0	<EMPTY>	Meeting Room{0A}Social Room{0A}Music Room{0A}Nurse's Office	Sala de Reuniões{0A}Sala Social{0A}Sala de Música{0A}Enfermaria
+msg_quiz.bmd	54	0	<EMPTY>	The Shiroku store offers a sale on rainy{0A}days to bring in more customers.{0A}How much is this rainy-day discount?	A Loja da Shiroku oferece uma liquidação{0A}em dias chuvosos para atrair mais clientes.{0A}Qual é o valor do desconto?
+msg_quiz.bmd	55	0	<EMPTY>	20% Off{0A}30% Off{0A}40% Off{0A}50% Off	20% {0A}30% {0A}40% {0A}50%
+msg_quiz.bmd	56	0	<EMPTY>	What is the name of the now-closed{0A}barber shop in the north side of{0A}the central shopping district?	Qual é o nome da recém-fechada{0A}barbearia no lado norte do distrito{0A}comercial central?
+msg_quiz.bmd	57	0	<EMPTY>	Nishino Barber{0A}Yoshida Barber{0A}Takano Barber{0A}Konishi Barber	Nishino{0A}Yoshida{0A}Takano{0A}Konishi
+msg_quiz.bmd	58	0	<EMPTY>	What is the name of the now-closed{0A}electronics store in the north side{0A}of the central shopping district?	Qual é o nome da recém-fechada{0A}loja de eletrônicos no lado norte do{0A}distrito comercial?
+msg_quiz.bmd	59	0	<EMPTY>	Ichikawa Electronics{0A}Yamakawa Electronics{0A}Arakawa Electronics{0A}Kawagoe Electronics	Eletrônicos Ichikawa{0A}Eletrônicos Yamakawa{0A}Eletrônicos Arakawa{0A}Eletrônicos Kawagoe
+msg_quiz.bmd	60	0	<EMPTY>	What is the name of the now-closed{0A}bicycle shop in the north side of{0A}the central shopping district?	Qual é o nome da recém-fechada{0A}loja de bicicletas no lado norte{0A}do distrito comercial?
+msg_quiz.bmd	61	0	<EMPTY>	Bigstone{0A}Biking Queen{0A}Inaba Bike{0A}Wada Cycling	Bigstone{0A}Biking Queen{0A}Inaba Bike{0A}Wada Cycling
+msg_quiz.bmd	62	0	<EMPTY>	Which of these stores is not to the{0A}left of Okina Station, if you were{0A}facing towards its entrance?	Qual dessas lojas não está a esquerda{0A}da Estação Okina, supondo que você{0A}esteja de frente para a entrada?
+msg_quiz.bmd	63	0	<EMPTY>	Okina Books{0A}Police Substation{0A}Chagall{0A}Croco Fur	Okina Books{0A}Delegacia da Polícia{0A}Chagall{0A}Croco Fur
+msg_quiz.bmd	64	0	<EMPTY>	"The bulletin board by the police substation{0A}at Okina Station says, ""It's everyone's{0A}job to keep ____ safe!"" Fill in the blank."	"O quadro de avisos da delegacia da Estação{0A}de Okina diz que: ""É o trabalho de todos{0A}manter ____ segura!"" Preencha a lacuna."
+msg_quiz.bmd	65	0	<EMPTY>	Your neighborhood{0A}The Earth{0A}Your city{0A}Your prefecture	A vizinhança{0A}A Terra{0A}A cidade{0A}O município
+msg_quiz.bmd	66	0	<EMPTY>	Which of the following is NOT found in{0A}the Yasogami High nurse's office?	Qual desses NÃO pode ser encontrado{0A}na enfermaria do Colégio Yasogami?
+msg_quiz.bmd	67	0	<EMPTY>	Instant Soba{0A}Kettle{0A}Scale{0A}Refrigerator	Sobá instantâneo{0A}Chaleira{0A}Balança{0A}Geladeira
+msg_quiz.bmd	68	0	<EMPTY>	How many fire extinguishers are located{0A}in the hallways of Yasogami High School's{0A}Practice Building?	Quantos extintores de incêndio existem nos {0A}corredores do Prédio de Prática do Colégio {0A}Yasogami?
+msg_quiz.bmd	69	0	<EMPTY>	9{0A}10{0A}6{0A}7	9{0A}10{0A}6{0A}7
+msg_quiz.bmd	70	0	<EMPTY>	Portraits of famous composers line the{0A}walls of Yasogami High School's music room.{0A}Whose portrait isn't there?	Pinturas de compositores famosos estão expostas{0A}nas paredes da sala de música do Colégio {0A}Yasogami. A pintura de quem não está lá?
+msg_quiz.bmd	71	0	<EMPTY>	Chopin{0A}Bach{0A}Mozart{0A}Shubert	Chopin{0A}Bach{0A}Mozart{0A}Shubert
+msg_quiz.bmd	72	0	<EMPTY>	The Faculty Office of Yasogami High is{0A}on the first floor. Which of these{0A}is in the room next door?	A Secretaria do Colégio Yasogami {0A}fica no primeiro andar. Qual dessas{0A}é a sala logo ao lado?
+msg_quiz.bmd	73	0	<EMPTY>	Nurse's Office{0A}Library{0A}Calligraphy Room{0A}Student Council Room	Enfermaria{0A}Biblioteca{0A}Sala de Caligrafia{0A}Conselho Estudantil
+msg_quiz.bmd	74	0	<EMPTY>	What picture is on the poster in front{0A}of the Student Council room of Yasogami{0A}High School?	Que imagem está no pôster próximo a sala{0A}do Conselho Estudantil no Colégio Yasogami?
+msg_quiz.bmd	75	0	<EMPTY>	Infinity symbol{0A}A big heart{0A}A proud student{0A}A no-smoking sign	Um símbolo do infinito{0A}Um grande coração{0A}Um aluno orgulhoso{0A}Um placa proibindo fumar
+msg_quiz.bmd	76	0	<EMPTY>	What is the price of receiving a fortune{0A}at Tatsuhime Shrine, known for their{0A}powers in assisting matchmaking?	Quanto custa ler sua sorte no Templo{0A}Tatsuhime, famoso por sua capacidade{0A}de aproximar as pessoas?
+msg_quiz.bmd	77	0	<EMPTY>	200 Yen{0A}300 Yen{0A}100 Yen{0A}1000 Yen	200 Ienes{0A}300 Ienes{0A}100 Ienes{0A}1,000 Ienes
+msg_quiz.bmd	78	0	<EMPTY>	What is the name of the beach used by{0A}Inaba citizens for day trips?	Qual é o nome da praia usada pelos{0A}cidadãos de Inaba quando passeiam?
+msg_quiz.bmd	79	0	<EMPTY>	Shichiri Beach{0A}Hachiri Beach{0A}Kukuri Beach{0A}Inaba Beach	Praia Shichiri{0A}Praia Hachiri{0A}Praia Kukuri{0A}Praia de Inaba
+msg_quiz.bmd	80	0	<EMPTY>	Which exit of Okina Station is used as{0A}a meeting spot, with its cafe and theater?	Qual saída da Estação de Okina é usada{0A}como ponto de encontro, onde sua cafeteria{0A}e cinema são encontrados?
+msg_quiz.bmd	81	0	<EMPTY>	North{0A}East{0A}South{0A}West	Norte{0A}Leste{0A}Sul{0A}Oeste
+msg_quiz.bmd	82	0	<EMPTY>	How many student desks are there in{0A}Class 2-2 of Yasogami High School?	Quantas carteiras escolares existem na {0A}Sala 2-2 do Colégio Yasogami?
+msg_quiz.bmd	83	0	<EMPTY>	28{0A}30{0A}32{0A}34	28{0A}30{0A}32{0A}34
+msg_quiz.bmd	84	0	<EMPTY>	How many chairs are there in Class 2-2{0A}of Yasogami High School?	Quantas cadeiras existem na {0A}Sala 2-2 do Colégio Yasogami?
+msg_quiz.bmd	85	0	<EMPTY>	29{0A}28{0A}26{0A}31	29{0A}28{0A}26{0A}31
+msg_quiz.bmd	86	0	<EMPTY>	What stuffed animal is located on the{0A}bottom row around the center of the{0A}lockers at the back of Class 2-2?	Que animal de pelúcia está escondido{0A}na fileira de baixo próxima ao centro{0A}dos armários no fundo da Sala 2-2?
+msg_quiz.bmd	87	0	<EMPTY>	Panda{0A}Giraffe{0A}Bear{0A}Jack Frost	Um Panda{0A}Uma Girafa{0A}Um Urso{0A}Um Jack Frost
+msg_quiz.bmd	88	0	<EMPTY>	There are several banners about ramen at{0A}Shichiri Beach. How many are there?	Há vários pôsteres sobre ramen na Praia{0A}Shichiri. Existem quantos no total?
+msg_quiz.bmd	89	0	<EMPTY>	4{0A}6{0A}7{0A}1	4{0A}6{0A}7{0A}1
+msg_quiz.bmd	90	0	<EMPTY>	There are two elevators at the entrance{0A}to Junes. What color are their doors?	Existem dois elevadores na entrada da Junes.{0A}Qual é a cor das portas deles?
+msg_quiz.bmd	91	0	<EMPTY>	Red{0A}Blue{0A}Silver{0A}White	Vermelho{0A}Azul{0A}Prata{0A}Branco
+msg_quiz.bmd	92	0	<EMPTY>	There is a statue of a frog in the middle{0A}of Shiroku Store. What does it have in{0A}its mouth?	Há uma estátua de um sapo no meio{0A}da Loja da Shiroku. O que ele tem{0A}na boca?
+msg_quiz.bmd	93	0	<EMPTY>	A pipe{0A}A toothpick{0A}A cigar{0A}A steak skewer	Um cachimbo{0A}Um palito de dentes{0A}Um cigarro{0A}Um espetinho de carne
+msg_quiz.bmd	94	0	<EMPTY>	Which of these animals DOESN'T have a{0A}picture drawn of it near the Junes food{0A}court?	Qual desses animais NÃO está desenhado{0A}na praça de alimentação da Junes?
+msg_quiz.bmd	95	0	<EMPTY>	Panda{0A}Rabbit{0A}Giraffe{0A}Cow	Panda{0A}Coelho{0A}Girafa{0A}Vaca
+msg_quiz.bmd	96	0	<EMPTY>	Which food is the object on the counter{0A}in the middle of the Junes food court?	Que comida está no meio do balcão na{0A}praça de alimentação da Junes?
+msg_quiz.bmd	97	0	<EMPTY>	Soft serve{0A}Takoyaki{0A}Steak skewer{0A}A drink cup	Sorvete{0A}Takoyaki{0A}Espetinho de Carne{0A}Um refri
+msg_quiz.bmd	98	0	<EMPTY>	How many vending machines are there at{0A}the central shopping district?	Quantas máquinas de venda existem{0A}no distrito comercial central?
+msg_quiz.bmd	99	0	<EMPTY>	4{0A}3{0A}2{0A}1	4{0A}3{0A}2{0A}1
+msg_quiz.bmd	100	0	<EMPTY>	At Okina Station, on which side of the{0A}stairways are the escalators?	Na Estação de Okina, em qual lado das{0A}escadarias ficam as escadas rolantes?
+msg_quiz.bmd	101	0	<EMPTY>	Both sides{0A}Right side{0A}Left side{0A}In the middle	Nos dois lados{0A}No lado direito{0A}No lado esquerdo{0A}No meio
+msg_quiz.bmd	102	0	<EMPTY>	When you fought Shadow Kanji, what{0A}was the name of the Shadow to your right?	Quando você lutou contra a Sombra do Kanji, {0A}qual era o nome da Sombra a sua direita?
+msg_quiz.bmd	103	0	<EMPTY>	Tough Guy{0A}Nice Guy{0A}Cool Guy{0A}Young Guy	Cara Durão{0A}Cara Legal{0A}Cara Maneiro{0A}Cara Jovem
+msg_quiz.bmd	104	0	<EMPTY>	"How much money do you earn from{0A}defeating the Shadow ""The Reaper""?"	"Quantos ienes você ganha ao derrotar{0A}a Sombra ""O Ceifador""?"
+msg_quiz.bmd	105	0	<EMPTY>	13 yen{0A}666 yen{0A}0 yen{0A}999 yen	13 ienes{0A}666 ienes{0A}0 ienes{0A}999 ienes
+msg_quiz.bmd	106	0	<EMPTY>	What color pole was Shadow Rise holding{0A}onto?	Qual era a cor da barra de dança que a {0A}Sombra da Rise estava se segurando?
+msg_quiz.bmd	107	0	<EMPTY>	Gold{0A}Silver{0A}Pink{0A}Black	Dourado{0A}Prata{0A}Rosa{0A}Preto
+msg_quiz.bmd	108	0	<EMPTY>	What was the name of the skill{0A}Shadow Rise used?	Qual era o nome da habilidade{0A}que a Sombra da Rise usava?
+msg_quiz.bmd	109	0	<EMPTY>	Supreme Insight{0A}Supreme Analyze{0A}Maha Insight{0A}Mega Analyze	Visão Suprema{0A}Analisar Supremo{0A}Maha Clarão{0A}Mega Analisar
+msg_quiz.bmd	110	0	<EMPTY>	Which of these was Shadow Kanji wearing{0A}on his feet?	Qual desses a Sombra do Kanji{0A}estava usando nos pés?
+msg_quiz.bmd	111	0	<EMPTY>	Black loafers{0A}Flip-flops{0A}Geta{0A}Red high heels	Sapatos pretos{0A}Chinelo{0A}Geta{0A}Saltos vermelhos
+msg_quiz.bmd	112	0	<EMPTY>	Which of these skills did Shadow Teddie{0A}use in battle?	Qual dessas habilidades a Sombra {0A}do Kuma usou em batalha?
+msg_quiz.bmd	113	0	<EMPTY>	Nihil Hand{0A}Nihil Paw{0A}Nihil Hell{0A}Nihil Torture	Mão de Nihil{0A}Pata de Nihil{0A}Inferno Nihil{0A}Tortura Nihil
+msg_quiz.bmd	114	0	<EMPTY>	What is Shadow Teddie's ice affinity?	Que resistência a Sombra do Kuma{0A}tem contra gelo?
+msg_quiz.bmd	115	0	<EMPTY>	Drain{0A}Nullify{0A}Strong{0A}Weak	Drena{0A}Nulifica{0A}Resistente{0A}Fraqueza
+msg_quiz.bmd	116	0	<EMPTY>	What is the rare golden Shadow that{0A}appears in Yukiko's Castle?	Qual é o nome da rara Sombra dourada{0A}que aparece no Castelo da Yukiko?
+msg_quiz.bmd	117	0	<EMPTY>	Lucky Hand{0A}Golden Hand{0A}Treasure Hand{0A}Escaping Hand	Mão Alegre{0A}Mão Dourada{0A}Mão do Tesouro{0A}Mão Fugitiva
+msg_quiz.bmd	118	0	<EMPTY>	What is the name of the Shadow that{0A}self-destructs in the Steamy Bathhouse?	Qual é o nome da Sombra que se {0A}autodestrói na Sauna Ardente?
+msg_quiz.bmd	119	0	<EMPTY>	Iron Dice{0A}Bronze Dice{0A}Egotistical King{0A}Positive King	Dado de Ferro{0A}Dado de Bronze{0A}Rei Egoísta{0A}Rei Positivo
+msg_quiz.bmd	120	0	<EMPTY>	When Kanji joined your team, what was{0A}his default weapon?	Quando o Kanji se juntou ao seu time, qual{0A}era a arma padrão que ele carregava?
+msg_quiz.bmd	121	0	<EMPTY>	Folding Chair{0A}Wooden Sword{0A}Iron Schoolbag{0A}Yasogami Desk	Cadeira Dobrável{0A}Espada de Madeira{0A}Mochila de Ferro{0A}Mesa da Yasogami
+msg_quiz.bmd	122	0	<EMPTY>	When Teddie became available to fight,{0A}what was his default weapon?	Quando o Kuma ficou disponível para luta,{0A}qual era a arma padrão dele?
+msg_quiz.bmd	123	0	<EMPTY>	Spikey Punch{0A}Teddie Claw{0A}Bear Claw{0A}Costume Claw	Soco Espinhoso{0A}Garra Kuma{0A}Garra Ursina{0A}Garra de Fantasia
+msg_quiz.bmd	124	0	<EMPTY>	What item would be useful to strike{0A}Yosuke's weakness?	Qual destes itens seria útil para {0A}atingir a fraqueza do Yosuke?
+msg_quiz.bmd	125	0	<EMPTY>	Ball Lightning{0A}Meat Gum{0A}Smart Bomb{0A}Pinwheel	Bola do Trovão{0A}Chiclete de Carne{0A}Bomba Inteligente{0A}Cata-Vento
+msg_quiz.bmd	126	0	<EMPTY>	What item would be useful to strike{0A}Chie's weakness?	Qual destes itens seria útil para {0A}atingir a fraqueza da Chie?
+msg_quiz.bmd	127	0	<EMPTY>	Firecracker{0A}Dry Ice{0A}Tesla Coil{0A}Meat Gum	Rojão{0A}Gelo Seco{0A}Bobina de Tesla{0A}Chiclete de Carne
+msg_quiz.bmd	128	0	<EMPTY>	What item would be useful to strike{0A}Yukiko's weakness?	Qual destes itens seria útil para {0A}atingir a fraqueza da Yukiko?
+msg_quiz.bmd	129	0	<EMPTY>	Ice Cube{0A}Pinwheel{0A}San-Zun Tama{0A}Wasabi Jelly	Cubo de Gelo{0A}Cata-Vento{0A}San-Zun Tama{0A}Geleia de Wasabi
+msg_quiz.bmd	130	0	<EMPTY>	Which of the following skills or items{0A}recovers the most HP for a single ally?	Qual dos seguintes itens ou habilidades{0A}recupera mais PV para um aliado?
+msg_quiz.bmd	131	0	<EMPTY>	Bead{0A}Diarama{0A}Mediarama{0A}Macca Leaf	Conta{0A}Diarama{0A}Mediarama{0A}Folha de Macca
+msg_quiz.bmd	132	0	<EMPTY>	Which of the following items recovers{0A}the most HP for a single ally?	Qual dos seguintes itens recupera {0A}mais PV para um aliado?
+msg_quiz.bmd	133	0	<EMPTY>	Antibiotic Gel{0A}Value Medicine{0A}Medical Kit{0A}Muscle Drink	Gel Antibiótico{0A}Remédio em Conta{0A}Primeiros Socorros{0A}Bebida Energética
+msg_quiz.bmd	134	0	<EMPTY>	Which of the following items recovers{0A}the most SP?	Qual dos seguintes itens {0A}recupera mais PE?
+msg_quiz.bmd	135	0	<EMPTY>	Cough Drop{0A}The Natural{0A}Second Maid{0A}Dr. Salt NEO	Pastilha para Tosse{0A}The Natural{0A}Second Maid{0A}Dr. Salt NEO
+msg_quiz.bmd	136	0	<EMPTY>	Which of the following items recovers{0A}the most HP and SP?	Qual dos seguintes itens recupera{0A}mais PV e PE?
+msg_quiz.bmd	137	0	<EMPTY>	Chewing Soul{0A}Meat Gum{0A}Soul Drop{0A}Snuff Soul	Goma de Alma{0A}Chiclete de Carne{0A}Gota de Alma{0A}Rapé de Alma
+msg_quiz.bmd	138	0	<EMPTY>	"The ""Exhaustion"" ailment makes you lose SP{0A}every turn and decreases defense. Which{0A}item cures Exhaustion?"	"A aflição ""Exaustão"" faz você perder PE a {0A}cada turno e diminui a defesa. Qual destes{0A}itens cura a Exaustão?"
+msg_quiz.bmd	139	0	<EMPTY>	Royal Jelly{0A}Muscle Drink{0A}Herbal Pill{0A}Soul Food	Geleia Real{0A}Bebida Energética{0A}Pílula Herbal{0A}Comida da Alma
+msg_quiz.bmd	140	0	<EMPTY>	What is the weakness of Izanagi,{0A}the first Persona you obtained?	Qual é a fraqueza de Izanagi, a primeira {0A}Persona que você obteve?
+msg_quiz.bmd	141	0	<EMPTY>	Wind{0A}Fire{0A}Ice{0A}Elec	Vento{0A}Fogo{0A}Gelo{0A}Raio
+msg_quiz.bmd	142	0	<EMPTY>	Which skill does Yukiko's Persona{0A}Konohana Sakuya NOT have when she{0A}first joins the team?	Qual destas habilidades a Persona da Yukiko,{0A}Konohana Sakuya, NÃO tinha quando{0A}entrou para o time pela primeira vez?
+msg_quiz.bmd	143	0	<EMPTY>	Media{0A}Me Patra{0A}Agi{0A}Maragi	Media{0A}Me Patra{0A}Agi{0A}Maragi
+msg_quiz.bmd	144	0	<EMPTY>	"What arcana does the Shadow{0A}""Lying Hablerie"" in Yukiko's Castle{0A}belong to?"	"A qual arcano a Sombra ""Fanfarrão Mentiroso""{0A}do Castelo da Yukiko pertence?"
+msg_quiz.bmd	145	0	<EMPTY>	Magician{0A}Hierophant{0A}High Priestess{0A}Empress	O Mago{0A}O Hierofante{0A}A Sacerdotisa{0A}A Imperatriz
+msg_quiz.bmd	146	0	<EMPTY>	Which of the following Shadows does{0A}NOT appear in Yukiko's Castle?	Qual das seguintes Sombras NÃO{0A}aparece no Castelo da Yukiko?
+msg_quiz.bmd	147	0	<EMPTY>	Phantom Master{0A}Magic Hand{0A}Calm Pesce{0A}Magical Magus	Mestre Fantasma{0A}Mão Mágica{0A}Peixe Calmo{0A}Magus Mágico
+msg_quiz.bmd	148	0	<EMPTY>	"In Yukiko's Castle, what item does the{0A}Shadow ""Black Raven"" drop?"	"No Castelo da Yukiko, que item {0A}a Sombra ""Corvo Preto"" dá?"
+msg_quiz.bmd	149	0	<EMPTY>	Black Lamp{0A}Wonder Cloth{0A}Light Iron{0A}Moustache Fiber	Lâmpada Preta{0A}Tecido Maravilhoso{0A}Ferro Leve{0A}Fibra de Bigode
+msg_quiz.bmd	150	0	<EMPTY>	"What is the weakness of ""Pursuing Pesce,""{0A}which appears in the Steamy Bathhouse?"	"Qual é a fraqueza do ""Peixe Perseguidor,""{0A}que aparece na Sauna Ardente?"
+msg_quiz.bmd	151	0	<EMPTY>	Light{0A}Electricity{0A}Wind{0A}Darkness	Luz{0A}Raio{0A}Vento{0A}Trevas
+msg_quiz.bmd	152	0	<EMPTY>	"Which of the following skills does the{0A}Shadow ""Monopolizing Cupid"" from the{0A}Steamy Bathhouse use?"	"Qual das seguintes habilidades a Sombra{0A}""Cupido Ciumento"" da Sauna Ardente usa?"
+msg_quiz.bmd	153	0	<EMPTY>	Pulinpa{0A}Evil Touch{0A}Makajam{0A}Balzac	Pulinpa{0A}Toque Maligno{0A}Makajam{0A}Balzac
+msg_quiz.bmd	154	0	<EMPTY>	Which skill has the same effect as{0A}the Purifying Salt item?	Qual habilidade tem o mesmo{0A}efeito que o item Sal Purificante?
+msg_quiz.bmd	155	0	<EMPTY>	Dekunda{0A}Dekaja{0A}Trafuri{0A}Traesto	Dekunda{0A}Dekaja{0A}Trafuri{0A}Traesto
+msg_quiz.bmd	156	0	<EMPTY>	What accessory increases the evasion{0A}rate against fire attacks?	Qual acessório aumenta a taxa de {0A}evasão contra ataques de fogo?
+msg_quiz.bmd	157	0	<EMPTY>	Fire Suppressor{0A}Fire Vow{0A}Fire Pin{0A}Cool Beads	Supressor de Fogo{0A}Voto de Fogo{0A}Broche de Fogo{0A}Miçanga Reconfortante
+msg_quiz.bmd	158	0	<EMPTY>	Which of the following armors has the{0A}lowest defense?	Qual das seguintes armaduras{0A}tem o menor atributo de defesa?
+msg_quiz.bmd	159	0	<EMPTY>	Kevlar Vest{0A}Metal Jacket{0A}Survival Guard{0A}Lion Happi	Colete de Balas{0A}Jaqueta de Metal{0A}Proteção à Vida{0A}Happi de Leão
+msg_quiz.bmd	160	0	<EMPTY>	"Which skill has the effect ""Deals medium{0A}Physical damage to 1 foe""?"	"Qual habilidade tem o efeito de ""Dano{0A}Físico fraco a 1 inimigo""?"
+msg_quiz.bmd	161	0	<EMPTY>	Assault Dive{0A}Skewer{0A}Cruel Attack{0A}Power Slash	Ataque Repentino{0A}Empalamento{0A}Ataque Cruel{0A}Corte Poderoso
+msg_quiz.bmd	162	0	<EMPTY>	Every character has victory poses after{0A}battle. Which of these actions does Chie{0A}usually perform?	Todos os personagens fazem uma pose{0A}de vitória depois das batalhas. Qual dessas{0A}ações é a que a Chie geralmente faz?
+msg_quiz.bmd	163	0	<EMPTY>	Backflip{0A}Back Handspring{0A}Cartwheel{0A}Frontflip	Cambalhota{0A}Flic Flac{0A}Estrela{0A}Mortal para frente
+msg_quiz.bmd	164	0	<EMPTY>	What weapon does Yosuke's Persona{0A}Jiraiya carry?	Que arma a Persona do Yosuke, Jiraya,{0A}carrega?
+msg_quiz.bmd	165	0	<EMPTY>	Shuriken{0A}Wrench{0A}Kunai{0A}Scroll	Shuriken{0A}Chave inglesa{0A}Kunai{0A}Pergaminho
+msg_quiz.bmd	166	0	<EMPTY>	"What color are the shoulders of the{0A}Shadow ""Steel Machine"" found in the{0A}Void Quest?"	"Qual é a cor dos ombros da Sombra {0A}""Colosso de Aço"" encontrada no Void Quest?"
+msg_quiz.bmd	167	0	<EMPTY>	Black, white characters{0A}White, black characters{0A}Pure black{0A}Pure white	Pretos, c/ letras brancas{0A}Brancos, c/ letras pretas{0A}Só pretos{0A}Só brancos
+msg_quiz.bmd	168	0	<EMPTY>	"What Shadow does the Shadow ""Positive King""{0A}summon?"	"Que Sombras a Sombra ""Rei Positivo""{0A}invoca?"
+msg_quiz.bmd	169	0	<EMPTY>	Secret Bambino{0A}Free Bambino{0A}Blooming Bambino{0A}Avarice Bambino	Bambino Secreto{0A}Bambino Livre{0A}Bambino Florescido{0A}Bambino Avarento
+msg_quiz.bmd	170	0	<EMPTY>	"The ""Angry Table"" that appears in Heaven{0A}has several weapons floating around it.{0A}Which of the following is one of them?"	"A ""Mesa Irritada"" que aparece no Céu{0A}tem várias armas voando ao seu redor.{0A}Qual dessas faz parte do conjunto?"
+msg_quiz.bmd	171	0	<EMPTY>	Sword{0A}Spear{0A}Axe{0A}Scythe	Espada{0A}Lança{0A}Machado{0A}Foice
+msg_quiz.bmd	172	0	<EMPTY>	Several skills consume HP to perform.{0A}Which of these skills costs the most{0A}HP?	Muitas habilidades consomem PV para serem{0A}realizadas. Qual dessas habilidades custa{0A}mais PV?
+msg_quiz.bmd	173	0	<EMPTY>	Swift Strike{0A}Kill Rush{0A}Twin Shot{0A}Assault Dive	Golpe Veloz{0A}Ímpeto Letal{0A}Disparos Gêmeos{0A}Ataque Repentino
+msg_quiz.bmd	174	0	<EMPTY>	One of these weapons makes a different{0A}sound than the others. Which is it?	Uma destas armas faz um som distinto{0A}das outras. Qual?
+msg_quiz.bmd	175	0	<EMPTY>	Golf Club{0A}Monkey Wrench{0A}Leather Shoes{0A}Tessen	Taco de Golfe{0A}Chave Inglesa{0A}Sapatos de Couro{0A}Tesseb
+msg_quiz.bmd	176	0	<EMPTY>	"What ailment does the skill ""Soul Break""{0A}cause?"	"Que aflição a habilidade ""Quebra de Alma""{0A}causa?"
+msg_quiz.bmd	177	0	<EMPTY>	Exhaustion{0A}Charm{0A}Fear{0A}Panic	Exaustão{0A}Encanto{0A}Medo{0A}Pânico
+msg_quiz.bmd	178	0	<EMPTY>	"Shadow Teddie used the skill{0A}""Ultra Charge."" Where did the{0A}energy ball appear when he used it?"	"A Sombra do Kuma usou a habilidade{0A}""Carregamento."" Onde a bola de{0A}energia apareceu quando ele a usou?"
+msg_quiz.bmd	179	0	<EMPTY>	Left Hand{0A}Right Hand{0A}Both Hands{0A}Above the Head	Mão Esquerda{0A}Mão Direita{0A}As Duas Mãos{0A}Acima da Cabeça
+msg_quiz.bmd	180	0	<EMPTY>	"What ailment does the skill ""Evil Touch""{0A}cause?"	"Que aflição a habilidade ""Toque Maligno""{0A}causa?"
+msg_quiz.bmd	181	0	<EMPTY>	Fear{0A}Panic{0A}Dizzy{0A}Enervation	Medo{0A}Pânico{0A}Náusea{0A}Amnésia
+msg_quiz.bmd	182	0	<EMPTY>	What color is Teddie's tail?	Qual é a cor da cauda do Kuma?
+msg_quiz.bmd	183	0	<EMPTY>	Blue{0A}Red{0A}White{0A}He doesn't have a tail	Azul{0A}Vermelho{0A}Branco{0A}Ele não tem uma cauda
+msg_quiz.bmd	184	0	<EMPTY>	Most of the floors in Yukiko's Castle{0A}change, but the top floor is always the{0A}same. Which story is the top floor?	A maioria dos andares do Castelo da Yukiko{0A}muda, mas o andar mais alto é sempre igual. {0A}Qual é o número do andar mais alto?
+msg_quiz.bmd	185	0	<EMPTY>	8th{0A}5th{0A}10th{0A}12th	8°{0A}5°{0A}10°{0A}12°
+msg_quiz.bmd	186	0	<EMPTY>	What is the name of the item needed{0A}to open the locked door in the{0A}Steamy Bathhouse?	Qual é o nome do item necessário para {0A}abrir a porta trancada na Sauna Ardente?
+msg_quiz.bmd	187	0	<EMPTY>	Bathhouse Key{0A}Sauna Key{0A}Men's Bath Key{0A}Secret Key	Chave da Sauna{0A}Chave da Casa de Banho{0A}Chave do B. Masculino{0A}Chave Secreta
+msg_quiz.bmd	188	0	<EMPTY>	How many horse statues line the walls{0A}at the entrance to Yukiko's Castle?	Quantas estátuas de cavalo existem nas {0A}paredes na entrada do Castelo da Yukiko?
+msg_quiz.bmd	189	0	<EMPTY>	6{0A}10{0A}8{0A}4	6{0A}10{0A}8{0A}4
+msg_quiz.bmd	190	0	<EMPTY>	How many chairs are in the dressing room{0A}at the entrance to the Steamy Bathhouse?	Quantas cadeiras existem no vestiário{0A}na entrada da Sauna Ardente?
+msg_quiz.bmd	191	0	<EMPTY>	9{0A}10{0A}7{0A}8	9{0A}10{0A}7{0A}8
+msg_quiz.bmd	192	0	<EMPTY>	At the entrance to the TV world that you{0A}get to from the TV at Junes, who is standing{0A}just to Teddie's right?	Na entrada do mundo da TV, quem fica{0A}do lado direito do Kuma?
+msg_quiz.bmd	193	0	<EMPTY>	Chie{0A}Rise{0A}Kanji{0A}Yukiko	Chie{0A}Rise{0A}Kanji{0A}Yukiko
+msg_quiz.bmd	194	0	<EMPTY>	A certain key is needed to open the{0A}treasures in the TV world. What is{0A}this key called?	Uma certa chave é necessária para abrir os {0A}baús de tesouro no mundo da TV. Como {0A}ela é chamada?
+msg_quiz.bmd	195	0	<EMPTY>	Chest Key{0A}Old Key{0A}Large Key{0A}Fancy Key	Chave de Baú{0A}Chave Antiga{0A}Chave Grande{0A}Chave Bonita
+msg_quiz.bmd	196	0	<EMPTY>	Rare Shadows in the TV world glow gold.{0A}Which of the following ISN'T the name{0A}of a real rare Shadow?	Sombras raras no mundo da TV brilham douradas.{0A}Qual das seguintes NÃO é o nome de uma{0A}verdadeira Sombra rara?
+msg_quiz.bmd	197	0	<EMPTY>	Glory Hand{0A}Wealth Hand{0A}Supreme Hand{0A}Opulent Hand	Mão da Glória{0A}Mão da Fortuna{0A}Mão Suprema{0A}Mão Opulenta
+msg_quiz.bmd	198	0	<EMPTY>	How many stools are there at the entrance{0A}to the Steamy Bathhouse?	Quantos assentos existem na entrada {0A}da Sauna Ardente?
+msg_quiz.bmd	199	0	<EMPTY>	9{0A}8{0A}11{0A}5	9{0A}8{0A}11{0A}5
+msg_quiz.bmd	200	0	<EMPTY>	The ceiling of the Marukyu Striptease{0A}is covered in neon signs flashing in{0A}many colors. What shape are these signs?	O teto do Clube de Strip Marukyu está coberto {0A}por fachadas de neon piscantes de muitas cores. {0A}Qual é o formato dessas fachadas?
+msg_quiz.bmd	201	0	<EMPTY>	Hearts{0A}Diamonds{0A}Clovers{0A}Triangles	Corações{0A}Diamantes{0A}Trevos{0A}Triângulos
+msg_quiz.bmd	202	0	<EMPTY>	All the lockers at the entrance to the{0A}Steamy Bathhouse have the same number.{0A}What is that number?	Todos os armários na entrada para a Sauna{0A}Ardente tem o mesmo número.{0A}Que número é esse?
+msg_quiz.bmd	203	0	<EMPTY>	201{0A}202{0A}200{0A}102	201{0A}202{0A}200{0A}102
+msg_quiz.bmd	204	0	<EMPTY>	How many human outlines are drawn on{0A}the floor at the entrance to the{0A}TV world?	Quantos contornos de humanos estão{0A}desenhados no chão na entrada do{0A}mundo da TV?
+msg_quiz.bmd	205	0	<EMPTY>	18{0A}20{0A}13{0A}10	18{0A}20{0A}13{0A}10
+msg_quiz.bmd	206	0	<EMPTY>	How many TVs are there at the entrance{0A}to the TV world?	Quantas TVs existem na entrada{0A}para o mundo da TV?
+msg_quiz.bmd	207	0	<EMPTY>	3{0A}2{0A}4{0A}1	3{0A}2{0A}4{0A}1
+msg_quiz.bmd	208	0	<EMPTY>	"In the show logo that appeared with{0A}Shadow Kanji, fill in the blank:{0A}""___! Kanji Tatsumi in Rosy Steam Paradise!"""	"Na logo do show que apareceu com a{0A}Sombra do Kanji,"" ____! Kanji Tatsumi no {0A}Paraíso Rosado de Vapor!"" Preencha a lacuna!"
+msg_quiz.bmd	209	0	<EMPTY>	Men Only{0A}The Forbidden Garden{0A}No Women{0A}Heartthrob	Só Homens{0A}Jardim Proibido{0A}Proibido Mulheres{0A}Arrasa-corações
+msg_quiz.bmd	210	0	<EMPTY>	How much does it cost to attempt Aiya's{0A}Rainy Day Challenge Mega Beef Bowl?	Quanto custa tentar o desafio da Mega{0A}Tigela de Carne em um dia chuvoso no Aiya?
+msg_quiz.bmd	211	0	<EMPTY>	3000 yen{0A}2000 yen{0A}2500 yen{0A}100,000,000 yen	3,000 ienes{0A}2,000 ienes{0A}2,500 ienes{0A}100,000,000 ienes
+msg_quiz.bmd	212	0	<EMPTY>	How much is a Steak Skewer from{0A}Souzai Daigaku?	Quanto custa um Espetinho de Carne{0A}no Souzai Daigaku?
+msg_quiz.bmd	213	0	<EMPTY>	320 yen{0A}450 yen{0A}210 yen{0A}150 yen	320 ienes{0A}450 ienes{0A}210 ienes{0A}150 ienes
+msg_quiz.bmd	214	0	<EMPTY>	"How much does a ticket to the ""30 Frame""{0A}movie theater at Okina Station cost?"	"Quanto custa um ingresso do cinema {0A}""30 Frame"" na Estação de Okina?"
+msg_quiz.bmd	215	0	<EMPTY>	1500 yen{0A}2000 yen{0A}1000 yen{0A}2500 yen	1,500 ienes{0A}2,000 ienes{0A}1,000 ienes{0A}2,500 ienes
+msg_quiz.bmd	216	0	<EMPTY>	What is the last name of Hanako, Yasogami{0A}High School's larger-than-life student?	Qual é o sobrenome de Hanako, a aluna{0A}de grandes dimensões do Colégio Yasogami?
+msg_quiz.bmd	217	0	<EMPTY>	Ohtani{0A}Ohno{0A}Koyama{0A}Odawara	Ohtani{0A}Ohno{0A}Koyama{0A}Odawara
+msg_quiz.bmd	218	0	<EMPTY>	What elementary school grade is{0A}Nanako-chan in?	Em que ano do fundamental{0A}a Nanako-chan está?
+msg_quiz.bmd	219	0	<EMPTY>	1st grade{0A}4th grade{0A}2nd grade{0A}3rd grade	1° ano{0A}4° ano{0A}2° ano{0A}3° ano
+msg_quiz.bmd	220	0	<EMPTY>	Cafe Chagall in front of Okina Station{0A}is known for the owner's original blend.{0A}What is the owner's name?	O Café Chagall próximo a Estação de Okina{0A}é famoso pela mistura original do dono.{0A}Qual é o nome dele?
+msg_quiz.bmd	221	0	<EMPTY>	Mumon{0A}Mutatsu{0A}Mukin{0A}Mugen	Mumon{0A}Mutatsu{0A}Mukin{0A}Mugen
+msg_quiz.bmd	222	0	<EMPTY>	What series of stickers that comes with{0A}candy is popular with children?	Qual série de adesivos que vem com {0A}doces faz sucesso com as crianças?
+msg_quiz.bmd	223	0	<EMPTY>	Tankiriman Sticker{0A}Universe Sticker{0A}Prize Sticker{0A}Earth Sticker	Adesivo Tankiriman{0A}Adesivo do Universo{0A}Adesivo Premiado{0A}Adesivo da Terra
+msg_quiz.bmd	224	0	<EMPTY>	What is the name of the employee at the{0A}Okina Station costume shop, Croco Fur?	Qual é o nome da funcionária da loja de {0A}fantasias da Estação de Okina, Croco Fur?
+msg_quiz.bmd	225	0	<EMPTY>	Reiko Osa{0A}Mariko Oki{0A}Otsuko Share{0A}Aiko Oni	Reiko Osa{0A}Mariko Oki{0A}Otsuko Share{0A}Aiko Oni
+msg_quiz.bmd	226	0	<EMPTY>	What is the title of the final book in{0A}the Bullied Teacher series?	Qual é o título do último livro{0A}da série o Professor Intimidado?
+msg_quiz.bmd	227	0	<EMPTY>	The Final Lesson{0A}Sensei's Friends{0A}The Teacher's Courage{0A}...And the Secret Room	A Lição Final{0A}Amigos do Sensei{0A}Coragem do Professor{0A}...E a Câmara Secreta
+msg_quiz.bmd	228	0	<EMPTY>	"Who is the world history teacher with{0A}the nickname ""Queen Tut""?"	"Qual o nome da professora de história{0A}mundial apelidada de ""Rainha Tut""?"
+msg_quiz.bmd	229	0	<EMPTY>	Sofue{0A}Kondo{0A}Hosoi{0A}Yamada	Sofue{0A}Kondo{0A}Hosoi{0A}Yamada
+msg_quiz.bmd	230	0	<EMPTY>	Who is the English teacher who has only{0A}been outside the country once, and only{0A}for a week?	Quem é o professor de inglês que só saiu {0A}do interior uma vez e só por uma semana?
+msg_quiz.bmd	231	0	<EMPTY>	Kondo{0A}Sofue{0A}Hosoi{0A}Yamada	Kondo{0A}Sofue{0A}Hosoi{0A}Yamada
+msg_quiz.bmd	232	0	<EMPTY>	Who is the boy's P.E. teacher who always{0A}wears a red track suit?	Quem é o professor de educação física que {0A}sempre está vestido com um moletom vermelho?
+msg_quiz.bmd	233	0	<EMPTY>	Kondo{0A}Sofue{0A}Hosoi{0A}Yamada	Kondo{0A}Sofue{0A}Hosoi{0A}Yamada
+msg_quiz.bmd	234	0	<EMPTY>	Who is the contemporary writing teacher{0A}who teaches class with a hand puppet{0A}that his wife made for him?	Quem é o professor de literatura contemporânea {0A}que ensina com um fantoche na {0A}mão que a esposa fez para ele?
+msg_quiz.bmd	235	0	<EMPTY>	Hosoi{0A}Sofe{0A}Kondo{0A}Yamada	Hosoi{0A}Sofe{0A}Kondo{0A}Yamada
+msg_quiz.bmd	236	0	<EMPTY>	Who is the plain teacher who teaches{0A}geography?	Quem é o professor que dá aulas{0A}de geografia?
+msg_quiz.bmd	237	0	<EMPTY>	Yamada{0A}Sofue{0A}Kondo{0A}Hosoi	Yamada{0A}Sofue{0A}Kondo{0A}Hosoi
+msg_quiz.bmd	238	0	<EMPTY>	How much is a ganmodoki at Marukyu Tofu?	Quanto custa um ganmodoki no Marukyu Tofu?
+msg_quiz.bmd	239	0	<EMPTY>	200 yen{0A}600 yen{0A}300 yen{0A}150 yen	200 ienes{0A}600 ienes{0A}300 ienes{0A}150 ienes
+msg_quiz.bmd	240	0	<EMPTY>	Which of the following doesn't come{0A}out of the capsule machine in front{0A}of Shiroku Store?	Qual dos seguintes itens não pode ser{0A}obtido da máquina de cápsulas da{0A}frente da Loja da Shiroku?
+msg_quiz.bmd	241	0	<EMPTY>	Bamboo Dragonfly{0A}Firecracker{0A}Pinwheel{0A}Ball Lightning	Libélula de Bambu{0A}Rojão{0A}Cata-Vento{0A}Bola do Trovão
+msg_quiz.bmd	242	0	<EMPTY>	On what day of the week is the normal{0A}Steak Bowl at Aiya not available?	Em que dia da semana a Tigela de {0A}Carne do Aiya não está disponível?
+msg_quiz.bmd	243	0	<EMPTY>	Tuesday{0A}Saturday{0A}Sunday{0A}You can eat it every day	Terça-feira{0A}Sábado{0A}Domingo{0A}Está sempre disponível
+msg_quiz.bmd	244	0	<EMPTY>	What is the name of the shrine located{0A}at the north side of the central{0A}shopping district?	Qual é o nome do templo que fica no {0A}lado norte do distrito comercial central?
+msg_quiz.bmd	245	0	<EMPTY>	Tatsuhime Shrine{0A}Inahime Shrine{0A}Torahime Shrine{0A}Yasogamihime Shrine	Templo Tatsuhime{0A}Templo Inahime{0A}Templo Torahime{0A}Templo Yasogamihime
+msg_quiz.bmd	246	0	<EMPTY>	What vegetable does Daisuke of Yasogami{0A}High School's soccer team hate?	Que vegetal o Daisuke do time de futebol{0A}do Colégio Yasogami odeia?
+msg_quiz.bmd	247	0	<EMPTY>	Green Pepper{0A}Carrot{0A}Tomato{0A}Cucumber	Pimentão{0A}Cenoura{0A}Tomate{0A}Pepino
+msg_quiz.bmd	248	0	<EMPTY>	What is the 11th major tarot arcana?	Qual é o 11° arcano maior?
+msg_quiz.bmd	249	0	<EMPTY>	Strength{0A}Chariot{0A}Hermit{0A}Devil	A Força{0A}A Carruagem{0A}O Eremita{0A}O Diabo
+msg_quiz.bmd	250	0	<EMPTY>	Out of the following, which item is the most{0A}expensive at Shiroku Store?	Dos seguintes itens, qual deles é{0A}o mais caro da Loja da Shiroku?
+msg_quiz.bmd	251	0	<EMPTY>	Macca Leaf{0A}Balm of Life{0A}Medical Kit{0A}Bead	Folha de Macca{0A}Bálsamo de Vida{0A}Primeiros Socorros{0A}Conta
+msg_quiz.bmd	252	0	<EMPTY>	Which of the following items is NOT{0A}sold at Shiroku Store?	Qual dos seguintes itens NÃO{0A}é vendido na Loja da Shiroku?
+msg_quiz.bmd	253	0	<EMPTY>	Peach Seed{0A}San-Zun Tama{0A}Royal Jelly{0A}Segaki Rice	Semente de Pêssego{0A}San-zun Tama{0A}Geleia Real{0A}Arroz Segaki
+msg_quiz.bmd	254	0	<EMPTY>	What effect does using an Orange Smash{0A}have?	Que efeito beber{0A}Orange Smash causa?
+msg_quiz.bmd	255	0	<EMPTY>	Recovers health{0A}Cures poison{0A}Cures enervation{0A}Cures exhaustion	Recupera vida{0A}Cura veneno{0A}Cura amnésia{0A}Cura exaustão
+msg_quiz.bmd	256	0	<EMPTY>	What is the name of the special meal{0A}at Aiya that you can have for free...{0A}if you manage to eat it all?	Qual é o nome do prato especial do Aiya{0A}que você pode comer de graça...{0A}se conseguir comer tudo?
+msg_quiz.bmd	257	0	<EMPTY>	Mega Beef Bowl{0A}Mega Steak Bowl{0A}Mega Fried Rice{0A}Mega Mein	Mega Tigela de Carne{0A}Mega Tigela de Frango{0A}Mega Arroz Frito{0A}Mega Tigela de Cárie
+msg_quiz.bmd	258	0	<EMPTY>	What ramen topping does Yasogami High{0A}soccer player Daisuke Nagase hate?	Que molho de ramen o jogador de futebol{0A}do Colégio Yasogami, Daisuke, odeia?
+msg_quiz.bmd	259	0	<EMPTY>	Pickled bamboo shoots{0A}Green onion{0A}Narutomaki{0A}Char siu	Brotos de bambu{0A}Alho verde{0A}Narutomaki{0A}Char siu
+msg_quiz.bmd	260	0	<EMPTY>	If you buy two Balms of Life and one{0A}Value Medicine, how much have you{0A}spent?	Se você comprar dois Bálsamos de Vida{0A}e um Remédio em Conta, quantos{0A}dinheiro você teria gastado?
+msg_quiz.bmd	261	0	<EMPTY>	11600 yen{0A}12400 yen{0A}9980 yen{0A}13000 yen	11,600 ienes{0A}12,400 ienes{0A}9,980 ienes{0A}13,000 ienes
+msg_quiz.bmd	262	0	<EMPTY>	There are many special classrooms at{0A}Yasogami High School. Which of these is{0A}NOT on the Practice Building's 1st floor?	Há muitas salas de aulas especiais no Colégio {0A}Yasogami. Qual dessas NÃO FICA no {0A}1° andar do Prédio de Prática?
+msg_quiz.bmd	263	0	<EMPTY>	Art room{0A}Science Lab{0A}Music room{0A}Sewing room	Sala de Artes{0A}Laboratório de Ciências{0A}Sala de Música{0A}Sala de Costura
+msg_quiz.bmd	264	0	<EMPTY>	What item do you need to catch the{0A}Guardian?	Que item você precisa {0A}para capturar o Guardião?
+msg_quiz.bmd	265	0	<EMPTY>	Angler's Set{0A}Fish Fishing Set{0A}Guardian Set{0A}Fisherman's Set	Conjunto do Pescador{0A}Conjunto de Pescaria{0A}Conjunto do Guardião{0A}Conjunto do Marinheiro
+msg_quiz.bmd	266	0	<EMPTY>	What color and pattern hood does the lady{0A}at Shiroku Store wear?	De que cor é a estampa do lenço{0A}que a dona da Loja da Shiroku usa?
+msg_quiz.bmd	267	0	<EMPTY>	Red polka dots{0A}Red plaid{0A}Blue polka dots{0A}Blue plaid	Vermelho com bolinhas{0A}Só vermelho{0A}Azul com bolinhas{0A}Só azul
+msg_quiz.bmd	268	0	<EMPTY>	Ryotaro Dojima is never without his{0A}suit. What color necktie does he wear?	Ryotaro Dojima nunca sai sem o seu terno. {0A}Qual é a cor da gravata que ele usa?
+msg_quiz.bmd	269	0	<EMPTY>	Plain red{0A}Plain blue{0A}Yellow striped{0A}Blue striped	Vermelho{0A}Azul{0A}Amarelo listrado{0A}Azul listrado
+msg_quiz.bmd	270	0	<EMPTY>	How many days were forecast to be clear{0A}the entire day during the month of May?	Quantos dias foram previstos para estarem {0A}com o dia limpo durante o mês de Maio?
+msg_quiz.bmd	271	0	<EMPTY>	6{0A}10{0A}8{0A}4	6{0A}10{0A}8{0A}4
+msg_quiz.bmd	272	0	<EMPTY>	What was the name of the hotel in{0A}Seaside City that the class stayed{0A}in on the trip to Tatsumi Port Island?	Qual era o nome do hotel na Cidade Beira-Mar {0A}que a sua sala ficou na viagem para Tatsumi {0A}Port Island?
+msg_quiz.bmd	273	0	<EMPTY>	Clamshell Inn{0A}Yellowtail Inn{0A}Oyster Inn{0A}Beachfront Inn	Hotel Ostra{0A}Hotel Cauda Amarela{0A}Hotel Concha{0A}Hotel Beira-Mar
+msg_quiz.bmd	274	0	<EMPTY>	Who is the student council president{0A}of Gekkoukan High School?	Quem é a presidente do conselho{0A}estudantil do Colégio Gekkoukan?
+msg_quiz.bmd	275	0	<EMPTY>	Chihiro Fushimi{0A}Chihaya Fushimi{0A}Chihiro Fukumi{0A}Chihaya Fukumi	Chihiro Fushimi{0A}Chihaya Fushimi{0A}Chihiro Fukumi{0A}Chihaya Fukumi
+msg_quiz.bmd	276	0	<EMPTY>	What was the name of the teacher who{0A}gave you the special lecture at{0A}Gekkoukan High School?	Qual era o nome do professor{0A}que te deu uma aula especial{0A}no Colégio Gekkoukan?
+msg_quiz.bmd	277	0	<EMPTY>	Edogawa{0A}Namikawa{0A}Tonegawa{0A}Akutagawa	Edogawa{0A}Namikawa{0A}Tonegawa{0A}Akutagawa
+msg_quiz.bmd	278	0	<EMPTY>	What was the name of the character{0A}Shadow Mitsuo transformed into?	Qual era o nome do personagem que {0A}a Sombra de Mitsuo se transformou?
+msg_quiz.bmd	279	0	<EMPTY>	Mitsuo the Hero{0A}Mitsuo the Chosen{0A}Mitsuo the Greatest{0A}Mitsuo the Mighty	Mitsuo, o Herói{0A}Mitsuo, o Escolhido{0A}Mitsuo, o Altíssimo{0A}Mitsuo, o Poderoso
+msg_quiz.bmd	280	0	<EMPTY>	What is the name of the spell{0A}Shadow Mitsuo uses?	Qual é o nome do feitiço{0A}que a Sombra do Mitsuo usa?
+msg_quiz.bmd	281	0	<EMPTY>	Gigadyne{0A}Mahadyne{0A}Megadyne{0A}Gigapulse	Gigadyne{0A}Mahadyne{0A}Megadyne{0A}Gigapulso
+msg_quiz.bmd	282	0	<EMPTY>	What was on Shadow Naoto's back?	O que tinha nas costas da Sombra da Naoto?
+msg_quiz.bmd	283	0	<EMPTY>	Airplane wings{0A}A rocket booster{0A}A giant cannon{0A}All-purpose backpack	Asas de avião{0A}Um propulsor de foguete{0A}Um canhão gigante{0A}Uma mochila multiúso
+msg_quiz.bmd	284	0	<EMPTY>	What was the name of the laser beam that{0A}Shadow Naoto shot from her gun?	Qual era o nome do raio laser que a {0A}Sombra da Naoto atirou de sua arma?
+msg_quiz.bmd	285	0	<EMPTY>	Mute Ray{0A}Panic Ray{0A}Destructo Ray{0A}Anti-Matter Ray	Raio do Silêncio{0A}Raio do Pânico{0A}Raio Destruidor{0A}Raio Anti-Matéria
+msg_quiz.bmd	286	0	<EMPTY>	What item did you need to open the sealed{0A}door in the Void Quest?	Que item você precisou para abrir{0A}a porta selada no Void Quest?
+msg_quiz.bmd	287	0	<EMPTY>	Orb of Darkness{0A}Orb of Light{0A}Crest of Courage{0A}The Final Key	Orbe da Escuridão{0A}Brasão da Coragem{0A}Orbe da Luz{0A}A Chave Final
+msg_quiz.bmd	288	0	<EMPTY>	What were the floors called in {0A}the Void Quest?	Como eram chamados os {0A}andares no Void Quest?
+msg_quiz.bmd	289	0	<EMPTY>	Chapter{0A}Level{0A}Book{0A}Stage	Capítulo{0A}Nível{0A}Livro{0A}Fase
+msg_quiz.bmd	290	0	<EMPTY>	Many symbols are shown on the walls of{0A}the Void Quest. What hangs above the{0A}doorways that lead to stairs?	Muitos símbolos são vistos nas paredes{0A}do Void Quest. Que figura está pendurada {0A}nas portas que levam as escadas?
+msg_quiz.bmd	291	0	<EMPTY>	Sword{0A}Shield{0A}Bow and arrow{0A}Axe	Espada{0A}Escudo{0A}Arco e flecha{0A}Machado
+msg_quiz.bmd	292	0	<EMPTY>	What color flowers grow at the entrance{0A}to the Void Quest?	Qual a cor das flores na entrada{0A}do Void Quest?
+msg_quiz.bmd	293	0	<EMPTY>	Blue{0A}Red{0A}Yellow{0A}Black	Azul{0A}Vermelho{0A}Amarelo{0A}Preto
+msg_quiz.bmd	294	0	<EMPTY>	"Which of the following is a character{0A}on the popular kid's show, ""Featherman R""?"	"Qual desses é um personagem real do famoso {0A}programa de TV para crianças, ""Featherman R""?"
+msg_quiz.bmd	295	0	<EMPTY>	Feather Crow{0A}Feather Horned Owl{0A}Feather Hawk{0A}Feather Swan	Feather Crow{0A}Feather Horned Owl{0A}Feather Hawk{0A}Feather Swan
+msg_quiz.bmd	296	0	<EMPTY>	"Kids love the TV show ""____ ____{0A}Featherman R."" What goes in the blanks?"	"As crianças amam os ""____ ____{0A}Featherman R."" Preencha a lacuna."
+msg_quiz.bmd	297	0	<EMPTY>	Phoenix Rangers{0A}Birdsong Heroes{0A}Flying Rangers{0A}Phoenix Heroes	Phoenix Rangers{0A}Birdsong Heroes{0A}Flying Rangers{0A}Phoenix Heroes
+msg_quiz.bmd	298	0	<EMPTY>	"Who is the leader of the Phoenix Rangers{0A}on the popular children's show{0A}""Featherman R""?"	"Quem é o líder dos Phoenix Rangers{0A}do famoso programa de TV ""Featherman R""?"
+msg_quiz.bmd	299	0	<EMPTY>	Feather Hawk{0A}Feather Condor{0A}Feather Parakeet{0A}Feather Swan	Feather Hawk{0A}Feather Condor{0A}Feather Parakeet{0A}Feather Swan
+msg_quiz.bmd	300	0	<EMPTY>	"Who is the youngest member of the{0A}Phoenix Rangers on the popular{0A}children's show ""Featherman R?"""	"Quem é o membro mais jovem dos Phoenix{0A}Rangers do famoso programa de TV das crianças{0A}""Featherman R?"""
+msg_quiz.bmd	301	0	<EMPTY>	Feather Swan{0A}Feather Condor{0A}Feather Parakeet{0A}Feather Hawk	Feather Swan{0A}Feather Condor{0A}Feather Parakeet{0A}Feather Hawk
+msg_quiz.bmd	302	0	<EMPTY>	What was Yosuke holding at the Summer{0A}Festival on August 20?	O que Yosuke estava segurando no{0A}Festival de Verão no dia 20 de agosto?
+msg_quiz.bmd	303	0	<EMPTY>	Corn on the cob{0A}Cotton candy{0A}Shaved Ice{0A}Grilled squid	Milho na Espiga{0A}Algodão Doce{0A}Gelo Raspado{0A}Lula Grelhada
+msg_quiz.bmd	304	0	<EMPTY>	Teddie had cats on both sides of him{0A}when he appeared in front of the school{0A}trip's hotel. What color was the left cat?	O Kuma tinha gatos ao seu lado quando{0A}apareceu na viagem para o hotel da sua sala.{0A}De que cor era o gato da esquerda?
+msg_quiz.bmd	305	0	<EMPTY>	Black and white{0A}Pure black{0A}Tiger-striped{0A}Calico	Preto e branco{0A}Preto{0A}Malhado{0A}Tricolor
+msg_quiz.bmd	306	0	<EMPTY>	Who is the shortest of the girls on the{0A}Investigation Team?	Quem é a menor entre as garotas{0A}do Time de Investigação?
+msg_quiz.bmd	307	0	<EMPTY>	Naoto{0A}Chie{0A}Yukiko{0A}Rise	Naoto{0A}Chie{0A}Yukiko{0A}Rise
+msg_quiz.bmd	308	0	<EMPTY>	What color swimsuit did Kanji wear on{0A}the trip to the beach on August 23?	De que cor era a sunga que o Kanji{0A}vestiu na visita à praia no dia 23 de Agosto?
+msg_quiz.bmd	309	0	<EMPTY>	Black{0A}Gold{0A}White{0A}He didn't wear one	Preta{0A}Dourada{0A}Branca{0A}Ele não usou uma
+msg_quiz.bmd	310	0	<EMPTY>	What is written on the back of Chie's{0A}bike helmet?	O que está escrito na parte de trás{0A}do capacete da Chie?
+msg_quiz.bmd	311	0	<EMPTY>	29{0A}Meat{0A}Satonaka{0A}Dragon	29{0A}Carne{0A}Satonaka{0A}Como um Dragão
+msg_quiz.bmd	312	0	<EMPTY>	What is the color and pattern of Naoto's{0A}summer necktie?	Qual é a cor e estampa da gravata{0A}de verão da Naoto?
+msg_quiz.bmd	313	0	<EMPTY>	Plain yellow{0A}Plain red{0A}Yellow polka dots{0A}Red polka dots	Amarelo{0A}Vermelho{0A}Amarelo com bolinhas{0A}Vermelho com bolinhas
+msg_quiz.bmd	314	0	<EMPTY>	Kanji is too young to get a vehicle{0A}license, so he had to ride a bike to{0A}the beach. What kind of bike did he have?	O Kanji é muito novo para conseguir uma licença{0A}de lambreta, então ele teve que ir de bicicleta{0A}até a praia. Que tipo de bicicleta ele usou?
+msg_quiz.bmd	315	0	<EMPTY>	City bike{0A}Mountain bike{0A}Electric motor bike{0A}Tricycle	Bicicleta normal{0A}Mountain bike{0A}Bicicleta elétrica{0A}Triciclo
+msg_quiz.bmd	316	0	<EMPTY>	"During the ""Miss"" Yasogami Pageant,{0A}Yosuke was given a catch phrase.{0A}What was part of it?"	"Durante o Concurso de ""Miss"" Yasogami,{0A}deram uma frase de efeito para o Yosuke.{0A}O que tinha na frase?"
+msg_quiz.bmd	317	0	<EMPTY>	Pure disappointment {0A}Pure letdown {0A}Pure discouragement{0A}Pure disgust	Pura decepção{0A}Pura depressão{0A}Pura tristeza{0A}Puro nojo
+msg_quiz.bmd	318	0	<EMPTY>	"During the ""Miss"" Yasogami Pageant,{0A}Kanji was given a catch phrase.{0A}What was it?"	"Durante o Concurso de ""Miss"" Yasogami,{0A}deram uma frase de efeito para o Kanji.{0A}O que tinha na frase?"
+msg_quiz.bmd	319	0	<EMPTY>	Runaway express train{0A}Speeding express train{0A}Violent express train{0A}Speeding train	Um trem expresso{0A}Um trem expressivo{0A}Trem expresso violento{0A}Trem veloz
+msg_quiz.bmd	320	0	<EMPTY>	"During the ""Miss"" Yasogami Pageant,{0A}Teddie was given a catch phrase:{0A}""King of the..."" what?"	"Durante o Concurso de ""Miss"" Yasogami,{0A}deram uma frase de efeito para o Kuma.{0A}""Rei do...."" o quê?"
+msg_quiz.bmd	321	0	<EMPTY>	TV World{0A}Wonderland{0A}Fairytale Land{0A}Inaba Kingdom	Mundo da TV{0A}País das Maravilhas{0A}Setealém{0A}Reino de Inaba
+msg_quiz.bmd	322	0	<EMPTY>	What color swimsuit did Hanako Ohtani{0A}wear during the Miss Yasogami Pageant?	Qual foi a cor do biquíni que a Hanako Ohtani{0A}usou durante o Concurso de Miss Yasogami?
+msg_quiz.bmd	323	0	<EMPTY>	Pink{0A}Red{0A}White{0A}Black	Rosa{0A}Vermelho{0A}Branco{0A}Preto
+msg_quiz.bmd	324	0	<EMPTY>	"What color afro does the host of the{0A}""Miss"" Yasogami Pageant have?"	"De que cor era o afro do apresentador{0A}do concurso de ""Miss"" Yasogami?"
+msg_quiz.bmd	325	0	<EMPTY>	Pink{0A}Red{0A}Gold{0A}Black	Rosa{0A}Vermelho{0A}Dourado{0A}Preto
+msg_quiz.bmd	326	0	<EMPTY>	What did Class 2-1 do for Yasogami High's{0A}Culture Festival?	O que a Sala 2-1 fez para o Festival{0A}Cultural da Yasogami?
+msg_quiz.bmd	327	0	<EMPTY>	A play{0A}A haunted mansion{0A}A dango shop{0A}A group date cafe	Uma peça{0A}Uma mansão assombrada{0A}Uma loja de dango{0A}Um café de encontro
+msg_quiz.bmd	328	0	<EMPTY>	"Yosuke named the Christmas Cake made by{0A}the girls: ""_____: Christmas Edition"".{0A}Fill in the blank."	"O Yosuke chamou o bolo de natal feito pelas{0A}garotas de ""Edição de natal do ________"",{0A}Preencha as lacunas."
+msg_quiz.bmd	329	0	<EMPTY>	Mystery Food X{0A}Massacre Machine{0A}Ghost of Christmas Pastry{0A}FAILCAKE	Comida Misteriosa X{0A}Máquina de Horrores{0A}Fantasma da Padaria de Natal{0A}Bolo Bucha
+msg_quiz.bmd	330	0	<EMPTY>	If you were watching the band show at{0A}Junes on October 10th, who would be{0A}on the far right of the stage?	Se você estivesse no show ao vivo da Junes {0A}no dia 10 de outubro, quem estaria no {0A}palco no extremo da direita?
+msg_quiz.bmd	331	0	<EMPTY>	Naoto{0A}Yukiko{0A}Kanji{0A}Rise	Naoto{0A}Yukiko{0A}Kanji{0A}Rise
+msg_quiz.bmd	332	0	<EMPTY>	What was the distinguishing feature of{0A}the fortune teller at the Yasogami High{0A}Culture Festival?	Qual era a característica única da vidente{0A}no Colégio Yasogami durante o Festival Cultural?
+msg_quiz.bmd	333	0	<EMPTY>	Long nose{0A}Long hair{0A}Big nose{0A}Blue nose	Nariz longo{0A}Cabelo longo{0A}Nariz grande{0A}Nariz azul
+msg_quiz.bmd	334	0	<EMPTY>	"Ms. Sofue, AKA ""Queen Tut,"" always carries{0A}a rod. Which hand does she carry it with?"	"Sra. Sofue, vulgo ""Rainha Tut,"" sempre carrega{0A}uma varinha Em que mão ela segura isso?"
+msg_quiz.bmd	335	0	<EMPTY>	Right{0A}Left{0A}Both{0A}She doesn't have a rod	Direita{0A}Esquerda{0A}Nas duas{0A}Ela não usa uma varinha
+msg_quiz.bmd	336	0	<EMPTY>	"What shape was the hairpin Yosuke wore{0A}during the ""Miss"" Yasogami Pageant?"	"De que formato era o grampo de cabelo {0A}que o Yosuke usou durante o Concurso {0A}de ""Miss"" Yasogami?"
+msg_quiz.bmd	337	0	<EMPTY>	Strawberries{0A}White roses{0A}Cherries{0A}Red roses	Morango{0A}Rosas brancas{0A}Cerejas{0A}Rosas vermelhas
+msg_quiz.bmd	338	0	<EMPTY>	What hospital room number was Namatame{0A}being held in?	Qual era o número da sala de hospital{0A}que Namatame estava sendo mantido?
+msg_quiz.bmd	339	0	<EMPTY>	209{0A}309{0A}109{0A}409	209{0A}309{0A}109{0A}409
+msg_quiz.bmd	340	0	<EMPTY>	What was the name of the Shadow you{0A}fought in Heaven to save Nanako-chan?	Qual era o nome da Sombra que você teve {0A}que derrotar no Céu para salvar a Nanako-chan?
+msg_quiz.bmd	341	0	<EMPTY>	Kunino-sagiri{0A}Kumono-sagiri{0A}Kumano-ookami{0A}Kurano-Kaguzuchi	Kunino-sagiri{0A}Kumono-sagiri{0A}Kumano-ookami{0A}Kurano-Kaguzuchi
+msg_quiz.bmd	342	0	<EMPTY>	"What was the Shadow you fought at{0A}""Magatsu Mandala World 6""?"	"Qual era a Sombra que você lutou no{0A}""Magatsu Mandala Mundo 6""?"
+msg_quiz.bmd	343	0	<EMPTY>	Envious Giant{0A}Thirsting Giant{0A}Destructive Giant{0A}Victorious Giant	Gigante da Inveja{0A}Gigante da Sede{0A}Gigante Destruidor{0A}Gigante Vitorioso
+msg_quiz.bmd	344	0	<EMPTY>	What color were the unlocked treasure{0A}chests in Heaven?	De que cor eram o baús de tesouro {0A}desbloqueados no Céu?
+msg_quiz.bmd	345	0	<EMPTY>	Blue{0A}Red{0A}Green{0A}White	Azuis{0A}Vermelhos{0A}Verdes{0A}Brancos
+msg_quiz.bmd	346	0	<EMPTY>	What symbol is found on the doors in{0A}Heaven?	Que símbolo pode ser encontrado{0A}nas portas do Céu?
+msg_quiz.bmd	347	0	<EMPTY>	Lion{0A}Panther{0A}Elephant{0A}Dragon	Leão{0A}Pantera{0A}Elefante{0A}Dragão
+msg_quiz.bmd	348	0	<EMPTY>	What color are the signals at the dead{0A}ends of Magatsu Inaba?	De que cor são as placas nos becos {0A}sem saída de Magatsu Inaba?
+msg_quiz.bmd	349	0	<EMPTY>	Red{0A}Green{0A}Yellow{0A}White	Vermelhas{0A}Verdes{0A}Amarelas{0A}Brancas
+msg_quiz.bmd	350	0	<EMPTY>	How many angel statues are there on{0A}Heaven's top floor?	Quantas estátuas de anjo existem{0A}no andar mais alto do Céu?
+msg_quiz.bmd	351	0	<EMPTY>	13{0A}8{0A}12{0A}18	13{0A}8{0A}12{0A}18
+msg_quiz.bmd	352	0	<EMPTY>	"The entrance to Magatsu Inaba is known{0A}as the ""Desolate Bedroom."" Which color{0A}paint is NOT used in that room?"	"A entrada para Magatsu Inaba é chamada{0A}de ""Quarto Desolado."" Qual cor NÃO{0A}é usada naquele quarto?"
+msg_quiz.bmd	353	0	<EMPTY>	Blue{0A}Red{0A}Yellow{0A}White	Azul{0A}Vermelho{0A}Amarelo{0A}Branco
+msg_quiz.bmd	354	0	<EMPTY>	To attract customers for the group date{0A}cafe, you pretended to be customers.{0A}Who sat across from Chie?	Para atrair clientes para o café de encontro{0A}em grupos, vocês fingiram ser clientes.{0A}Quem sentou de frente para a Chie?
+msg_quiz.bmd	355	0	<EMPTY>	Kanji{0A}Yosuke{0A}Male class rep{0A}Yukiko	Kanji{0A}Yosuke{0A}Representante de classe{0A}Yukiko
+msg_quiz.bmd	356	0	<EMPTY>	What effect does the skill Debilitate{0A}have?	Que efeito a habilidade {0A}Debilitação tem?
+msg_quiz.bmd	357	0	<EMPTY>	Lowers 1 foe's abilities{0A}Raises 1 ally's abilities{0A}Random damage to foes{0A}Random effect	Reduz as hab. de 1 inimigo{0A}Aumenta as hab. de 1 inimigo{0A}Ataque aleatório a inimigos{0A}Efeito aleatório
+msg_quiz.bmd	358	0	<EMPTY>	"The skill ""Seal Bomb"" does medium{0A}physical damage to all foes, as well{0A}as causes an ailment. Which is it?"	"A habilidade ""Bomba do Selo"" causa dano médio {0A}físico a todos os inimigos, além de causar uma {0A}aflição. Que aflição é essa?"
+msg_quiz.bmd	359	0	<EMPTY>	Silence{0A}Enervation{0A}Rage{0A}Exhaustion	Silenciar{0A}Amnésia{0A}Fúria{0A}Exaustão
+msg_quiz.bmd	360	0	<EMPTY>	"The skill ""Navas Nebula"" does medium{0A}physical damage to all foes, as well{0A}as causes an ailment. Which is it?"	"A habilidade ""Navas Nebula"" causa dano{0A}médio físico a todos os inimigos, além{0A}de causar uma aflição. Que aflição é essa?"
+msg_quiz.bmd	361	0	<EMPTY>	Exhaustion{0A}Poison{0A}Enervation{0A}Silence	Exaustão{0A}Veneno{0A}Amnésia{0A}Silenciar
+msg_quiz.bmd	362	0	<EMPTY>	"The skills ""Patra"" and ""Me Patra"" can{0A}heal most status ailments. Which of the{0A}following can they NOT heal?"	"As habilidades ""Patra"" e ""Me Patra"" podem{0A}curar a maioria das aflições. Qual dessas{0A}elas NÃO curam?"
+msg_quiz.bmd	363	0	<EMPTY>	Poison{0A}Panic{0A}Fear{0A}Rage	Veneno{0A}Pânico{0A}Medo{0A}Fúria
+msg_quiz.bmd	364	0	<EMPTY>	"Which of the following status ailments{0A}can be cured by the ""Mutudi"" skill?"	"Qual das seguintes aflições pode ser {0A}curada pela habilidade ""Mutudi""?"
+msg_quiz.bmd	365	0	<EMPTY>	Mute{0A}Exhaustion{0A}Envervation{0A}Panic	Silenciar{0A}Exaustão{0A}Amnésia{0A}Pânico
+msg_quiz.bmd	366	0	<EMPTY>	What skill raises one ally's critical{0A}hit rate?	Qual destas habilidades aumenta{0A}a taxa crítica de um aliado?
+msg_quiz.bmd	367	0	<EMPTY>	Rebellion{0A}Revolution{0A}Rakukaja{0A}Dekaja	Rebelião{0A}Revolução{0A}Rakukaja{0A}Dekaja
+msg_quiz.bmd	368	0	<EMPTY>	What skill allows the party to escape{0A}from most battles?	Que habilidade permite que o grupo{0A}fuja da maioria das batalhas?
+msg_quiz.bmd	369	0	<EMPTY>	Trafuri{0A}Traesto{0A}Amrita{0A}Re Patra	Trafuri{0A}Traesto{0A}Amrita{0A}Re Patra
+msg_quiz.bmd	370	0	<EMPTY>	Which skill allows party members to{0A}get back up after being knocked down?	Que habilidade permite que um membro do {0A}grupo se levante depois de ter sido nocauteado?
+msg_quiz.bmd	371	0	<EMPTY>	Re Patra{0A}Amrita{0A}Salvation{0A}Recarm	Re Patra{0A}Amrita{0A}Salvação{0A}Recarm

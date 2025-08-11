@@ -1,0 +1,4717 @@
+Shadow Yosuke	Sombra de Yosuke
+Shadow Yukiko	Sombra de Yukiko
+Masked prince	Príncipe Mascarado
+Teddie	Kuma
+Yosuke	Yosuke
+Rise	Rise
+Chie	Chie
+Yukiko	Yukiko
+Kanji	Kanji
+Naoto	Naoto
+Dojima	Dojima
+Shadow Chie	Sombra da Chie
+Shadow Teddie	Sombra do Kuma
+Shadow Mitsuo	Sombra do Mitsuo
+Shadow Naoto	Sombra da Naoto
+Kunino-sagiri	Kunino-sagiri
+Adachi	Adachi
+Ameno-sagiri	Ameno-sagiri
+Izanami	Izanami
+Igor	Igor
+Margaret	Margaret
+???	???
+Izanami-no-Okami	Izanami-no-Okami
+Kusumi-no-Okami	Kusumi-no-Okami
+Marie	Marie
+Man in a lab coat	Homem de jaleco
+Mr. Edogawa	Sr. Edogawa
+Bizarre-looking man	Homem bizarro
+Man's voice	Voz masculina
+Middle-aged man	Homem de meia-idade
+Ryotaro Dojima	Ryotaro Dojima
+Nanako Dojima	Nanako Dojima
+Nanako	Nanako
+Unfriendly-looking girl	Garota pouco amigável
+Attendant	Atendente
+Weather announcer	Mulher do Tempo
+Announcer	Âncora
+Commercial	Comercial
+Biking student	Aluno de bicicleta
+Pained student	Aluno machucado
+Sitting student	Aluno sentado
+Student's friend	Amigo do aluno
+Female student	Aluna
+Short-haired girl	Garota de cabelo curto
+Black-haired girl	Garota de cabelo preto
+Mr. Morooka	Sr. Morooka
+Male student	Aluno
+Whiny student	Aluna reclamona
+Brown-haired girl	Garota de cabelo castanho
+School intercom	Comunicadora do colégio
+Girl's friend	Amiga da garota
+Excited student	Aluno animado
+Rumor-loving student	Amante de rumores
+Knowledgeable student	Aluno culto
+Chie Satonaka	Chie Satonaka
+Yukiko Amagi	Yukiko Amagi
+Bleak-looking student	Aluno molenga
+Strange student	Aluno estranho
+Onlooking student	Aluno espectador
+Spectacled student	Aluno de óculos
+Cycling student	Aluno ciclista
+Shopping housewife	Dona de casa
+Spectator housewife	Detetive jovem
+Spectating housewife	Locutor
+Young detective	Aluno rolando
+Rolling student	Aluno patético
+Yosuke Hanamura	Yosuke Hanamura
+Saki Konishi	Saki Konishi
+Saki	Saki
+Reporter	Repórter
+Commentator	Comentarista
+Short girl	Garota baixinha
+Sitting girl	Garota sentada
+Mysterious bear	花村 陽介
+Store announcement	Urso misterioso
+Red umbrella girl	Anúncio da loja
+White umbrella girl	Grta. G-chuva Ver.
+Rumor-loving girl	Grta. G-chuva Branco
+Long-haired girl	Grta. de cabelo comprido
+Ms. Sofue	Sra. Sofue
+Principal	Diretor
+Unknown voice	Voz desconhecida
+Middle-aged voice	Voz de meia idade
+Saki's voice	Voz da Saki
+Yosuke?	Yosuke?
+Other Yosuke	Outro Yosuke
+Narrator	Narrador
+Patrolman	Policial
+Plainclothesman	Homem comum
+Uniformed officer	Policial à paisana
+Voice in your head	Voz na sua cabeça
+Yukiko's voice	Voz da Yukiko
+Chie-like voice	Voz parecida com a da Chie
+Other Chie	Outra Chie
+Voice	Voz
+Young delinquent	Aluno inteligente
+Shop owner	Dona da loja
+Slender young man	Jovem magro
+Deliveryman	Entregador
+Kanji Tatsumi	Kanji Tatsumi
+Boy on screen	Garoto na tela
+Manly voice	Voz viril
+Handsome voice	Voz bonita
+Shadow Kanji	Sombra de Kanji
+TV-loving student	Aluno que ama TV
+Girl's voice	Voz feminina
+Hanako?	Hanako?
+Hanako	Hanako
+Familiar voice	Voz familiar
+Agency spokesman	Porta-voz da agência
+Magazine reporter	Redator de revista
+Commercial voice	Voz do comercial
+Young man's voice	Voz de um rapaz
+Older man's voice	Voz de um velho
+Old lady	Idosa
+Kerchiefed girl	Garota de lenço
+Rise Kujikawa	Rise Kujikawa
+Suspicious man	Homem Suspeito
+Rise's grandmother	Avó da Rise
+Girl on screen	Garota na tela
+Shadow Rise	Sombra da Rise
+Teddie's voice	Voz do Kuma
+Other Teddie	Outro Kuma
+Teddie?	Kuma?
+Hat-wearing boy	Rapaz de chapéu
+Naoto Shirogane	Naoto Shirogane
+Ms. Kashiwagi	Ms. Kashiwagi
+Brown-haired student	Aluno moreno
+Familiar-sounding voice	Garoto na tela
+Mitsuo	Mitsuo
+Sample tray lady	voz do Kuma
+Announcement	Moça das amostras
+Conniving girl	Apresentador
+PA System	Anúncio
+Gekkoukan Principal	Diretor do Gekkoukan
+Sharp-looking student	Aluna Inteligente
+Chihiro Fushimi	Chihiro Fushimi
+Doubtful student	Aluno duvidoso
+Dumbfounded student	Aluno perplexo
+Mysterious voice	Voz misteriosa
+Young man	Homem jovem
+Other Naoto	Outra Naoto
+Everyone	Todos
+Everyone besides Rise	Todos exceto Rise
+Crowd	Plateia
+The letter	A carta
+Male class rep	Representante de classe
+Female class rep	Representante de classe
+Awestruck student	Aluno impressionado
+Optimistic student	Aluno otimista
+Disinterested student	Aluna desinteressada
+Appalled student	Aluna chocada
+Worried student	Aluno preocupado
+Yukiko fan	Fã da Yukiko
+Rise fan	Fã da Rise
+Chie fan	Fã da Chie
+Naoto fan	Fã da Naoto
+Glasses-wearing student	Estudante de óculos
+Slacker student	Aluno preguiçoso
+Follower student	Aluno pau mandado
+Enthusiastic student	Aluno animado
+Eager student	Aluno ansioso
+Impressed student	Aluno impressionado
+MC	MC
+Male's voice	Voz de homem
+Earnest-looking employee	Empregado ansioso
+Man	Homem
+Recorded message	Mensagem gravada
+Duty officer	Oficial trabalhando
+Nanako's voice	Voz da Nanako
+Taro Namatame	Taro Namatame
+Newspaper article	Artigo de jornal
+Nurse	Enfermeira
+Doctor	Médico
+Passing housewife	Dona de casa
+Gas-masked man	Homem com mぁscara de gぁs
+Yosuke and Chie	Yosuke e Chie
+Woman's voice	Voz de uma mulher
+Nurse's voice	Voz da enfermeira
+Policeman on guard	Policial em guarda
+Policeman's partner	Parceiro do policial
+Namatame	Namatame
+Other Namatame	Outro Namatame
+Weather reporter	Previsão do tempo
+Female Student	Estudante Feminina
+Ai's message	Mensagem da Ai
+Kou's message	Mensagem do Kou
+Daisuke's message	Mensagem do Daisuke
+Naoki's message	Mensagem do Naoki
+Hisano's message	Mensagem da Hisano
+Margaret's message	Mensagem da Margaret
+Sayoko's message	Mensagem da Sayoko
+Shu's message	Mensagem do Shu
+Yumi's message	Mensagem da Yumi
+Ayane's message	Mensagem da Ayane
+Eri's message	Mensagem da Eri
+Daisuke	Daisuke
+Kou	Kou
+Naoki	Naoki
+Ai	Ai
+Hisano	Hisano
+Sayoko	Sayoko
+Yumi	Yumi
+Ayane	Ayane
+Shu	Shu
+Eri	Eri
+Reminiscing Namatame	Namatame se lembrando
+Mayumi	Mayumi
+Former Adachi	Ex-Adachi
+Policeman	Policial
+Boy	Menino
+Boy's mother	Mãe do menino
+All	Todos
+Adachi's letter	Carta do Adachi
+Fox	Raposa
+Live announcer	Anunciador
+Yukiko's message	Mensagem de Yukiko
+Chie's message	Mensagem de Chie
+Email from Rise	E-mail de Rise
+Email from Naoto	E-mail de Naoto
+Email from Ai	E-mail de Ai
+Email from Yumi	E-mail de Yumi
+Email from Ayane	E-mail de Ayane
+Rise's message	Mensagem da Rise
+Naoto's message	Mensagem da Naoto
+Restless male student	Aluno cansado
+Nervous male student	Aluno nervoso
+Desperate male student	Aluno desesperado
+Lovely woman	Moça bonita
+Housewife	Dona de Casa
+Man in straw hat	Homem com chapéu de palha
+Thinking man	Homem pensando
+Housewife with hairband	Dona de casa com uma tiara
+Housewife with dyed hair	Dona de casa com cabelo pintado
+Sweaty young man	Jovem suado
+Young woman	Moça Jovem
+Troubled man	Homem indeciso
+Loud old man	Velha gritando
+Newscaster	Âncora do Jornal
+Familiar girl	Garota Familliar
+Chatty Girl	Garota faladeira
+Braided Girl	Garota de trança
+Dark-haired girl	Grta. de cabelo preto
+Athletic girl	Garota atlética
+Guy with a backpack	Cara de mochila
+Bespectacled student	Aluno de óculos
+Lazy student	Aluno preguiçoso
+Gossipy girl	Garota fofoqueira
+Calm girl	Garota calma
+Depressed girl	Garota deprimida
+Sporty student	Aluno esportivo
+Younger student	Aluna mais jovem
+Scared student	Aluna assustada
+Bright student	Aluna brilhante
+Ill student	Estudante doente
+Chatty girl	Garota conversativa
+Braided girl	Garota trançada
+Backpack guy	Cara de mochila
+Easygoing girl	Garota descontraída
+Girl with red umbrella	Garota frustrada
+Athletic student	Garoto descontraído
+Scared girl	Garota generosa
+Burned-out girl	Garota de mochila
+Easygoing boy	Garota de óculos
+Girl with average-length hair	Srta. Sofue
+Generous girl	Professor aborrecido
+Girl with bag	Garota com uma bolsa
+Bespectacled girl	Garota de óculos
+Dull teacher	Professor chato
+Mr. Hosoi	Sr. Hosoi
+Mr. Kondo	Sr. Kondo
+Mr. Yamada	Sr. Yamada
+Mrs. Nakayama	Sra. Nakayama
+P.E.	Educação Física
+World history	História do mundo
+Math	Matemática
+Literature	Literatura
+Philosophy	Filosofia
+Geography	Geografia
+English	Inglês
+Biology	Biologia
+Text from Yosuke	Mensagem de texto do Yosuke
+Mysterious fox	Raposa misteriosa
+Suspicious Guy	Cara Suspeito
+Inoue	Inoue
+Bored teenager	Adolescente Entediado
+Deputy mayor	Vice-prefeito
+Suited man	Homem de terno
+Kimono-clad woman	Mulher de quimono
+Kasai	Kasai
+Shady reporter	Repórter desonesto
+Gossiping lady	Senhora fofoqueira
+Talkative lady	Senhora tagarela
+Gaudy student	Estudante chamativo
+Snooty student	Estudante esnobe
+Loudmouthed woman	Mulher de boca suja
+Echoing voice	Voz ecoando
+Police Officer	Oficial de polícia
+Doctor's whispers	Sussurros do Doutor
+Sayoko Uehara	Sayoko Uehara
+Old lady in black	Senhora de preto
+Pale nurse	Enfermeira pálida
+Tired nurse	Enfermeira cansada
+Middle-aged nurse	Enfermeira de meia-idade
+Police officer	Oficial de polícia
+Aiya owner	Dono do Aiya
+Kanji's mother	Mãe do Kanji
+Quiet-looking boy	Garoto com aparência quieta
+Boy's voice	Voz do garoto
+Doll boy	Garoto boneca
+Nanako's Voice	Voz da Nanako
+Unfamiliar guy	Cara desconhecido
+Takeshi	Takeshi
+Threatening voice	Voz ameaçadora
+Punk	Punk
+Punk leader	Líder punk
+Kid's voice	Voz de criança
+Crying kid	Criança chorando
+Strange animal	Animal estranho
+Old man	Velho
+Visiting boy	Garoto visitante
+Visiting lady	Senhora visitante
+Writing on the card	Escrito no cartão
+Man in black	Homem de preto
+Yakushiji	Yakushiji
+Basketball player	Jogador de basquete
+P.E. teacher	Professor de Educação Física
+Team members	Membros da equipe
+Ai Ebihara	Ai Ebihara
+Soccer player	Jogador de futebol
+Daisuke Nagase	Daisuke Nagase
+Kou Ichijo	Kou Ichijo
+Varsity player	Jogador universitário
+Pretty girl	Garota bonita
+Cute girl	Garota fofa
+Attractive girl	Garota atraente
+Daisuke's ex	Ex do Daisuke
+White-collar man	Homem de colarinho branco
+Saki Konishi's brother	Irmão da Saki Konishi
+Male student's voice	Voz de estudante masculino
+Loud-Mouthed Housewife	Dona de casa barulhenta
+Postcard	Cartão postal
+Saleswoman	Vendedora
+Yasogami Student	Estudante de Yasogami
+Other student	Outro estudante
+Conceited student	Estudante convencido
+Smirking student	Estudante sorrindo
+Smirking senior	Veterano sorrindo
+Twitching senior	Veterano se contorcendo
+Middle-school boy	Garoto do ensino médio
+Shu's mother	Mãe do Shu
+Shu Nakajima	Shu Nakajima
+Friends	Amigos
+Drama club member	Membro do clube de teatro
+Brisk student	Estudante vigoroso
+Suspicious student	Estudante desconfiado
+Drama club president	Presidente do clube de teatro
+Kind student	Estudante gentil
+Drama club vice president	Vice-presidente do clube de teatro
+Jealous student	Estudante ciumento
+Non-drama club member	Não membro do clube de teatro
+Yumi's mother	Mãe da Yumi
+School PA	Anúncio do Colégio
+Club members	Membros do clube
+Yumi's father	Pai da Yumi
+Band member	Membro da banda
+Band captain	Capitão da banda
+Band members	Membros da banda
+Ayane Matsunaga	Ayane Matsunaga
+Male player	Jogador masculino
+Female player	Jogadora feminina
+Flamboyant player	Jogador extravagante
+Takeru	Takeru
+Senior player	Jogador veterano
+Girl	Garota
+Day care supervisor	Supervisora de creche
+Woman	Mulher
+Yuuta	Yuuta
+Yuuta's mother	Mãe do Yuuta
+Other mother	Outra mãe
+Unfamiliar woman	Mulher desconhecida
+Ms. Nakamura	Srta. Nakamura
+Old woman	Idosa
+Old Woman	Idosa
+Old woman's voice	Voz de velha
+Middle-aged man's voice	Voz de homem de meia-idade
+Lady	Senhora
+Child	Criança
+Mother	Mãe
+Customer	Cliente
+Old Man Daidara	Velho Daidara
+Shiroku hostess	Anfitriã Shiroku
+Owner in sunglasses	Dono de óculos de sol
+Mumon	Mumon
+Host	Anfitrião
+TV Tanaka	TV Tanaka
+Young nurse	Jovem enfermeira
+Male student in a sweatsuit	Estudante masculino de agasalho
+Cheerful male student	Estudante masculino alegre
+Girl with braids	Garota com tranças
+Girl with long hair	Garota com cabelo longo
+Energetic girl	Garota energética
+Brisk girl	Garota vigorosa
+Running girl	Garota correndo
+Talkative student	Estudante tagarela
+Intrigued student	Estudante intrigado
+Candy apple man	Homem da maçã do amor
+Lottery worker	Trabalhador da loteria
+Slim nurse	Enfermeira esbelta
+Message from Ai	Mensagem da Ai
+Message from Yumi	Mensagem da Yumi
+Text message	Mensagem de texto
+Fish-loving old man	Velho amante de peixes
+TV	TV
+Scrawled letter	Carta rabiscada
+Bold letter	Carta em negrito
+Neat letter	Carta caprichada
+Yosuke's message	Mensagem do Yosuke
+Reiko Osa	Reiko Osa
+Employee	Funcionário
+Old Lady Shiroku	Velha Shiroku
+Slouching student	Estudante curvado
+Tardy student	Estudante atrasado
+Girl in glasses	Garota de óculos
+Risette fan	Fã da Risette
+Stylish student	Estudante estiloso
+Plain student	Estudante simples
+Guy in glasses	Cara de óculos
+Shy student	Estudante tímido
+Shady student	Estudante desonesto
+Lazy male student	Estudante masculino preguiçoso
+Funky student	Estudante descolado
+Graduating student	Estudante se formando
+Brunette student	Estudante morena
+Almond-eyed student	Estudante de olhos amendoados
+Depressed student	Estudante deprimido
+Paranoid student	Estudante paranoico
+Homely student	Estudante comum
+Artisan apprentice	Aprendiz de artesão
+Timid female student	Estudante feminina tímida
+Weather fanatic	Fanático por clima
+Teddie's message	Mensagem do Teddie
+Kanji's message	Mensagem do Kanji
+Tired housewife	Dona de casa cansada
+Cheerful housewife	Dona de casa alegre
+Dog	Cachorro
+Housewife in farming clothes	Dona de casa com roupas de fazenda
+Neighborhood housewife	Dona de casa da vizinhança
+Patrolling police officer	Policial patrulhando
+Dye shop lady	Mulher da tinturaria
+Hobby shop owner	Dona da loja de hobbies
+Shopping woman	Mulher fazendo compras
+Carefree guy	Cara despreocupado
+Spacy girl	Garota avoada
+Errand boy	Entregador
+Rival school student	Estudante de escola rival
+Textile shop owner	Dono de loja de tecidos
+Souzai owner	Dono de souzai
+Souzai  owner	Dono de souzai
+Businessman	Empresário
+grandmother	Avó
+Man in suit	Homem de terno
+Man gazing at torii	Homem olhando para torii
+Motorcycle lover	Amante de motocicleta
+Walking old man	Velho caminhando
+Stupidly honest policeman	Policial estupidamente honesto
+Radio patrolman	Radiopatrulha
+Office worker	Funcionário de escritório
+Neighborhood man	Homem da vizinhança
+Boy being doubted	Garoto sendo duvidado
+Job-seeking girl	Garota procurando emprego
+Unfamiliar dog	Cachorro desconhecido
+Returning businesswoman	Empresária voltando
+Loitering young man	Jovem vadiando
+Patrolling policeman	Policial patrulhando
+Radio police officer	Policial de rádio
+Drunk man	Homem bêbado
+Wandering old man	Velho vagando
+Middle-aged housewife	Dona de casa de meia-idade
+Out-of-towner	Pessoa de fora da cidade
+Stylish girl	Garota estilosa
+Older twin	Gêmeo mais velho
+Avid reader	Leitor ávido
+Wife w/ dyed hair	Esposa com cabelo tingido
+Wife w/ necklace	Esposa com colar
+Aging housewife	Dona de casa envelhecendo
+Student	Estudante
+Businesswoman	Empresária
+Middle-aged woman	Mulher de meia-idade
+Elderly person	Pessoa idosa
+Fishing student	Estudante pescando
+Singing girl	Garota cantando
+Salaryman	Assalariado
+Sleepy young man	Jovem sonolento
+Girl with short hair	Garota de cabelo curto
+Bug-liking lady	Senhora que gosta de insetos
+Passing man	Homem passando
+Passerby man	Homem transeunte
+Returning salaryman	Assalariado voltando
+Drunk boss	Chefe bêbado
+Drunk subordinate	Subordinado bêbado
+Sober subordinate	Subordinado sóbrio
+Precocious little girl	Menina precoce
+Weak-willed boy	Menino de vontade fraca
+Mature little girl	Menina madura
+Bug-catching kid	Criança caçadora de insetos
+Budding entomologist	Entomologista em formação
+Lady in white	Senhora de branco
+Woman in a suit	Mulher de terno
+Pained old man	Velho com dor
+Tired student	Estudante cansado
+Policeman on duty	Policial de serviço
+Shopping child	Criança fazendo compras
+Fussy housewife	Dona de casa exigente
+Refreshed old man	Velho revigorado
+Kind man	Homem gentil
+Depressed man	Homem deprimido
+Gas mask boy	Garoto da máscara de gás
+Photographer	Fotógrafo
+Cat	Gato
+Striped kitten	Gatinho listrado
+Tiny kitten	Gatinho minúsculo
+Great grandchild	Bisneto
+Worried man	Homem preocupado
+Timid boy	Menino tímido
+Younger twin	Gêmeo mais novo
+Farming man	Homem da fazenda
+Impatient student	Estudante impaciente
+Unfamiliar cat	Gato desconhecido
+Man in sunglasses	Homem de óculos de sol
+Bored-looking man	Homem com aparência entediada
+Woman shopping	Mulher fazendo compras
+Busy man	Homem ocupado
+Young police officer	Jovem policial
+Middle-aged police officer	Policial de meia-idade
+Woman with heavy makeup	Mulher com maquiagem pesada
+Tired man	Homem cansado
+Well-dressed man	Homem bem-vestido
+Plainly dressed woman	Mulher vestida de forma simples
+Tough girl	Garota durona
+Creepy girl	Garota assustadora
+Excitable young man	Jovem excitável
+Dull young man	Jovem sem graça
+Hungry young man	Jovem com fome
+Film buff girl	Garota cinéfila
+Fashionable girl	Garota fashion
+Pure girl	Garota pura
+Flamboyant high school girl	Colegial extravagante
+Loud high school girl	Colegial barulhenta
+Neatly dressed girl	Garota bem-vestida
+Older lady	Senhora mais velha
+Older(?) lady	Senhora mais velha (?)
+Housewife with groceries	Dona de casa com compras
+Housewife's friend	Amiga da dona de casa
+Stray cat	Gato de rua
+Little girl	Menina
+Beautiful lady	Linda senhora
+Quiet housewife	Dona de casa quieta
+Frantic middle-aged woman	Mulher de meia-idade frenética
+Strange dog	Cachorro estranho
+Movie theater worker	Funcionário do cinema
+Neighborhood woman	Mulher da vizinhança
+Marie's voice	Voz da Marie
+BUG THIS SPEAKERNAME, PLEASE	BUG THIS SPEAKERNAME, PLEASE
+Rise's voice	Voz da Rise
+Security system	Sistema de segurança
+Adachi's voice	Voz do Adachi
+Izanami's voice	Voz da Izanami
+Cats	Gatos
+Ailurophobe	Ailurofóbico
+Love note sender	Remetente de nota de amor
+Slim woman	Mulher esbelta
+Missing dog	Cachorro desaparecido
+Lonely boy	Garoto solitário
+Haggard man	Homem abatido
+Despondent man	Homem desanimado
+Man with closure	Homem com resolução
+Awkward girl	Garota desajeitada
+Wallet misplacer	Pessoa que extraviou a carteira
+Sleepy cat	Gato sonolento
+Gate check	Verificação de portão
+Guard	Guarda
+Reporter's voice	Voz do repórter
+Kanji's voice	Voz do Kanji
+Hollow voice	Voz oca
+Defense system	Sistema de defesa
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+	
+
+
+
+
+
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+
+
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
