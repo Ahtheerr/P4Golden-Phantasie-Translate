@@ -6,6 +6,7 @@ Tradução completa de Persona 4 Golden feita pela Phantasie Translate.
 - Baixe o Release mais recente.
 - Execute o "P4G-Tradução.exe" como admnistrador.
 - Selecione a versão do seu jogo.
+- Caso você esteja na versão do Game Pass, abra o jogo pelo P4G.exe
 ## 2ª Opção caso dê algum problema:
 - Copie winmm.dll e Plugins de dentro da pasta "Dados" e cole na pasta do seu jogo.
 - Caso esteja na versão da Xbox/Microsoft Store, apague o arquivo "PhantasieRussa.ASI" de dentro da pasta "Plugins" e também copie o arquivo "Arquivo" e mude seu nome para P4G.exe, abra o jogo por este executável.
