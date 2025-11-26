@@ -48,11 +48,11 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 3. No campo **Opções de Inicialização**, cole o seguinte comando:
 
 
-# Créditos
+# 👥Créditos
 
 ## Phantasie Translate
-- Discord para reportar erros ou bater papo: https://discord.com/invite/ZXWMyQd8z3
-- Site: https://phantasietranslate.com.br/
+- 💬 Discord para reportar erros ou bater papo: https://discord.com/invite/ZXWMyQd8z3
+- 🌐 Site: https://phantasietranslate.com.br/
 
 ## Gerentes de tradução
 - PHSticks
@@ -105,4 +105,4 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 - Will
 - Gopicolo
 - Nimbus
-- Guilbert Octaviano, Descanse em paz.
+- 🕊️ Guilbert Octaviano, descanse em paz.
