@@ -7,10 +7,8 @@ Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada
 
 # 📥 DOWNLOAD (Onde baixar)
 
-Para jogar, você **NÃO** deve baixar o código-fonte (Source Code). Você precisa baixar o instalador oficial.
-
 ## [👉 CLIQUE AQUI PARA BAIXAR A ÚLTIMA VERSÃO 👈](https://github.com/Ahtheerr/P4Golden-Phantasie-Translate/releases/latest)
-*(Certifique-se de baixar o arquivo `.zip` ou `.exe` na seção "Assets", e não o zip do código)*
+*(Certifique-se de baixar o arquivo `.zip` na seção "Assets", e não o zip do código)*
 
 ---
 
