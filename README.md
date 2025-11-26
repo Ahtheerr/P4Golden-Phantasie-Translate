@@ -1,20 +1,54 @@
-# Persona 4 Golden em Português!
-Tradução completa de Persona 4 Golden feita pela Phantasie Translate.
+# Persona 4 Golden - Tradução PT-BR
+![Status](https://img.shields.io/badge/Status-Completo-success) ![Versão](https://img.shields.io/badge/Versão-Steam%20%26%20GamePass-blue)
 
-# Como Instalar
+Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada pela **Phantasie Translate**.
 
-- Baixe o Release mais recente.
-- Execute o "P4G-Tradução.exe" como admnistrador.
-- Selecione a versão do seu jogo.
-- Caso você esteja na versão do Game Pass, abra o jogo pelo P4G.exe
-- Mude o nome do "winmm.dll" e abra o executável original para garantir que o seu save seja carregado na nuvem da Xbox Live.
-## 2ª Opção caso dê algum problema:
-- Copie winmm.dll e Plugins de dentro da pasta "Dados" e cole na pasta do seu jogo.
-- Caso esteja na versão da Xbox/Microsoft Store, apague o arquivo "PhantasieRussa.ASI" de dentro da pasta "Plugins" e também copie o arquivo "Arquivo" e mude seu nome para P4G.exe, abra o jogo por este executável.
+---
 
-## Linux
-- É necessário a Opção de Inicialização ``WINEDLLOVERRIDES="winmm.dll=n,b"`` para que tudo funcione corretamente no Linux.
-- Steam -> Persona 4 Golden (botão direito) -> Propriedades -> Opções de Inicialização.
+# 📥 DOWNLOAD (Onde baixar)
+
+Para jogar, você **NÃO** deve baixar o código-fonte (Source Code). Você precisa baixar o instalador oficial.
+
+## [👉 CLIQUE AQUI PARA BAIXAR A ÚLTIMA VERSÃO 👈](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/latest)
+*(Certifique-se de baixar o arquivo `.zip` ou `.exe` na seção "Assets", e não o zip do código)*
+
+---
+
+# 🛠️ Como Instalar
+
+### Método 1: Instalação Automática (Recomendado)
+1. Baixe o **Release** mais recente no link acima.
+2. Execute o arquivo `P4G-Tradução.exe` como **Administrador**.
+3. Selecione a versão do seu jogo (Steam ou Game Pass).
+4. Siga as instruções na tela.
+
+**Nota para usuários do Game Pass:**
+* Se estiver jogando pela Game Pass, inicie o jogo pelo arquivo `P4G.exe` criado na pasta.
+* **Saves na Nuvem:** Mude o nome do arquivo `winmm.dll` (ex: para `winmm.dll.bak`) e abra o executável *original* do jogo para garantir que seu save seja sincronizado com a nuvem da Xbox Live.
+
+---
+
+### Método 2: Instalação Manual (Caso o instalador falhe)
+Se tiver problemas com o executável, siga estes passos:
+
+1. Baixe o release e extraia os arquivos.
+2. Copie o arquivo `winmm.dll` e a pasta `Plugins` (que estão dentro da pasta "Dados").
+3. Cole-os na pasta raiz do seu jogo (onde fica o executável do Persona 4).
+
+**Ajustes para Xbox/Microsoft Store (Game Pass):**
+1. Apague o arquivo `PhantasieRussa.ASI` de dentro da pasta `Plugins` que você copiou.
+2. Copie o arquivo chamado `Arquivo` (fornecido no download), cole na pasta do jogo e renomeie-o para `P4G.exe`.
+3. Abra o jogo sempre por este novo executável.
+
+---
+
+## 🐧 Linux / Steam Deck
+Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necessário adicionar um parâmetro de inicialização.
+
+1. Na Steam, clique com o botão direito em **Persona 4 Golden**.
+2. Vá em **Propriedades** > **Geral**.
+3. No campo **Opções de Inicialização**, cole o seguinte comando:
+
 
 # Créditos
 
