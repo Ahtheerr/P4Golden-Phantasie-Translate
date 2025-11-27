@@ -24,8 +24,8 @@ Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada
 ### Método 2: Instalação Manual (Caso o instalador falhe)
 Se tiver problemas com o executável, siga estes passos:
 
-1. Baixe o release e extraia os arquivos.
-2. Copie o arquivo `dinput8.dll` e a pasta `update` (que estão dentro da pasta "Dados").
+1. Baixe este [release](https://github.com/Ahtheerr/P4Golden-Phantasie-Translate/releases) e extraia os arquivos.
+2. Copie o arquivo `dinput8.dll` e a pasta `update`.
 3. Cole-os na pasta raiz do seu jogo (onde fica o executável do Persona 4).
 
 **Ajustes para Xbox/Microsoft Store (Game Pass):**
