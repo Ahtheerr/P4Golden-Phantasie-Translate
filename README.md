@@ -7,8 +7,8 @@ Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada
 
 # 📥 DOWNLOAD
 
-## 👉 [CLIQUE AQUI PARA BAIXAR O INSTALADOR]([https://github.com/Ahtheerr/P4Golden-Phantasie-Translate/releases/latest](https://github.com/Ahtheerr/Instalador-Traducao-P4G/releases/](https://github.com/Ahtheerr/Instalador-Traducao-P4G/releases/)) 👈
-*(Certifique-se de baixar o arquivo `.zip` na seção "Assets", e não o zip do código)*
+## 👉 [CLIQUE AQUI PARA BAIXAR O INSTALADOR](https://github.com/Ahtheerr/Instalador-Traducao-P4G/releases/) 👈
+*(Certifique-se de baixar o arquivo `.exe` na seção "Assets", e não o zip do código)*
 
 ---
 
