@@ -38,7 +38,7 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 
 1. Na Steam, clique com o botão direito em **Persona 4 Golden**.
 2. Vá em **Propriedades** > **Geral**.
-3. No campo **Opções de Inicialização**, cole o seguinte comando:
+3. No campo **Opções de Inicialização**, cole o seguinte comando: `WINEDLLOVERRIDES="dinput8=n,b" %command%`
 
 
 # 👥Créditos
