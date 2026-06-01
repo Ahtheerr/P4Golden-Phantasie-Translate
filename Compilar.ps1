@@ -1,135 +1,136 @@
-# =================================================================================
-#    SCRIPT POWERSHELL PARA PROCESSAMENTO PARALELO DE ARQUIVOS PERSONA (v2)
-# =================================================================================
-# Autor: Seu Nome/Comunidade
-# Versão: 2.0
-# Descrição: Automatiza a importação de textos para arquivos de jogo usando
-#            PersonaEditorCMD.exe, com processamento paralelo para máxima velocidade.
-# =================================================================================
+# ==============================================================================
+# Script de Instalação Automática - Tradução Persona 4 Golden (Phantasie Translate)
+# Execução: irm <link-raw-do-github> | iex
+# ==============================================================================
 
-# --- Configuração Inicial ---
-Clear-Host
-$Host.UI.RawUI.WindowTitle = "Processador de Arquivos Persona (PowerShell Paralelo)"
+# Força o uso do TLS 1.2+ para evitar problemas na API do GitHub no PowerShell 5.1
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
-# --- Configuração de Variáveis ---
-$EditorCmd      = ".\PersonaEditor\PersonaEditorCMD.exe"
-$PythonScript   = ".\XLSX-TSV.py"
-$SourceDir      = ".\IN"
-$OutputDir      = ".\OUT"
-$TextDir        = ".\Text"
+# 1. Função para invocar a janela do Windows Explorer e pedir a pasta
+function Get-FolderBrowser {
+    Add-Type -AssemblyName System.Windows.Forms
+    $dialog = New-Object System.Windows.Forms.FolderBrowserDialog
+    $dialog.Description = "Selecione a pasta raiz do Persona 4 Golden (Se for Game Pass, selecione a pasta 'Content')"
+    $dialog.ShowNewFolderButton = $false
+    
+    # Tenta trazer a janela para frente
+    $form = New-Object System.Windows.Forms.Form
+    $form.TopMost = $true
+    
+    if ($dialog.ShowDialog($form) -eq [System.Windows.Forms.DialogResult]::OK) {
+        return $dialog.SelectedPath
+    }
+    return $null
+}
 
-# !! IMPORTANTE !!
-# Limita quantos arquivos são processados ao mesmo tempo.
-# Um bom valor inicial é o número de núcleos da sua CPU (ex: 4, 8, 12).
-# Se o seu PC ficar lento, diminua este valor. Se tiver um PC potente, pode aumentar.
-$ThrottleLimit = 8
+# Pergunta a versão do jogo via terminal
+$title = "Instalador da Tradução - Phantasie Translate"
+$message = "Qual a versão do seu Persona 4 Golden?"
+$choices = [System.Management.Automation.Host.ChoiceDescription[]] @(
+    "&1. 64-bits (Versão mais atual/Steam/Game Pass)",
+    "&2. 32-bits (Versão antiga)"
+)
+$decision = $host.ui.PromptForChoice($title, $message, $choices, 0)
+$is64Bit = ($decision -eq 0)
 
-# =================================================================================
-#                           INÍCIO DO PROCESSO
-# =================================================================================
-Write-Host "#######################################################" -ForegroundColor Green
-Write-Host "###      INICIANDO SCRIPT DE PROCESSAMENTO      ###" -ForegroundColor Green
-Write-Host "#######################################################"
-Write-Host
+$gamePath = $null
 
-# Bloco principal para capturar erros fatais
-try {
-    # --- Verificação Inicial ---
-    Write-Host "--- Verificando arquivos e pastas necessários..." -ForegroundColor Yellow
-    if (-not (Test-Path $EditorCmd))      { throw "ERRO: O programa '$EditorCmd' não foi encontrado!" }
-    if (-not (Test-Path $PythonScript))   { throw "ERRO: O script '$PythonScript' não foi encontrado!" }
-    if (-not (Test-Path $SourceDir))      { throw "ERRO: A pasta '$SourceDir' não foi encontrada!" }
-    Write-Host "--- Verificação concluída com sucesso." -ForegroundColor Green
-    Write-Host
-
-    # --- Passo 1: Executar o script Python ---
-    Write-Host "-------------------------------------------------------"
-    Write-Host "--- Passo 1: Executando script Python (gerador de TXT)..." -ForegroundColor Cyan
-    & python.exe $PythonScript
-    if ($LASTEXITCODE -ne 0) { throw "O script Python falhou com o código de saída $LASTEXITCODE." }
-    Write-Host "--- Script Python executado com sucesso." -ForegroundColor Green
-    Write-Host
-
-    # --- Passo 2: Copiar conteúdo de IN para OUT ---
-    Write-Host "-------------------------------------------------------"
-    Write-Host "--- Passo 2: Copiando arquivos de '$SourceDir' para '$OutputDir'..." -ForegroundColor Cyan
-    if (-not (Test-Path $OutputDir)) { New-Item -Path $OutputDir -ItemType Directory | Out-Null }
-    Copy-Item -Path "$SourceDir\*" -Destination $OutputDir -Recurse -Force
-    Write-Host "--- Cópia concluída." -ForegroundColor Green
-    Write-Host
-
-    # --- Passo 3: Executar PersonaEditorCMD.exe (EM PARALELO) ---
-    Write-Host "-------------------------------------------------------"
-    Write-Host "--- Passo 3: Processando arquivos com PersonaEditorCMD (em paralelo)..." -ForegroundColor Cyan
-    Write-Host "AVISO: A ordem das mensagens 'Processando...' pode aparecer misturada. Isso é normal." -ForegroundColor Yellow
-    Write-Host "-------------------------------------------------------"
-
-    # [1/11] Importando Nomes para todos os arquivos
-    Write-Host "-> [1] Importando nomes de 'Names.txt' para todos os arquivos..."
-    $mapArgument = '%OLDNM %NEWNM'
-    Get-ChildItem -Path $OutputDir -Recurse -File | ForEach-Object -Parallel {
-        $file = $_
-        # Dentro de um bloco -Parallel, use $using: para acessar variáveis de fora do escopo.
-        & $using:EditorCmd $file.FullName -imptext "$using:TextDir\Names.txt" /sub /map "%OLDNM %NEWNM" -save /ovrw
-        # A linha abaixo é opcional, mas útil para ver o progresso.
-        Write-Host "  - Nome importado para $($file.Name)"
-    } -ThrottleLimit $ThrottleLimit
-
-    # Mapeamento de pastas para os respectivos arquivos de texto.
-    # *** TODAS AS EXTENSÕES ATUALIZADAS PARA .TXT ***
-    $folderToTxtMap = @{
-        "battle"     = "Battle.txt"
-        "camp"       = "Camp.txt"
-        "commu"      = "commu.txt"
-        "Event_Data" = "event_data.txt"
-        "event"      = "Events.txt"
-        "facility"   = "facility.txt"
-        "field"      = "field.txt"
-        "title"      = "Title.txt"
+# 1.1 - Lógica de busca de diretório
+if ($is64Bit) {
+    Write-Host "`nProcurando a pasta do jogo automaticamente..." -ForegroundColor Cyan
+    
+    # Caminhos padrões da Steam e da pasta padrão do app Xbox
+    $pathsToTest = @(
+        "C:\Program Files (x86)\Steam\steamapps\common\Persona 4 Golden",
+        "C:\XboxGames\Persona 4 Golden\Content"
+    )
+    
+    # Busca por 'SteamLibrary' ou 'XboxGames' em todos os discos menos o C:
+    $otherDrives = Get-PSDrive -PSProvider FileSystem | Where-Object Name -ne 'C'
+    foreach ($drive in $otherDrives) {
+        $pathsToTest += "$($drive.Name):\SteamLibrary\steamapps\common\Persona 4 Golden"
+        $pathsToTest += "$($drive.Name):\XboxGames\Persona 4 Golden\Content"
     }
 
-    # Loop pelas pastas para importar os textos específicos
-    foreach ($folder in $folderToTxtMap.Keys) {
-        $textFile = $folderToTxtMap[$folder]
-        $fullFolderPath = Join-Path -Path $OutputDir -ChildPath $folder
-        
-        Write-Host "-> Processando pasta '$folder' com '$textFile'..."
-        if (Test-Path $fullFolderPath) {
-            Get-ChildItem -Path $fullFolderPath -Recurse -File | ForEach-Object -Parallel {
-                $file = $_
-                & $using:EditorCmd $file.FullName -imptext "$using:TextDir\$($using:textFile)" /sub -save /ovrw
-            } -ThrottleLimit $ThrottleLimit
-        } else {
-            Write-Warning "AVISO: Pasta '$fullFolderPath' não encontrada. Pulando."
+    foreach ($path in $pathsToTest) {
+        if (Test-Path $path) {
+            $gamePath = $path
+            break
         }
     }
-
-    # [10/11] & [11/11] Comandos para arquivos específicos (não precisam de paralelismo)
-    Write-Host "-> Processando arquivos de inicialização..."
-    if (Test-Path "$OutputDir\init.bin") {
-        & $EditorCmd "$OutputDir\init.bin" -imptext "$TextDir\Title.txt" /sub -save /ovrw
-    } else {
-        Write-Warning "AVISO: Arquivo 'init.bin' não encontrado. Pulando."
+    
+    # Se não achou na busca rápida, aciona o Explorer
+    if (-not $gamePath) {
+        Write-Host "O jogo não foi encontrado nos caminhos padrão da Steam/Xbox." -ForegroundColor Yellow
+        Write-Host "Abrindo o explorador de arquivos para você selecionar a pasta manualmente..." -ForegroundColor Yellow
+        $gamePath = Get-FolderBrowser
     }
-    if (Test-Path "$OutputDir\init_free.bin") {
-        & $EditorCmd "$OutputDir\init_free.bin" -imptext "$TextDir\Title.txt" /sub -save /ovrw
-    } else {
-        Write-Warning "AVISO: Arquivo 'init_free.bin' não encontrado. Pulando."
-    }
-    Write-Host
+} else {
+    # Versão 32-bits vai direto pro explorer
+    Write-Host "`nAbrindo o explorador de arquivos para você selecionar a pasta do jogo..." -ForegroundColor Yellow
+    $gamePath = Get-FolderBrowser
+}
 
-    # --- Finalização ---
-    Write-Host "-------------------------------------------------------" -ForegroundColor Green
-    Write-Host "          PROCESSO CONCLUÍDO COM SUCESSO!          " -ForegroundColor Green
-    Write-Host "-------------------------------------------------------" -ForegroundColor Green
+# Verifica se o usuário cancelou a janela de seleção
+if (-not $gamePath) {
+    Write-Host "Instalação cancelada: Nenhuma pasta foi selecionada." -ForegroundColor Red
+    exit
 }
-catch {
-    # Este bloco é executado se o comando 'throw' for chamado
-    Write-Error "Ocorreu um erro fatal durante a execução do script:"
-    Write-Error $_.Exception.Message
+
+Write-Host "Pasta de destino: $gamePath`n" -ForegroundColor Green
+
+# 1.2 - Conecta na API do GitHub para pegar o release mais recente
+Write-Host "Buscando a versão mais recente da tradução no GitHub..." -ForegroundColor Cyan
+$repoUrl = "https://api.github.com/repos/Ahtheerr/P4Golden-Phantasie-Translate/releases/latest"
+$release = Invoke-RestMethod -Uri $repoUrl
+
+# Filtra o arquivo correto baseado na escolha do usuário
+if ($is64Bit) { # É 64-bits
+    # Pega o asset que NÃO tem '32-bits' no nome
+    $asset = $release.assets | Where-Object { $_.name -notmatch "32-bits" }
+} else { # É 32-bits
+    # Pega o asset que TEM '32-bits' no nome
+    $asset = $release.assets | Where-Object { $_.name -match "32-bits" }
 }
-finally {
-    # Este bloco é sempre executado no final, com ou sem erro.
-    Write-Host
-    Read-Host "Pressione Enter para fechar esta janela..."
+
+if (-not $asset) {
+    Write-Host "Erro: Não foi possível encontrar o arquivo .zip para essa versão no último release do GitHub." -ForegroundColor Red
+    exit
 }
+
+# Pega o link exato de download do arquivo escolhido
+$downloadUrl = $asset[0].browser_download_url
+$zipName = $asset[0].name
+$tempZip = Join-Path $env:TEMP $zipName
+$tempExtractDir = Join-Path $env:TEMP "P4G_Tradu_Temp"
+
+# Baixando
+Write-Host "Baixando: $zipName ..." -ForegroundColor Cyan
+Invoke-WebRequest -Uri $downloadUrl -OutFile $tempZip
+
+# 1.3 - Extraindo
+Write-Host "Extraindo os arquivos..." -ForegroundColor Cyan
+if (Test-Path $tempExtractDir) { Remove-Item -Path $tempExtractDir -Recurse -Force }
+Expand-Archive -Path $tempZip -DestinationPath $tempExtractDir -Force
+
+# 1.4 - Movendo os arquivos para a pasta do jogo
+Write-Host "Instalando na pasta do jogo..." -ForegroundColor Cyan
+Copy-Item -Path "$tempExtractDir\*" -Destination $gamePath -Recurse -Force
+
+# Verificação específica para a versão da Microsoft Store / Game Pass
+$folderName = Split-Path $gamePath -Leaf
+if ($folderName -eq "Content") {
+    Write-Host "Versão da Microsoft Store / Game Pass detectada. Ajustando os arquivos..." -ForegroundColor Cyan
+    $asiPath = Join-Path $gamePath "update\PhantasieRussa.ASI"
+    if (Test-Path $asiPath) {
+        Remove-Item -Path $asiPath -Force
+        Write-Host "Arquivo PhantasieRussa.ASI removido para evitar incompatibilidade." -ForegroundColor DarkGray
+    }
+}
+
+# Limpeza
+Write-Host "Limpando arquivos temporários..." -ForegroundColor DarkGray
+Remove-Item -Path $tempZip -Force
+Remove-Item -Path $tempExtractDir -Recurse -Force
+
+Write-Host "`nTradução instalada com sucesso! Aproveite o jogo." -ForegroundColor Green
