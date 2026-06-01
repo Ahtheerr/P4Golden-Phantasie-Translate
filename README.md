@@ -13,7 +13,7 @@ Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada
    ```
 2. Linux: Mesma coisa que o Windows mas com o Terminal e esse link:
    ```
-   curl -sL [https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/main/install.sh](https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/main/install.sh) | bash
+   curl -sL https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/refs/heads/main/Install.sh | bash
    ```
 ---
 
