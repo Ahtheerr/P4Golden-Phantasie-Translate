@@ -15,6 +15,8 @@ Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada
    ```
    curl -sL https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/refs/heads/main/Install.sh | bash
    ```
+
+   Olhe mais abaixo para um detalhe obrigatório para funcionar no Linux.
 ---
 
 ### Método 2: Instalação Manual (Caso o instalador falhe)
