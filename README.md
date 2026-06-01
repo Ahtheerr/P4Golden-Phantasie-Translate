@@ -15,10 +15,15 @@ Tradução completa de **Persona 4 Golden** para Português do Brasil, realizada
 # 🛠️ Como Instalar
 
 ### Método 1: Instalação Automática (Recomendado)
-1. Baixe o **Release** mais recente no link acima.
-2. Execute o arquivo `Instalador Tradução P4G.exe`.
-3. Selecione a versão do seu jogo (Steam ou Game Pass).
-4. Siga as instruções na tela.
+1. Windows: Abra seu PowerShell (já vem instalado no windows), cole e dê enter nisso:
+
+   ```
+   irm https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/refs/heads/main/Install.ps1 | iex
+   ```
+2. Linux: Mesma coisa que o Windows mas com o Terminal e esse link:
+   ```
+   curl -sL [https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/main/install.sh](https://raw.githubusercontent.com/Ahtheerr/P4Golden-Phantasie-Translate/main/install.sh) | bash
+   ```
 ---
 
 ### Método 2: Instalação Manual (Caso o instalador falhe)
